@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "panstwo-w-panstwie-corpus"
+version = "0.1.0"
+description = "Audytowalny pipeline PDF -> Markdown/JSONL dla książki Państwo w Państwie"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["PyMuPDF>=1.24,<2.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+pwp-ingest = "pwp_ingest.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
