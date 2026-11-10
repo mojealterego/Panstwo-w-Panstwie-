@@ -1,17 +1,16 @@
 {
   "schema_version": 1,
   "document_id": "chat-batch-002-slot-08",
+  "batch_id": "batch-002",
   "source_kind": "chat_attachment_text_preview",
   "source_ref": "turn108file7",
   "source_sha256": null,
   "original_filename": null,
   "page_count": 3,
-  "page_characters": [
-    2686,
-    3208,
-    2007
-  ],
   "quality_status": "awaiting_binary_pdf",
   "fact_check_status": "unverified_source_material",
-  "canonical_import": false
+  "canonical_import": false,
+  "topic": "Łęczna — Lubelskie Imperium Inwigilacji",
+  "preview_text_duplicate_of": null,
+  "duplicate_confidence": null
 }

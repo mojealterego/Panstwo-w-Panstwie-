@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "document_id": "chat-batch-002-slot-10",
+  "batch_id": "batch-002",
+  "source_kind": "chat_attachment_text_preview",
+  "source_ref": "turn108file9",
+  "source_sha256": null,
+  "original_filename": null,
+  "page_count": 3,
+  "quality_status": "awaiting_binary_pdf",
+  "fact_check_status": "unverified_source_material",
+  "canonical_import": false,
+  "topic": "Łęczna — Folwark na Jaśminowej",
+  "preview_text_duplicate_of": "chat-batch-002-slot-09",
+  "duplicate_confidence": "same_extracted_preview",
+  "page_characters": [
+    3013,
+    3224,
+    2499
+  ]
+}

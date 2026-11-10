@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "document_id": "chat-batch-002-slot-07",
+  "batch_id": "batch-002",
+  "source_kind": "chat_attachment_text_preview",
+  "source_ref": "turn108file6",
+  "source_sha256": null,
+  "original_filename": null,
+  "page_count": 3,
+  "quality_status": "awaiting_binary_pdf",
+  "fact_check_status": "unverified_source_material",
+  "canonical_import": false,
+  "topic": "Annopol — Lubelskie Eldorado",
+  "preview_text_duplicate_of": "pdf-c05be847e9d8021742d2dcd1",
+  "duplicate_confidence": "preview_consistent",
+  "page_characters": [
+    2600,
+    3392,
+    2050
+  ]
+}
