@@ -1,0 +1,62 @@
+{
+  "batch_id": "batch-003",
+  "source_pdf_sha256_verified": true,
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "new_document_count": 4,
+  "previously_indexed_count": 1,
+  "source_page_count": 16,
+  "new_unique_pages": 13,
+  "canonical_total_documents": 17,
+  "canonical_total_pages": 94,
+  "total_receipts": 20,
+  "duplicate_pairs": 5,
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "extraction_engine": "attached PDF page parser; source byte SHA-256 verified locally",
+  "originals": [
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(19).PDF",
+      "source_sha256": "3c72d41ede3605285e497a06516421de5bf9c277a5c075db52ff1f0c5b726f00",
+      "document_id": "pdf-3c72d41ede3605285e497a06",
+      "pages": 3,
+      "already_indexed": true
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(20).PDF",
+      "source_sha256": "f2a072fac8251030cb9ed0d06e7f8c236a4532f116be3eb189e3d6288bac26df",
+      "document_id": "pdf-f2a072fac8251030cb9ed0d0",
+      "text_sha256": "0cd011023034ff009e61f56f884bd8ed9f7dfb1b3359e477d54de866e9a57f3a",
+      "pages": 3,
+      "topic": "Lublin — MOPR, finansowanie i organizacje pomocowe",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(21).PDF",
+      "source_sha256": "d19da7a41625d9c33e717910546545a4db41ae8b02e254cd1aae13945f161b10",
+      "document_id": "pdf-d19da7a41625d9c33e717910",
+      "text_sha256": "6ce4d867dede503b73f61a54933fca0eae8067439ccd660a45e9df68328c6538",
+      "pages": 3,
+      "topic": "Cieszyn — MOPS, Być Razem i dostępność pomocy",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(22).PDF",
+      "source_sha256": "0390036fefba0973ead89ec821141d313bd3ab302a4cee35325643c382f5ae69",
+      "document_id": "pdf-0390036fefba0973ead89ec8",
+      "text_sha256": "b07f666bfc21fbc564b22ff7f7bf3793d45323d35bbaf5ac652d608767b0b194",
+      "pages": 4,
+      "topic": "Fundusz Sprawiedliwości — dotacje i kontrole",
+      "structured_tables": 1
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(23).PDF",
+      "source_sha256": "38ee245fda3d978ba9d861bfe4cee7040973bfa66b8faca58f270e82e87325d1",
+      "document_id": "pdf-38ee245fda3d978ba9d861bf",
+      "text_sha256": "02cd9e8573134f21265ef9cf044920a57b17e8f5015af153e863c70dd3857f4f",
+      "pages": 3,
+      "topic": "Sejm — nowelizacja przepisów o przemocy domowej",
+      "structured_tables": 0
+    }
+  ]
+}

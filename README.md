@@ -53,10 +53,11 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-**13 unikatowych plików PDF / 81 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **15 rekordów przyjęcia** w `corpus/receipts.jsonl`, z zachowaniem ponownego wystąpienia plików 15 i 16 w drugiej partii. Oryginały binarne PDF są archiwizowane poza publicznym repozytorium.
+**17 unikatowych PDF-ów / 94 strony** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **20 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
-- **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md). Transkrypcje tymczasowe i ich mapowanie pozostają w [staging](corpus/staging/batch-002/).
+- **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
+- **batch-003:** 5 oryginałów, 16 stron (4 nowe dokumenty, 13 nowych unikatowych stron; PDF 19 był już w indeksie) — [raport](docs/batches/batch-003.md). Tabela z PDF 22, strona 3, jest również dostępna w formatach Markdown i JSON.
 - **Niedostarczone:** sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

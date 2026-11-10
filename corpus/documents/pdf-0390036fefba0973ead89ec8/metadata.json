@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "document_id": "pdf-0390036fefba0973ead89ec8",
+  "source_sha256": "0390036fefba0973ead89ec821141d313bd3ab302a4cee35325643c382f5ae69",
+  "text_sha256": "b07f666bfc21fbc564b22ff7f7bf3793d45323d35bbaf5ac652d608767b0b194",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(22).PDF"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    2821,
+    3334,
+    3206,
+    309
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-0390036fefba0973ead89ec8/document.md",
+  "text_path": "documents/pdf-0390036fefba0973ead89ec8/document.txt",
+  "structured_tables": [
+    {
+      "page": 3,
+      "json_path": "documents/pdf-0390036fefba0973ead89ec8/tables/0003.json",
+      "markdown_path": "documents/pdf-0390036fefba0973ead89ec8/tables/0003.md",
+      "extraction_method": "PyMuPDF page.find_tables"
+    }
+  ]
+}
