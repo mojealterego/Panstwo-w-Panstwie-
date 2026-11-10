@@ -9,7 +9,7 @@
   "canonical_total_pages": 476,
   "total_receipts": 95,
   "source_pdf_sha256_verified": true,
-  "raw_pdf_in_repo": false,
+  "raw_pdf_in_repo": true,
   "fact_check_status": "unverified_source_material",
   "quality_status": "extracted",
   "recognized_tables_count": 0,
@@ -88,5 +88,6 @@
       "structured_tables": 0,
       "topic": "Abramów — zespół interdyscyplinarny, procedura Niebieskie Karty"
     }
-  ]
+  ],
+  "original_pdf_repo_dir": "corpus/originals/batch-015/"
 }

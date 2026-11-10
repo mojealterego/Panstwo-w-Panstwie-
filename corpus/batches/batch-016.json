@@ -13,7 +13,7 @@
   "new_duplicate_pairs": 0,
   "exact_page_duplicate_pairs": 0,
   "extraction_engine": "PyMuPDF 1.26.7 get_text(sort=True)",
-  "raw_pdf_in_repo": "planned (GitHub commit receipt pending)",
+  "raw_pdf_in_repo": true,
   "originals": [
     {
       "filename": "ABORCYJNY HOLDING I SĄDOWY SZANTAŻ_.pdf",
@@ -135,5 +135,6 @@
       "quality_status": "extracted",
       "topic": "Bieruń — MOPS, sprawy pracownicze i zespół interdyscyplinarny"
     }
-  ]
+  ],
+  "original_pdf_repo_dir": "corpus/originals/batch-016/"
 }
