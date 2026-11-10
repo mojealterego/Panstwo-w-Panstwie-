@@ -12,6 +12,7 @@ Każda strona zachowuje numerację 1-based. Korpus zapisuje:
 - `index.jsonl`: jeden wiersz na unikatowy hash źródłowy;
 - `duplicates.json`: pary potencjalnych duplikatów tekstowych i dokumentów zagnieżdżonych;
 - `review_queue.jsonl`: strony wymagające kontroli z oryginałem.
+- `receipts.jsonl`: rejestr każdego pliku wejściowego z numerem partii, względną ścieżką i SHA-256 (bez ujawniania absolutnych ścieżek lokalnych).
 
 ## Algorytm podobieństwa
 
@@ -27,7 +28,7 @@ Limit pojedynczego PDF: 150 MiB. Zaszyfrowane i uszkodzone PDF-y są odrzucane z
 
 1. Zachowaj wszystkie oryginały w osobnym, zabezpieczonym archiwum.
 2. Umieść je w `incoming/batch-001/`, `incoming/batch-002/` itd. Nazwy w różnych katalogach mogą się powtarzać.
-3. Uruchom `pwp-ingest ingest incoming/batch-001 --output corpus`.
+3. Uruchom `pwp-ingest ingest incoming/batch-001 --output corpus --batch-id batch-001`.
 4. Sprawdź `review_queue.jsonl`, `duplicates.json` i porównaj losowe strony z oryginałem.
 5. Sporządź raport przyjęcia: liczba PDF-ów, nowe hashe, duplikaty bajtowe, zbieżności tekstowe, błędy/OCR.
 6. Przed publikacją w GitHub dokonaj przeglądu danych osobowych i zarzutów. Nigdy nie publikuj surowych PDF-ów automatycznie.
