@@ -1,0 +1,64 @@
+{
+  "batch_id": "batch-004",
+  "source_pdf_sha256_verified": true,
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "new_document_count": 5,
+  "previously_indexed_count": 0,
+  "source_page_count": 15,
+  "new_unique_pages": 15,
+  "canonical_total_documents": 22,
+  "canonical_total_pages": 109,
+  "total_receipts": 25,
+  "duplicate_pairs": 5,
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "extraction_engine": "attached PDF page parser; source byte SHA-256 verified locally",
+  "originals": [
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(24).PDF",
+      "source_sha256": "411d62ed3c0a2294a28901b4d771b6eb35daf68898fd1937fc8a261bd4659008",
+      "document_id": "pdf-411d62ed3c0a2294a28901b4",
+      "text_sha256": "67b78146ff26a1d23e6fb2696833c8a27817954c4ad6fe67f97b5b7f0bb80b40",
+      "pages": 3,
+      "topic": "Senat RP — legislacja i petycje dotyczące prawa rodzinnego",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(25).PDF",
+      "source_sha256": "5d31d49fa3655d09e05578ca772392283bfbec01ad8cdbdeff5d041879e82074",
+      "document_id": "pdf-5d31d49fa3655d09e05578ca",
+      "text_sha256": "b06931762460ab65066456b362adfaac1f834fba7dc88a49276a5a760dcc0acb",
+      "pages": 3,
+      "topic": "Prezydent RP — podpisy ustaw i petycje dotyczące prawa rodzinnego",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(26).PDF",
+      "source_sha256": "2c6ff17cb3f41c3f06a474f24807e161a4039a04303dca29c19d536c5f5bb010",
+      "document_id": "pdf-2c6ff17cb3f41c3f06a474f2",
+      "text_sha256": "5594b1a17a76b6bd2eb40bb08ba4fc3df74037873f9819989f4747995e917f00",
+      "pages": 3,
+      "topic": "Partie polityczne — Fundusz Sprawiedliwości i finansowanie",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(27).PDF",
+      "source_sha256": "25e4ddfbf7ea7d75fcb9a467914698a65d48293b5d310e6af8c51d4324021951",
+      "document_id": "pdf-25e4ddfbf7ea7d75fcb9a467",
+      "text_sha256": "698ee64bdc2d098d33c98727cc4bd66fd891256703e9271ae59b9f71a031f031",
+      "pages": 3,
+      "topic": "Rzecznik Praw Dziecka — wydatki i postępowania",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(28).PDF",
+      "source_sha256": "8189ffe29a6ec13e04ccff4370c391c408347f383522592fad10d4a4f0a56fea",
+      "document_id": "pdf-8189ffe29a6ec13e04ccff43",
+      "text_sha256": "93ab0b0714cc7b89b9aaca742e4f338d79a705b856c1bb21a2a8a8aecad59ec8",
+      "pages": 3,
+      "topic": "Zespoły interdyscyplinarne — finansowanie i statystyki",
+      "structured_tables": 0
+    }
+  ]
+}

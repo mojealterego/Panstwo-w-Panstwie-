@@ -1,0 +1,109 @@
+# Dokument źródłowy pdf-8189ffe29a6ec13e04ccff43
+
+> Transkrypcja automatyczna. Treść źródła nie jest weryfikacją zawartych w nim twierdzeń.
+
+## Strona 1
+
+GIGANTYCZNA PRALNIA PAPIERU I
+PIENIĘDZY. 2477 Zespołów
+Interdyscyplinarnych jako ogólnopolski
+syndykat wyzysku
+Przez 35 lat pracy śledczej widziałem wiele skorumpowanych i niewydolnych instytucji, ale to,
+co państwo polskie stworzyło pod płaszczykiem ochrony rodziny, jest ewenementem na skalę
+światową. W Polsce mamy dokładnie 2477 gmin. Zgodnie z ustawą, każda z nich musi
+bezwzględnie powołać i utrzymać Zespół Interdyscyplinarny ds. Przeciwdziałania Przemocy
+Domowej.
+Daje nam to potężną, ogólnopolską armię 2477 urzędniczych trybunałów, w których zasiadają
+dziesiątki tysięcy urzędników, policjantów i działaczy organizacji pozarządowych. Oficjalnie to
+tarcza mająca chronić najsłabszych. W rzeczywistości, opierając się na twardych raportach
+organów kontrolnych, udowadniam, że jest to rozsiana po całym kraju sieć pasożytniczych
+komórek, które żyją z rozpadu rodzin, generują fałszywe oskarżenia i wyprowadzają miliony
+złotych z budżetu państwa.
+Oto bezkompromisowa sekcja zwłok polskiego systemu „Niebieskich Kart”.
+
+1. ZŁOTA KROPLÓWKA DLA 2477 GMIN. Finansowanie biurokracji z
+automatu
+Ten gigantyczny aparat ucisku nie przetrwałby dnia, gdyby nie potężne zasilanie z pieniędzy
+podatników. Jak zmusza się 2477 wójtów, burmistrzów i prezydentów miast do utrzymywania
+rozbudowanych Zespołów Interdyscyplinarnych? Poprzez korupcję instytucjonalną.
+Zgodnie z założeniami Rządowego Programu Przeciwdziałania Przemocy Domowej na lata
+2024-2030, każda jednostka samorządu terytorialnego w Polsce otrzymuje z budżetu państwa
+(w formie dotacji celowej) gwarantowany ryczałt w wysokości 6 000 złotych rocznie. Te
+pieniądze nie idą na schroniska dla ofiar, ani na pomoc prawną. Są przeznaczone wyłącznie na
+„dofinansowanie funkcjonowania zespołów interdyscyplinarnych”.
+Pomnóżmy to przez 2477 gmin. Daje to niemal 15 milionów złotych wyrzucanych co roku w
+błoto tylko po to, by Zespoły mogły kupować papier do drukarek, organizować jałowe spotkania i
+wypłacać dodatki. A to zaledwie wierzchołek finansowej góry lodowej. Tylko w 2024 roku budżet
+centralny na Specjalistyczne Ośrodki Wsparcia zaplanowano na kwotę ponad 2,5 miliona
+złotych, a kolejne setki tysięcy rzuca się na programy dla sprawców. Rząd potrafi być przy tym
+skrajnie niegospodarny na najwyższym szczeblu – NIK udowodniła niedawno, że organy
+centralne (KPRM i Ministerstwo Finansów) zmarnotrawiły nieefektywnie ponad 148 milionów
+złotych na same kampanie społeczne, co poskutkowało zawiadomieniem do prokuratury.
+
+2. 183 TYSIĄCE KART I 30 TYSIĘCY OFIAR. Zdemaskowanie wielkiego
+oszustwa statystycznego
+Co obywatele dostają w zamian za te miliony? Odpowiedź brzmi: fabrykę makulatury.
+
+## Strona 2
+
+Najwyższa Izba Kontroli, wchodząc do Ośrodków Pomocy Społecznej w całym kraju,
+zdiagnozowała systemową chorobę: gigantyczną, nadmierną biurokratyzację. Tysiące
+urzędników toną w drukach do wypełnienia, co drastycznie uszczupla czas na zwykłą rozmowę
+z obywatelem.
+Prawdziwym „smoking gun” tego śledztwa są jednak oficjalne statystyki przedstawione w
+Senacie w grudniu 2023 r. Z danych Ministerstwa Rodziny za 2022 rok wyłania się obraz
+totalnego absurdu: w Polsce wszczęto ponad 183 tysiące procedur „Niebieskiej Karty”, podczas
+gdy z realnego wsparcia dla ofiar przemocy skorzystało zaledwie około 30 tysięcy osób.
+Co zatem kryje się za ponad 150 tysiącami pozostałych postępowań? To czysta statystyczna
+fikcja. To fałszywe oskarżenia, masowo generowane druki i sprawy zamykane z powodu braku
+dowodów. System musi pochłaniać ogromne liczby obywateli, aby uzasadnić istnienie 2477
+Zespołów Interdyscyplinarnych i ciągły napływ rządowych dotacji.
+
+3. ZALEGALIZOWANY STALKING. Przemoc urzędnicza bez zgody
+obywatela
+Masowe nabijanie statystyk nie byłoby możliwe, gdyby państwo nie wyposażyło urzędników w
+narzędzia rodem z państw totalitarnych. W publicznym dyskursie mówi się, że „Niebieska Karta”
+ma pomagać. Jednak przepisy, na których pracują Zespoły Interdyscyplinarne, są
+zaprojektowane do inwigilacji.
+Zgodnie z obowiązującym rozporządzeniem z 13 września 2023 r., wszczęcie i prowadzenie
+procedury w ogóle nie wymaga zgody osoby rzekomo doznającej przemocy. Wystarczy tylko
+jedno „uzasadnione podejrzenie” ze strony pracownika socjalnego, policjanta lub nauczyciela.
+Co więcej, przepisy wprost nakazują urzędnikom z grup diagnostyczno-pomocowych
+kontynuowanie inwigilacji rodziny nawet wtedy, gdy domniemana ofiara odmawia udziału – w
+dokumencie czytamy bezwzględnie: „niestawiennictwo osoby doznającej przemocy domowej
+nie wstrzymuje prac”.
+A gdy procedura zostanie już rzekomo zakończona? Koszmar trwa dalej. Urzędnicy mają
+ustawowe prawo (zgodnie z art. 9h) do tzw. „działań monitorujących” przez kolejne 9 miesięcy.
+Urzędnik w majestacie prawa puka do drzwi i wchodzi w prywatne życie obywatela. To
+zalegalizowany stalking państwowy, z którego zrujnowana przez procedury rodzina nie ma jak
+się wydostać.
+
+4. PRZEMYSŁ ROZWODOWY. Złote żniwa kancelarii i fundacji
+Taka konstrukcja prawa to wymarzone narzędzie dla przemysłu rozwodowego. Raport Instytutu
+Wymiaru Sprawiedliwości autorstwa dr. Marcina Białeckiego, jak i analizy ekspertów wprost
+obnażają, że „Niebieska Karta” jest masowo i nielojalnie wykorzystywana na etapie postępowań
+rozwodowych i walki o alimenty.
+Złożenie bezpodstawnego zawiadomienia nie niesie za sobą praktycznie żadnego ryzyka
+karnego dla oskarżającego. Założenie karty na kilka tygodni przed rozprawą rozwodową to
+najtańsza i najskuteczniejsza metoda, by odebrać mężowi wiarygodność przed sądem i
+wykluczyć go z opieki nad dziećmi.
+Z tego konfliktu potężne zyski czerpie trzeci sektor. To zideologizowane organizacje, takie jak
+np. Fundacja Feminoteka, stoją za narzucaniem politykom narracji o konieczności karania i
+doszukiwania się „przemocy z perspektywy płci”. Następnie, zdiagnozowani sprawcy – często
+będący jedynie stroną burzliwego rozwodu – są wysyłani przez 2477 Zespołów
+
+## Strona 3
+
+Interdyscyplinarnych na przymusowe programy korekcyjno-edukacyjne. Państwo płaci z
+budżetu fundacjom i firmom szkoleniowym ogromne pieniądze za „naprawianie” tych ludzi.
+Efekt? Jak ustaliła NIK, programy te to absolutna fikcja – na 167 osób, które w badanych
+placówkach rozpoczęły szkolenia, ukończyło je zaledwie 77.
+
+KONKLUZJA
+2477 Zespołów Interdyscyplinarnych to nic innego jak ogólnopolska sieć korporacyjna. Aparat
+ten nie zajmuje się leczeniem ran polskiego społeczeństwa, ale masową produkcją biurokracji i
+statystyk. Z każdą niepotrzebnie założoną kartą, bez zgody ofiary i z pominięciem domniemania
+niewinności, system uzasadnia swoje istnienie i połyka kolejne pule rządowych i unijnych
+dotacji. Obywatel – mąż, żona czy dziecko – w zderzeniu z tą gigantyczną, napędzaną przez
+kancelarie i fundacje maszyną nie ma żadnych praw. Jest wyłącznie surowcem do przerobienia
+na kolejny formularz, który zapewni finansowanie systemu na następny rok.
