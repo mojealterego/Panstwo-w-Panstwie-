@@ -8,6 +8,13 @@
     "shared_shingles": 1123
   },
   {
+    "left_document_id": "pdf-3b0b51ee7c46fa5536eb2f0e",
+    "right_document_id": "pdf-5f7db050861bc7f40b971cd1",
+    "relation": "exact_text",
+    "jaccard": 1,
+    "containment": 1
+  },
+  {
     "left_document_id": "pdf-3c72d41ede3605285e497a06",
     "right_document_id": "pdf-732ee27637b976af87dcd801",
     "relation": "exact_text",
