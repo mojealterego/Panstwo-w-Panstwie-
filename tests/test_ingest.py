@@ -135,3 +135,25 @@ def test_page_markers_preserve_traceability(tmp_path: Path) -> None:
     assert "## Strona 2" in body
     assert (doc_dir / "pages" / "0001.md").exists()
     assert (doc_dir / "pages" / "0002.md").exists()
+
+
+def test_receipts_keep_every_occurrence_across_batches(tmp_path: Path) -> None:
+    root = tmp_path / "incoming"
+    make_pdf(root / "folder_a" / "raport.pdf", "Dokument A. " * 40)
+    make_pdf(root / "folder_b" / "raport.pdf", "Dokument B. " * 40)
+    out = tmp_path / "corpus"
+
+    ingest_paths([root], out, ocr_enabled=False, batch_id="partia-001")
+    receipts_path = out / "receipts.jsonl"
+    first = [json.loads(line) for line in receipts_path.read_text(encoding="utf-8").splitlines()]
+    assert len(first) == 2
+    assert {row["source_relative_path"] for row in first} == {
+        "folder_a/raport.pdf", "folder_b/raport.pdf"
+    }
+    assert len({row["source_sha256"] for row in first}) == 2
+
+    ingest_paths([root], out, ocr_enabled=False, batch_id="partia-001")
+    assert [json.loads(line) for line in receipts_path.read_text(encoding="utf-8").splitlines()] == first
+
+    ingest_paths([root], out, ocr_enabled=False, batch_id="partia-002")
+    assert len(receipts_path.read_text(encoding="utf-8").splitlines()) == 4
