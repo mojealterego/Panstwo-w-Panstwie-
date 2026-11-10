@@ -16,3 +16,7 @@ Dla wszystkich pięciu załączników zapisano `document.md`, `document.txt`, `p
 Po uzyskaniu bajtów PDF uruchomić `pwp-ingest` z `--batch-id batch-002`, porównać każdą stronę z transkrypcją tymczasową, przypisać rzeczywiste sumy SHA-256, a dopiero potem uznać import za ukończony. Nie usuwać rekordów przyjęcia tylko dlatego, że teksty są takie same.
 
 Pięć wcześniejszych pozycji potencjalnej partii (sloty 01–05) nie zostało odczytanych w dostępnej sesji i nie zostało tu zmyślonych ani oznaczonych jako przetworzone.
+
+## Rozwiązanie statusu — 2026-11-10
+
+Oryginalne PDF-y dla slotów 06–10 zostały następnie odczytane i zweryfikowane. **Historyczne pliki staging zachowano bez zmian** dla audytu; aktualny stan i mapowanie do rekordów kanonicznych są w [`resolution.json`](resolution.json). Status `awaiting_binary_pdf` w historycznych metadanych oznacza stan z chwili pierwotnego przyjęcia, nie bieżący. Sloty 01–05 nadal nie są dostępne.

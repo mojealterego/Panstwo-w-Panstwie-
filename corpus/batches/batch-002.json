@@ -1,0 +1,54 @@
+{
+  "batch_id": "batch-002",
+  "source_pdf_sha256_verified": true,
+  "raw_pdf_in_repo": false,
+  "extraction_engine": "files.read parsed PDF text; locally verified source byte SHA-256; exact staging page comparison",
+  "fact_check_status": "unverified_source_material",
+  "document_count": 5,
+  "new_document_count": 3,
+  "already_indexed_document_count": 2,
+  "page_count": 15,
+  "new_unique_pages": 9,
+  "canonical_total_documents": 13,
+  "canonical_total_pages": 81,
+  "pending_slots": [
+    "slot-01",
+    "slot-02",
+    "slot-03",
+    "slot-04",
+    "slot-05"
+  ],
+  "source_files": [
+    {
+      "name": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(15).PDF",
+      "sha256": "c05be847e9d8021742d2dcd16b91a56d1305ea5da827ca63d299206c5171dd2c",
+      "pages": 3,
+      "document_id": "pdf-c05be847e9d8021742d2dcd1"
+    },
+    {
+      "name": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(16).PDF",
+      "sha256": "d5c3679c9edde172b32dd104fdfef524d0b2632db3388a26d1b4c4f066543f89",
+      "pages": 3,
+      "document_id": "pdf-d5c3679c9edde172b32dd104"
+    },
+    {
+      "name": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(17).PDF",
+      "sha256": "6edbf3eec296b875e3cb12cf9e24337bd653c143601657e3df5396819ed21964",
+      "pages": 3,
+      "document_id": "pdf-6edbf3eec296b875e3cb12cf"
+    },
+    {
+      "name": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(18).PDF",
+      "sha256": "732ee27637b976af87dcd8010d07ba98b9617a65107f264fcc79c3da44d87d53",
+      "pages": 3,
+      "document_id": "pdf-732ee27637b976af87dcd801"
+    },
+    {
+      "name": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(19).PDF",
+      "sha256": "3c72d41ede3605285e497a06516421de5bf9c277a5c075db52ff1f0c5b726f00",
+      "pages": 3,
+      "document_id": "pdf-3c72d41ede3605285e497a06"
+    }
+  ],
+  "duplicate_pairs": 5
+}

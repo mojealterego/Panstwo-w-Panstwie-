@@ -53,10 +53,10 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-Partia `batch-001`: **10 rzeczywistych PDF-ów / 72 strony**. Pełne transkrypcje Markdown i TXT, pliki stron, metadane i indeksy znajdują się w `corpus/`. Raport: [docs/batches/batch-001.md](docs/batches/batch-001.md).
+**13 unikatowych plików PDF / 81 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **15 rekordów przyjęcia** w `corpus/receipts.jsonl`, z zachowaniem ponownego wystąpienia plików 15 i 16 w drugiej partii. Oryginały binarne PDF są archiwizowane poza publicznym repozytorium.
 
-Każdy dokument ma identyfikator SHA-256 oryginalnych bajtów. W repozytorium opublikowano **tekst**, natomiast oryginalne pliki binarne PDF pozostają w osobnym pakiecie archiwalnym. Wszystkie zarzuty i interpretacje w źródłach mają status `unverified_source_material`.
+- **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
+- **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md). Transkrypcje tymczasowe i ich mapowanie pozostają w [staging](corpus/staging/batch-002/).
+- **Niedostarczone:** sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
-### Partia 002 — weryfikacja w toku
-
-Pięć podglądów załączników (`turn108file5`–`turn108file9`, łącznie 15 stron) zapisano w [`corpus/staging/batch-002/`](corpus/staging/batch-002/) jako **transkrypcje tymczasowe**, nie kanoniczne importy PDF. Każdy załącznik ma osobny rekord, także przy zgodności tekstu. [Raport](docs/batches/batch-002.md). Brak dostępu do oryginalnych bajtów PDF oznacza, że ich nazwy i SHA-256 pozostają nieustalone. Pozostałych pięciu pozycji tej partii nie oznaczono jako przetworzonych.
+Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.
