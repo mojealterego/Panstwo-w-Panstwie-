@@ -1,0 +1,81 @@
+{
+  "batch_id": "batch-009",
+  "canonical_total_documents": 47,
+  "canonical_total_pages": 188,
+  "extraction_engine": "PyMuPDF embedded_text with 1-based page numbering; SHA-256 over exact original PDF bytes",
+  "fact_check_status": "unverified_source_material",
+  "missing_number_53_not_received": true,
+  "new_document_count": 5,
+  "new_unique_pages": 15,
+  "originals": [
+    {
+      "document_id": "pdf-c39a5edb045a24a237c65b8f",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(49).PDF",
+      "number": 49,
+      "pages": 3,
+      "size_bytes": 102340,
+      "source_sha256": "c39a5edb045a24a237c65b8f9a79e429f90d1cf14310bb2e25afb74cfc2f6cc8",
+      "structured_tables": 0,
+      "text_sha256": "4df6a6fd64402248feefa3d7545a24489c1728be26e2ba85d83a21e1e9aa8599",
+      "topic": "Avast Foundation, Jumpshot i finansowanie Panoptykonu"
+    },
+    {
+      "document_id": "pdf-8c25955effbef42f1f96ee66",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(50).PDF",
+      "number": 50,
+      "pages": 3,
+      "size_bytes": 99226,
+      "source_sha256": "8c25955effbef42f1f96ee663f2a8821c13e5a1b4f4b9493c68e92198fc863b7",
+      "structured_tables": 0,
+      "text_sha256": "e8da5277a0a873d1d26aca89b13a78bf4e4cc40cb3afd33deff0e4030b645f0b",
+      "topic": "Oak Foundation, prywatność komunikacji i Chat Control"
+    },
+    {
+      "document_id": "pdf-c4ee5756827c9ae496c58581",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(51).PDF",
+      "number": 51,
+      "pages": 3,
+      "size_bytes": 95181,
+      "source_sha256": "c4ee5756827c9ae496c58581e7676c0a6c897413103b5459912a09175088ac09",
+      "structured_tables": 0,
+      "text_sha256": "ca96d19849d698259bdedad99b45a86829c6e1e7d2681ac453027c7f55d59e96",
+      "topic": "Mama Cash, granty i ich wykorzystanie"
+    },
+    {
+      "document_id": "pdf-eeb20cfbc31ac7865ec9d1ad",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(52).PDF",
+      "number": 52,
+      "pages": 3,
+      "size_bytes": 106868,
+      "source_sha256": "eeb20cfbc31ac7865ec9d1aded15345c233f558703eb2f7af2596d3efa2ff6ab",
+      "structured_tables": 0,
+      "text_sha256": "dd35220db734e26b1c20cdd4cc5fa9feb85d4793d0e39f3f8c37bff288a6e8d4",
+      "topic": "Chanel / Fondation Chanel, FemFund i finansowanie społeczne"
+    },
+    {
+      "document_id": "pdf-08a147dfeaf21ac51ab0be36",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(54).PDF",
+      "number": 54,
+      "pages": 3,
+      "size_bytes": 99577,
+      "source_sha256": "08a147dfeaf21ac51ab0be3660e6395c8e02fd4d4c305f53f4f49c060b9f8ae6",
+      "structured_tables": 0,
+      "text_sha256": "81be4200f88bcc1047448d9c61c2670f28f16f323c1c7b743487e2b928df7d3c",
+      "topic": "NIW-CRSO, konkursy grantowe i kontrola środków publicznych"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "quality_status": "extracted",
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "source_page_count": 15,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 50,
+  "unresolved_older_batch_002_slots": [
+    "slot-01",
+    "slot-02",
+    "slot-03",
+    "slot-04",
+    "slot-05"
+  ]
+}

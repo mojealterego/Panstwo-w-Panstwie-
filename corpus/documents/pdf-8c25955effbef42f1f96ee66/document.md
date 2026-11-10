@@ -1,0 +1,128 @@
+# Dokument źródłowy pdf-8c25955effbef42f1f96ee66
+
+> Transkrypcja automatyczna. Treść źródła nie jest weryfikacją zawartych w nim twierdzeń.
+
+## Strona 1
+
+SZWAJCARSKI SEJF I KONTROLA
+UMYSŁÓW. Oak Foundation: Miliardy z
+rajów podatkowych, inwigilacja czatów i
+kupowanie unijnego prawa
+
+Największe zagrożenia dla naszej prywatności i suwerenności nie rodzą się na ulicach podczas
+głośnych protestów, lecz w sterylnie czystych, niedostępnych dla zwykłego śmiertelnika
+gabinetach w Szwajcarii. Kiedy podążamy szlakiem pieniędzy zasilających organizacje
+pozarządowe na całym świecie, natrafiamy na instytucję, która pod płaszczykiem szlachetnej
+działalności charytatywnej i walki o prawa człowieka zbudowała prawdziwe imperium lobbingu i
+inwigilacji.
+Mowa o Oak Foundation – potężnym, prywatnym funduszu. Dysponując budżetami
+przekraczającymi budżety niejednego państwa, organizacja ta nie tylko optymalizuje swoje
+finanse poprzez raje podatkowe i szwajcarską tajemnicę, ale przede wszystkim ładuje dziesiątki
+milionów dolarów w forsowanie prawa, które ma pozwolić na legalne, masowe skanowanie
+naszych prywatnych wiadomości.
+Oto mroczna prawda o tym, jak miliarderzy kupują sobie prawo do kontrolowania europejskich
+obywateli.
+
+1. GENEWSKA OMERTA I RAJ PODATKOWY W JERSEY. Skąd
+pochodzą te miliardy?
+
+Aby zrozumieć potęgę Oak Foundation, musimy cofnąć się do 1983 roku i spojrzeć na źródło
+tego kapitału. Fundacja została założona przez miliardera Alana M. Parkera, który zbił
+gigantyczną fortunę jako współzałożyciel imperium sklepów wolnocłowych DFS Group.
+Gdzie zarejestrowano główną siedzibę tego "dobroczynnego" molocha? Oczywiście w Genewie.
+Wybór Szwajcarii nie był przypadkowy. Jak otwarcie przyznają eksperci finansowi, Genewa
+przyciąga wielkie międzynarodowe fundacje z dwóch powodów: maksymalnych przywilejów
+podatkowych (zwolnienia z podatków sięgające 20% dochodów) oraz niemal świętego,
+nienaruszalnego prawa do tajemnicy. W tym szwajcarskim mieście panuje żelazna zasada: „nie
+pokazuje się w przestrzeni publicznej tego, co się posiada, ani tego, co się daje”. Taka
+systemowa tajemnica budzi ogromne kontrowersje, a przez wielu analityków jest wprost
+postrzegana jako mechanizm pozwalający fundacjom na ucieczkę przed kontrolą ich
+faktycznych działań i zobowiązań podatkowych.
+Szwajcaria to jednak nie wszystko. Śledztwo ujawnia, że struktura Oak Foundation to
+wielopiętrowy labirynt. Oprócz oddziałów w USA czy Wielkiej Brytanii, oficjalne archiwa fundacji
+wskazują na istnienie podmiotu „Oak Philanthropy Limited”, który został inkorporowany na
+wyspie Jersey. Jersey to terytorium podległe Koronie Brytyjskiej, znane na całym świecie jako
+jeden z najbardziej hermetycznych rajów podatkowych, służący miliarderom do unikania
+opodatkowania. Z jednej strony fundacja poucza rządy o sprawiedliwości społecznej i
+klimatycznej, z drugiej – jej wehikuły finansowe operują w oazach optymalizacji podatkowej.
+
+## Strona 2
+
+2. AFERA "CHAT CONTROL". 24 miliony dolarów na lobbing za
+masową inwigilacją
+
+Prawdziwy skandal i zagrożenie dla każdego obywatela kryje się jednak w tym, na co Oak
+Foundation wydaje te nieopodatkowane miliardy. Organizacja ta stała się głównym sponsorem i
+architektem najbardziej totalitarnego prawa cyfrowego w historii Unii Europejskiej – tzw. "Chat
+Control".
+Pod wzniosłym pretekstem walki z wykorzystywaniem seksualnym dzieci, komisarze unijni
+(m.in. Ylva Johansson) zaproponowali ustawę zmuszającą firmy technologiczne do masowego,
+automatycznego skanowania każdej prywatnej wiadomości, e-maila i komunikatora (łamiąc
+szyfrowanie end-to-end) wszystkich obywateli UE.
+Jak przepychano tę ustawę? Korzystając z opłaconego aktywizmu. Oak Foundation wyłożyła od
+2019 roku co najmniej 24 miliony euro (ponad 100 milionów złotych) na agresywny lobbing
+za Chat Control. Pieniądze te pompowano w organizacje, które miały udawać "głos
+zaniepokojonego społeczeństwa obywatelskiego":
+  ●​ Fundacja przekazała 10,3 miliona dolarów na stworzenie organizacji Brave Movement.
+      Organizacja ta powstała na zaledwie miesiąc przed ogłoszeniem unijnego projektu
+     ustawy o Chat Control, działając jako sztuczny, opłacony parasol poparcia.
+  ●​  Kolejne 5,3 miliona dolarów trafiło do organizacji Thorn (założonej przez aktora Ashtona
+      Kutchera), która dostarcza oprogramowanie szpiegujące i lobbuje za jego wdrożeniem.
+  ●​ Aż 1,5 miliona dolarów przelano do brytyjskiej agencji PR-owej Purpose Europe
+      (kontrolowanej przez giganta Capgemini), która organizowała kampanie wspierające
+      unijnych komisarzy.
+Przedstawiciele Oak Foundation nie ograniczali się do dawania pieniędzy – zasiedli wprost w
+radzie dyrektorów powiązanej z rządami organizacji WeProtect Global Alliance, ramię w ramię z
+politykami i służbami specjalnymi (Interpol). To nie jest filantropia. To wynajęcie przez
+miliarderów armii lobbystów, którzy za 24 miliony euro kupili politykom w Brukseli alibi do
+zalegalizowania masowej inwigilacji bez wyroku sądu.
+
+3. EXPORT RADYKALIZMU I UZNANIE ZA ORGANIZACJĘ
+"NIEPOŻĄDANĄ"
+
+Zasoby Oak Foundation (która tylko w 2022 roku rozdała gigantyczną kwotę 481,62 miliona
+dolarów, a w 2025 roku kolejne 383 miliony dolarów) pozwalają im na agresywne ingerowanie w
+politykę wewnętrzną dziesiątek państw.
+Ich oddział w USA aktywnie wspiera skrajnie lewicowe inicjatywy. Tylko w latach 2022-2023
+przekazali 418 071 dolarów na rzecz grupy As You Sow, która stosuje agresywne naciski na
+korporacje w celu wymuszania ideologicznych standardów ESG. Fundują spory sądowe
+związane z klimatem i uderzają w energetykę jądrową.
+Ta bezwzględna ingerencja w wewnętrzne struktury państw spotyka się z rosnącym oporem. W
+styczniu 2026 roku działalność Oak Foundation na terenie Federacji Rosyjskiej została oficjalnie
+zdelegalizowana, a organizację wpisano na listę podmiotów "niepożądanych". Niezależnie od
+tego, jak oceniamy reżimy wschodnie, fakt ten obnaża, że Oak Foundation traktowana jest
+przez wywiady państwowe nie jako fundacja charytatywna, ale jako zorganizowana agentura
+wpływu politycznego, dysponująca budżetami operacyjnymi zdolnymi destabilizować całe
+systemy prawne.
+
+## Strona 3
+
+4. MECHANIZM "CORE FUNDING". Jak kupuje się lojalność NGO-sów
+
+W przeciwieństwie do małych programów pomocowych, Oak Foundation specjalizuje się w
+czymś, co w żargonie fundacyjnym nazywa się "core funding" – czyli finansowaniem
+instytucjonalnym.
+Nie płacą polskim czy europejskim organizacjom za jeden konkretny projekt (np. za pomoc
+dziesięciu bitym kobietom). Oni dają miliony dolarów na tzw. "koszty ogólne", czyli na
+utrzymanie biur, prezesów, rad nadzorczych i kampanii. Organizacja pozarządowa, która
+otrzymuje takie elastyczne finansowanie, staje się całkowicie lojalnym wykonawcą polityki Oak
+Foundation.
+Gdy pojawia się potrzeba przeforsowania w parlamencie konkretnej ustawy – np. uderzającej w
+tradycyjne rodziny poprzez rozszerzenie procedury "Niebieskich Kart", czy wymuszającej
+masowe skanowanie komunikatorów (Chat Control) – uzależnione od szwajcarskich pieniędzy
+NGO-sy natychmiast, karnie ruszają do medialnego i prawnego ataku. Kto sprzeciwia się
+fundacji dysponującej tak potężnym majątkiem (aktywa rzędu 17 milionów dolarów dla samego
+amerykańskiego oddziału), ten natychmiast traci finansowe racje bytu.
+
+KONKLUZJA ŚLEDCZA: Tyrania w białych rękawiczkach
+
+Oak Foundation to ostateczny dowód na to, jak wielki, globalny kapitał sprywatyzował
+europejską politykę i organizacje strażnicze. Założona z pieniędzy zarobionych na strefach
+wolnocłowych i operująca w rajach podatkowych takich jak Jersey, organizacja ta zbudowała
+wokół siebie szwajcarski mur tajemnicy.
+Pieniądze te nie służą demokracji. Służą finansowaniu PR-owych wydmuszek i sztucznych
+koalicji, które za ponad 24 miliony dolarów wylobbowały w Unii Europejskiej przepisy
+umożliwiające zniszczenie prywatności każdego obywatela pod szyldem "Chat Control". Polski
+aktywista, dziennikarz czy urzędnik, wspierający wprowadzanie radykalnych, kontrolnych ustaw
+społecznych przy klaskaniu trzeciego sektora, de facto pracuje na zlecenie anonimowych
+miliarderów, dla których nasze społeczeństwo to tylko kolejny cel inwestycyjny.
