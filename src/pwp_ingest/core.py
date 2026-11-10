@@ -39,22 +39,22 @@ def _write_json(path: Path, value: Any) -> None:
     _write_text(path, json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
 
 
-def _pdf_inputs(inputs: Iterable[Path]) -> list[Path]:
-    discovered: set[Path] = set()
+def _pdf_inputs(inputs: Iterable[Path]) -> list[tuple[Path, str]]:
+    """Zwraca pliki wraz ze ścieżką względną, bez ujawniania lokalnych katalogów."""
+    discovered: dict[Path, str] = {}
     for source in inputs:
         path = Path(source).expanduser()
         if path.is_file() and path.suffix.lower() == ".pdf":
-            discovered.add(path.resolve())
+            discovered[path.resolve()] = path.name
         elif path.is_dir():
-            discovered.update(
-                item.resolve() for item in path.rglob("*")
-                if item.is_file() and item.suffix.lower() == ".pdf"
-            )
+            for item in path.rglob("*"):
+                if item.is_file() and item.suffix.lower() == ".pdf":
+                    discovered[item.resolve()] = item.relative_to(path).as_posix()
         else:
             raise ValueError(f"Brak pliku PDF lub katalogu: {path}")
     if not discovered:
         raise ValueError("Nie znaleziono żadnego pliku PDF.")
-    return sorted(discovered, key=lambda item: str(item))
+    return sorted(discovered.items(), key=lambda item: str(item[0]))
 
 
 def _ocr_page(page: fitz.Page, language: str) -> str:
@@ -287,18 +287,47 @@ def ingest_paths(
     ocr_enabled: bool = True,
     ocr_lang: str = "pol+eng",
     min_chars: int = 40,
+    batch_id: str = "unassigned",
 ) -> list[dict[str, Any]]:
-    """Przetwarza partię plików, a następnie odtwarza deterministyczne indeksy."""
+    """Przetwarza każdą pozycję wejściową i zachowuje historię partii."""
+    if not re.fullmatch(r"[A-Za-z0-9_-]{1,64}", batch_id):
+        raise ValueError("batch_id: wymagane 1–64 znaki ASCII: litery, cyfry, _ lub -.")
     files = _pdf_inputs(inputs)
     output = Path(output)
-    records = [
-        ingest_one(
+    receipts_path = output / "receipts.jsonl"
+    receipts: dict[tuple[str, str, str], dict[str, Any]] = {}
+    if receipts_path.exists():
+        for line in receipts_path.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                row = json.loads(line)
+                key = (row["batch_id"], row["source_relative_path"], row["source_sha256"])
+                receipts[key] = row
+
+    records: list[dict[str, Any]] = []
+    for source, relative_path in files:
+        metadata = ingest_one(
             source, output,
             ocr_enabled=ocr_enabled,
             ocr_lang=ocr_lang,
             min_chars=min_chars,
         )
-        for source in files
-    ]
+        records.append(metadata)
+        receipt = {
+            "batch_id": batch_id,
+            "source_relative_path": relative_path,
+            "original_filename": source.name,
+            "source_sha256": metadata["source_sha256"],
+            "document_id": metadata["document_id"],
+            "quality_status": metadata["quality_status"],
+        }
+        receipts[(batch_id, relative_path, metadata["source_sha256"])] = receipt
+
+    _write_text(
+        receipts_path,
+        "".join(
+            json.dumps(receipts[key], ensure_ascii=False, sort_keys=True) + "\n"
+            for key in sorted(receipts)
+        ),
+    )
     rebuild_index(output)
     return records
