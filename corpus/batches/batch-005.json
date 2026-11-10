@@ -1,0 +1,64 @@
+{
+  "batch_id": "batch-005",
+  "source_pdf_sha256_verified": true,
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "new_document_count": 5,
+  "previously_indexed_count": 0,
+  "source_page_count": 15,
+  "new_unique_pages": 15,
+  "canonical_total_documents": 27,
+  "canonical_total_pages": 124,
+  "total_receipts": 30,
+  "duplicate_pairs": 5,
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "extraction_engine": "attached PDF page parser; source byte SHA-256 verified locally",
+  "originals": [
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(29).PDF",
+      "source_sha256": "4a3f24d5e59f46a90dc822f5de30851bc35e0f50d53e61c38eae252cbe54f384",
+      "document_id": "pdf-4a3f24d5e59f46a90dc822f5",
+      "text_sha256": "de1d36f916fd4c82f3d215c1adfd20b874116068466e1e6b1be3320237a0cc25",
+      "pages": 3,
+      "topic": "Biuro Rzecznika Praw Dziecka — wydatki, postępowania i współpraca z NGO",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(30).PDF",
+      "source_sha256": "72a9b4d11f7265c94f06e237c0bda8be50cdb32324e2cc845e86fed0be7a9382",
+      "document_id": "pdf-72a9b4d11f7265c94f06e237",
+      "text_sha256": "e5f82d640d4b9f8426e901789109e5941997ff0c4a41500943d282f1173059d5",
+      "pages": 3,
+      "topic": "Biuro Rzecznika Praw Dziecka — standardy ochrony małoletnich, FDDS i UNICEF",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(31).PDF",
+      "source_sha256": "0e210fd366d54d7d4d82fd56fc470449475aeb0a715a2021ea8d55b76e606cb4",
+      "document_id": "pdf-0e210fd366d54d7d4d82fd56",
+      "text_sha256": "82370f5cfe1dfac2da00f4b65e3d6658f648c76384a63a46c0faff9382bd14de",
+      "pages": 3,
+      "topic": "Konwencja Stambulska — program CERV, fundacje i finansowanie",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(32).PDF",
+      "source_sha256": "f4094f0f47e53de71e578b4a956c1f4653fd2b92a44ae51c01becf91ff6294a7",
+      "document_id": "pdf-f4094f0f47e53de71e578b4a",
+      "text_sha256": "bc382c6ebd616ba026f9f23c9d1d42d3b48d05a999e357da4bb2f5908939a609",
+      "pages": 3,
+      "topic": "Program CERV — granty NGO, NIW-CRSO i zarządzanie funduszami",
+      "structured_tables": 0
+    },
+    {
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(33).PDF",
+      "source_sha256": "bcc6cd1a537d1ec8e64ca1c63a3f969ea0b1e1e7c6576248621e1d3c93ad0abe",
+      "document_id": "pdf-bcc6cd1a537d1ec8e64ca1c6",
+      "text_sha256": "a2b20eb60555ef9d23ea6ff6b6673ac25535f27d6dcf346a33e7d0de0ae66786",
+      "pages": 3,
+      "topic": "Rada Europy — PACE, GREVIO, finansowanie i kontrola",
+      "structured_tables": 0
+    }
+  ]
+}

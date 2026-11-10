@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "document_id": "pdf-bcc6cd1a537d1ec8e64ca1c6",
+  "source_sha256": "bcc6cd1a537d1ec8e64ca1c63a3f969ea0b1e1e7c6576248621e1d3c93ad0abe",
+  "text_sha256": "a2b20eb60555ef9d23ea6ff6b6673ac25535f27d6dcf346a33e7d0de0ae66786",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(33).PDF"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2876,
+    3363,
+    2162
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-bcc6cd1a537d1ec8e64ca1c6/document.md",
+  "text_path": "documents/pdf-bcc6cd1a537d1ec8e64ca1c6/document.txt"
+}
