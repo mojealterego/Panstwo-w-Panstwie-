@@ -49,11 +49,11 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Bezpieczeństwo publikacji
 
-**Repozytorium jest publiczne.** Nie umieszczaj w nim bez przeglądu redakcyjnego dokumentów zawierających dane osobowe, informacje wrażliwe ani niezweryfikowane oskarżenia. `incoming/` jest ignorowane przez Git. Wygenerowany `corpus/` **nie jest automatycznie wysyłany** do GitHub: przed `git add` i `git push` przeprowadź kontrolę treści, anonimizację i weryfikację prawną. Jeżeli cały materiał ma pozostać poufny, przechowuj korpus w prywatnym repozytorium.
+**Repozytorium jest publiczne.** Nie umieszczaj w nim bez przeglądu redakcyjnego dokumentów zawierających dane osobowe, informacje wrażliwe ani niezweryfikowane oskarżenia. `incoming/` jest ignorowane przez Git. Wygenerowany `corpus/` **nie jest automatycznie wysyłany** do GitHub: przed publikacją nowych materiałów przeprowadź kontrolę treści, anonimizację i weryfikację prawną. Jeżeli cały materiał ma pozostać poufny, przechowuj korpus w prywatnym repozytorium.
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-**86 unikatowych PDF-ów / 458 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **90 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
+**101 unikatowych PDF-ów / 522 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **105 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały PDF partii 015 i 016 zapisano bajtowo w `corpus/originals/batch-015/` i `corpus/originals/batch-016/`; oryginały starszych partii pozostają w odrębnych archiwach Biblioteki.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
@@ -69,6 +69,8 @@ AGENTS.md                       # reguły dla agentów AI
 - **batch-012:** 7 oryginalnych PDF-ów (68–74), 74 strony; 7 nowych dokumentów; 7 nowych relacji zawierania tekstu i 12 par identycznych stron — [raport](docs/batches/batch-012.md). Oryginały i pełny ZIP zachowane w Bibliotece.
 - **batch-013:** 9 PDF-ów (75–83), 91 stron, 9 nowych dokumentów; 9 relacji powtarzających się treści, 27 par identycznych stron. Pełny ZIP i oryginały w Bibliotece — [raport](docs/batches/batch-013.md). Materiały wymagają weryfikacji i przeglądu prawnego przed publikacją.
 - **batch-014:** 10 oryginalnych PDF-ów (w tym nr 84 i dokumenty opisowe), 55 stron, 10 nowych źródeł i 6 tabel. Dwie relacje zawierania tekstu, przejrzysta dokumentacja rozbieżnych ocen; pełny ZIP i kopia oryginałów w Bibliotece — [raport](docs/batches/batch-014.md). Publikacja wymaga weryfikacji zarzutów i kontroli danych osobowych.
+- **batch-015:** 5 PDF-ów, 18 stron; oryginały i pełne teksty dodane do repozytorium; archiwum ZIP w Bibliotece — [raport](docs/batches/batch-015.md).
+- **batch-016:** 10 PDF-ów, 46 stron; oryginały i pełne teksty dodane do repozytorium; archiwum ZIP w Bibliotece — [raport](docs/batches/batch-016.md).
 - **Niedostarczone:** PDF 53 oraz sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

@@ -1,0 +1,224 @@
+# pdf-6cded7d5459e312e3cb05541
+
+## Strona 1
+
+FABRYKA PRZEMOCY POD SZYLDEM POMOCY: JAK MOPS W BIERUNIU STAŁ SIĘ
+PRYWATNYM FOLWARKIEM MOBBINGU, KOMORNICZYCH ZAJĘĆ I URZĘDNICZEJ
+OPRESJI „NIEBIESKICH KART”
+​W pigułce: Najważniejsze ustalenia śledcze
+​Systemowa hipokryzja i wyrok za znęcanie: Instytucja powołana do walki z przemocą
+domową w Bieruniu przez lata była zarządzana przez człowieka skazanego w sierpniu 2026
+r. za psychiczne znęcanie się nad sześcioma podwładnymi i uporczywe łamanie praw
+pracowniczych.
+​Parasol ochronny ratusza: Przez blisko cztery lata od wpłynięcia aktu oskarżenia (od maja
+2021 r. do lutego 2025 r.) oskarżony dyrektor Piotr Ć. zasiadał na ławie oskarżonych,
+jednocześnie kierując bieruńskim MOPS-em i będąc przełożonym kobiet zeznających
+przeciwko niemu w sądzie. Ostatecznie burmistrz Sebastian Macioł rozstał się z nim „za
+porozumieniem stron”.
+​Komornik na koncie MOPS i drenaż podatników: Bezprawne, dyscyplinarne zwolnienie
+pracownicy w okresie świątecznym (podczas zwolnienia lekarskiego) zakończyło się klęską
+ośrodka w sądzie pracy. Gdy MOPS nie wypłacił odszkodowania w terminie, komornik zajął
+konto bankowe instytucji, ściągając z publicznych pieniędzy nie tylko 14 400 zł należności
+głównej, ale też tysiące złotych odsetek i kosztów egzekucyjnych.
+​Karuzela stanowisk i hermetyczny układ: W Zespole Interdyscyplinarnym (ZI) oraz MOPS-ie
+funkcjonuje specyficzna pętla podległości – dyrektor MOPS Bogusława Miernik jest w ZI
+zastępczynią własnego podwładnego, kierownika Michała Kucza. W jednym gremium
+skupiono pracowników socjalnych, policjantów z KPP Bieruń, prokuratora oraz
+przedstawiciela tyskiego sądu, tworząc strukturę, w której obywatel objęty procedurą
+„Niebieskiej Karty” z góry stoi na straconej pozycji.
+​I. SZCZYT HIPOKRYZJI: INSTYTUCJA ZWALCZAJĄCA PRZEMOC SAMA BYŁA PIEKŁEM
+PRZEMOCY PSYCHICZNEJ
+​Trudno o bardziej jaskrawy dowód na degenerację polskiego systemu pomocy społecznej
+niż to, co przez lata działo się za zamkniętymi drzwiami Miejskiego Ośrodka Pomocy
+Społecznej w Bieruniu przy ul. Władysława Jagiełły 1. Placówka, która dysponuje potężnym
+aparatem urzędniczym do ingerowania w życie prywatne mieszkańców, diagnozowania
+rodzin i nakładania rygorów procedury „Niebieskiej Karty”, we własnych murach stworzyła
+piekło usankcjonowanej przemocy psychicznej.
+​10 sierpnia 2026 roku przed Sądem Rejonowym w Tychach (sędzia Agata Wala-Rogowska)
+zapadł wyrok, który obnażył moralne bankructwo lokalnego systemu wsparcia. Były
+wieloletni dyrektor MOPS w Bieruniu, Piotr Ć., został uznany za winnego psychicznego
+znęcania się nad sześcioma podwładnymi oraz złośliwego i uporczywego naruszania ich
+praw pracowniczych w latach 2016–2019. Co więcej, w sierpniu 2024 roku przed sądem
+ruszył drugi proces karny przeciwko temu samemu dyrektorowi, obejmujący lata 2020–2023,
+w którym pokrzywdzone są kolejne dwie osoby, a zarzuty dotyczą m.in. podsłuchiwania,
+nadmiernej kontroli i bezpodstawnego odrywania od obowiązków służbowych.
+​Materiał dowodowy zgromadzony podczas niemal sześcioletniej batalii sądowej ukazuje
+szokujące metody zarządzania instytucją mającą nieść pomoc innym:
+​Furia, rzucanie segregatorami i zespół stresu pourazowego (PTSD): Jedna z
+pokrzywdzonych pracownic, Sylwia Sz., w wyniku działań dyrektora musiała leczyć się
+psychiatrycznie na zespół stresu pourazowego (PTSD). Jak relacjonowała przed sądem,
+dyrektor potrafił wejść do jej biura, wezwać innych pracowników jako widownię, zrzucić
+segregatory na podłogę i krzyczeć, że w pokoju jest „burdel”, systematycznie poniżając ją
+słowami: „ucz się”, „czytaj”, „nie ośmieszaj się”.
+## Strona 2
+
+​Publiczne upokarzanie i drwiny z życia prywatnego: Wobec Iwony G. (jedynej z sześciu
+pokrzywdzonych, która przetrwała w strukturach bieruńskiego MOPS-u) dyrektor stosował
+metody skrajnie poniżej jakiejkolwiek godności urzędniczej. Publicznie ośmieszał ją,
+opowiadając, że „targała spodnie burmistrzowi podczas tańca na jakiejś imprezie”, a
+komentując jej sytuację rodzinną i rozwód, rzucał złośliwe uwagi, że „nie dziwi się jej
+mężowi, że się z nią rozstaje”.
+​Łamanie kręgosłupów pracownikom chroniącym dzieci: Jak ujawniła w mowie końcowej
+adwokat pokrzywdzonych Aleksandra Witeszczak, dyrektor starał się złamać m.in.
+pracownicę Ninę R. Kiedy kobieta podjęła działania chroniące swojego małoletniego
+podopiecznego (ucznia), dyrektor MOPS-u zamiast stanąć po stronie dziecka, zmuszał
+pracownicę do przeproszenia pedagoga szkolnego.
+​Kreślenie dokumentów na czerwono i „szok”: Sędzia Agata Wala-Rogowska w ustnym
+uzasadnieniu wyroku wypunktowała, że sposób procedowania dokumentów w bieruńskim
+MOPS-ie służył celowemu udręczeniu i poniżeniu kobiet. Dyrektor wielokrotnie zwracał
+pisma bez merytorycznych uwag, kreśląc je czerwonym długopisem i dopisując jedynie
+słowo „szok”, a wygląd pracownicy Joanny J.-K. komentował w sposób mający obniżyć jej
+poczucie przydatności zawodowej.
+​Największym skandalem politycznym w tej sprawie jest postawa władz samorządowych
+Bierunia. Choć już w lutym 2021 roku sąd wydał pierwszy wyrok nakazowy uznający Piotra
+Ć. za winnego, a od maja 2021 roku toczył się jawny proces karny, Piotr Ć. przez blisko
+cztery lata nadal zasiadał w fotelu dyrektora MOPS-u. Podwładne musiały zeznawać w
+sądzie przeciwko człowiekowi, od którego następnego dnia rano zależały ich urlopy, premie i
+dalsze zatrudnienie. Dopiero 24 lutego 2025 roku burmistrz Bierunia Sebastian Macioł
+rozwiązał z nim umowę o pracę – i to w najbardziej komfortowym dla urzędnika trybie, czyli
+za porozumieniem stron, oficjalnie zaprzeczając, by miało to jakikolwiek związek z dwoma
+procesami karnymi!
+​II. KOMORNIK NA KONCIE MOPS I PUBLICZNE PIENIĄDZE WYRZUCONE W BŁOTO
+​Poczucie bezkarności szefa bieruńskiej pomocy społecznej doprowadziło bezpośrednio do
+drenażu kieszeni podatników. Gdy Sylwia Sz. – będąca jednocześnie chronioną prawem
+działaczką związku zawodowego (PFZPSiPS) – złożyła w sądzie zeznania obciążające
+dyrektora, ten uruchomił bezwzględny odwet. Najpierw ukarał ją naganą, a następnie, 28
+grudnia 2022 roku, w okresie świątecznym i w trakcie jej przebywania na zwolnieniu
+lekarskim, wysłał trzech pracowników MOPS-u, by doręczyli jej dyscyplinarne zwolnienie z
+pracy.
+​Bezprawie to spotkało się z miażdżącą reakcją sądów, ale koszty prywatnej wendety
+dyrektora zapłacili mieszkańcy Bierunia:
+​Przegrana w sądzie pracy i interwencja komornika: Sąd Rejonowy w Tychach oraz Sąd
+Okręgowy w Katowicach prawomocnie uznały, że zarówno nagana, jak i zwolnienie
+dyscyplinarne były całkowicie bezprawne, i nakazały wypłatę odszkodowania. MOPS w
+Bieruniu nie wykonał wyroku w wymaganym terminie. W rezultacie do akcji wkroczył
+komornik, który zajął konto bankowe Miejskiego Ośrodka Pomocy Społecznej w Bieruniu. Z
+publicznych pieniędzy ściągnięto nie tylko 14 400 zł należności głównej, ale również 2
+439,32 zł odsetek za zwłokę oraz 1 877 zł kosztów egzekucyjnych. Komentując tę
+kompromitację, ówczesny dyrektor Piotr Ć. posunął się do absurdu, ogłaszając w mediach,
+że... „MOPS w Bieruniu wygrał sprawę w 55 proc.”.
+​Wyrok z oskarżenia Państwowej Inspekcji Pracy: 13 grudnia 2024 roku Sąd Rejonowy w
+Tychach, w osobnym procesie zainicjowanym przez inspektora PIP z Katowic, uznał Piotra
+## Strona 3
+
+Ć. za winnego rażącego naruszenia prawa pracy i wymierzył mu grzywnę oraz nakaz zwrotu
+kosztów procesu.
+​Wyrok karny za znęcanie (sierpień 2026): W głównym procesie karnym sędzia Agata
+Wala-Rogowska skazała byłego dyrektora na 1,5 roku ograniczenia wolności (30 godzin
+nieodpłatnych prac społecznych miesięcznie), 3-letni zakaz zajmowania stanowisk
+dyrektorskich w administracji publicznej, wypłatę zadośćuczynienia pokrzywdzonym oraz
+zwrot około 50 000 zł kosztów zastępstwa procesowego. Oskarżony nie miał nawet odwagi
+pojawić się na ogłoszeniu wyroku, tłumacząc wcześniej sądowi, że jest bezrobotny i nie
+posiada prawa do zasiłku.
+​III. KARUZELA STANOWISK I ZAMKNIĘTY UKŁAD PERSONALNY W BIERUNIU
+​Po odejściu skompromitowanego dyrektora w bieruńskim MOPS-ie nie przeprowadzono
+głębokiego oczyszczenia strukturalnego, lecz zastosowano sprawdzony w samorządach
+manewr wewnętrznego przegrupowania. Analiza Biuletynu Informacji Publicznej oraz
+zarządzeń Burmistrza Miasta Bierunia (w tym Zarządzenia Nr B.0050.205.2023 z 19 grudnia
+2023 r. oraz zmieniającego je Zarządzenia Nr B.0050.20.2025 z 5 lutego 2025 r.) obnaża
+architekturę zamkniętego układu, w którym te same osoby wymieniają się rolami
+przełożonych i podwładnych, kontrolując cały przepływ informacji i funduszy.
+​Spójrzmy na personalną układankę na szczycie bieruńskiego systemu:
+
+Imię i NazwiskoFunkcja w MOPS Bieruń / Innej InstytucjiFunkcja w Zespole
+Interdyscyplinarnym (ZI) / GKRPACharakterystyka powiązania w układzie
+Bogusława MiernikDyrektor MOPS BieruńZ-ca Przewodniczącego ZISzefowa całego
+ośrodka, która w ZI formalnie podlega własnemu podwładnemu z MOPS.
+Michał KuczKierownik Działu Profilaktyki MOPSPrzewodniczący ZIW MOPS podwładny dyr.
+Miernik, w ZI jej bezpośredni przełożony. Kontroluje też Gminne Centrum Profilaktyki
+Uzależnień.
+Beata Berger-StygaPrzedstawicielka GKRPA BieruńCzłonek ZI oraz Z-ca
+Przewodniczącego GKRPAŁącznik między budżetem „korkowym” (alkoholowym) a
+aparatem interwencyjnym „Niebieskich Kart”.
+Anna BasRedaktor i zatwierdzający BIP MOPS BieruńSekretarz GKRPAOdpowiada za
+obieg informacji publicznej w MOPS i obsługę komisji alkoholowej (powołanej Zarządzeniem
+Nr B.0050.40.2025).
+Katarzyna Madejczyk-DubielPracownik MOPS BieruńCzłonek ZIZapewnia bezpośrednią
+większość głosów etatowych pracowników MOPS wewnątrz Zespołu.
+Aleksandra Latusek-UrbańczykSąd Rejonowy w TychachCzłonek ZIBezpośrednie ramię
+sądu rodzinnego/kurateli w bieruńskim zespole.
+Małgorzata LasekProkuratura Rejonowa w TychachCzłonek ZIRamię oskarżenia
+publicznego zintegrowane z urzędnikami socjalnymi.
+Tomasz Balasiński i Daniel KamieńskiKomenda Powiatowa Policji w BieruniuCzłonkowie
+ZIFunkcjonariusze organów ścigania wykonujący natychmiastowe nakazy izolacyjne.
+Marek PodleszańskiPCPR LędzinyCzłonek ZIOgniwo powiatowe odpowiedzialne m.in. za
+pieczę zastępczą.
+Bożena Tomala i Alojzy PiekarczykSP nr 1 w Bieruniu / Stowarzyszenie Ochrony Zdrowia
+Pracowników KWK „Piast”Członkowie ZIPrzedstawiciele oświaty oraz lokalnego sektora
+pozarządowego (NGO).
+
+Ten układ to podręcznikowy przykład zamkniętej cyrkulacji instytucjonalnej. W strukturze
+MOPS-u przy ul. Jagiełły 1 oraz w punkcie terenowym przy ul. Chemików 139 kluczowe
+## Strona 4
+
+działy obsadzone są przez wieloletnią kadrę kierowniczą: za finanse odpowiada główna
+księgowa Anna Wróbel (wraz ze starszą księgową Danutą Jastrzemską), za kadry i
+zamówienia publiczne Elżbieta Miś, za pomoc środowiskową Katarzyna Wiśniewska, za
+usługi społeczne i administrację Marcela Odrobińska, za świadczenia rodzinne i
+alimentacyjne Agnieszka Mateja, a za świetlice wsparcia („Iskierka” i „Nadzieja”) Aleksandra
+Romańska. Z kolei funkcję Inspektora Ochrony Danych pełni Iwona Grabowska.
+​Zwróćmy uwagę na paradoks nadzoru: Michał Kucz jako kierownik Działu Profilaktyki
+(któremu podlega Zespół ds. przemocy domowej oraz zapisy do psychologów w Gminnym
+Centrum Profilaktyki Uzależnień) jest podwładnym dyrektor Bogusławy Miernik. Kiedy jednak
+ci sami urzędnicy przechodzą do pokoju obrad Zespołu Interdyscyplinarnego, role się
+odwracają – to Michał Kucz staje się przewodniczącym, a dyrektor Miernik jego
+zastępczynią! O jakiejkolwiek zewnętrznej, niezależnej kontroli nad działaniami pracowników
+socjalnych nie może być tu mowy. MOPS kontroluje sam siebie, a uzupełnieniem tego
+monopolu jest Gminna Komisja Rozwiązywania Problemów Alkoholowych (pod
+przewodnictwem Krzysztofa Waligóry, z udziałem Beaty Berger-Stygi, Anny Bas, Bogdana
+Stoleckiego i Szymona Jelenia), która dysponuje funduszami z opłat za koncesje
+alkoholowe.
+​IV. MECHANIZM „NIEBIESKIEJ KARTY” I POLICYJNO-URZĘDNICZA GILOTYNA W
+PRAKTYCE
+​Jak ten zabetonowany układ działa w zderzeniu ze zwykłym obywatelem uwikłanym w
+kryzys rodzinny lub okołorozwodowy? Oficjalne wytyczne opublikowane w BIP MOPS Bieruń
+(zaktualizowane po wejściu w życie rozporządzenia Rady Ministrów z 6 września 2023 r.) nie
+pozostawiają złudzeń co do represyjnego charakteru procedury.
+​Automatyzm oskarżenia bez sądu: Procedurę „Niebieskie Karty” wszczyna się poprzez
+samo wypełnienie formularza „Niebieska Karta – A” w obecności osoby zgłaszającej, że
+doznaje przemocy. Urzędnik lub policjant nie potrzebuje na tym etapie żadnego wyroku
+sądu, opinii biegłych ani twardych dowodów – wystarczy jednostronna relacja, która
+natychmiast uruchamia machinę grup diagnostyczno-pomocowych.
+​Cztery nakazy natychmiastowej banicji: Bieruński Zespół Interdyscyplinarny otwarcie
+eksponuje w swoich materiałach arsenał czterech nakazów ochrony nakładanych na osoby
+wskazane jako stosujące przemoc:
+​natychmiastowy nakaz opuszczenia miejsca zamieszkania i zakaz zbliżania się do niego,
+​zakaz zbliżania się do osoby doznającej przemocy,
+​zakaz kontaktowania się z osobą doznającą przemocy,
+​zakaz przebywania w określonych miejscach, takich jak szkoła, placówka oświatowa,
+ośrodek sportu czy miejsce pracy drugiej strony.
+​Brak drogi ucieczki z pętli instytucjonalnej: Kiedy w jednym Zespole Interdyscyplinarnym pod
+przewodnictwem urzędnika MOPS (Michała Kucza) zasiadają jednocześnie policjanci z KPP
+Bieruń (Tomasz Balasiński, Daniel Kamieński), prokurator z Prokuratury Rejonowej w
+Tychach (Małgorzata Lasek) oraz przedstawiciel Sądu Rejonowego w Tychach (Aleksandra
+Latusek-Urbańczyk), dochodzi do całkowitego zatarcia trójpodziału i niezależności organów.
+Rodzic (najczęściej ojciec), wobec którego w trakcie sporu rozwodowego użyto „Niebieskiej
+Karty” jako taktycznego taranu procesowego, zostaje osaczony. Ta sama struktura, która
+zakłada kartę i wyrzuca go z domu oraz zakazuje zbliżania się do szkoły własnego dziecka,
+ma swoich bezpośrednich reprezentantów w tyskim sądzie i prokuraturze.
+​Uznaniowość zamknięcia procedury: Zgodnie z zasadami stosowanymi przez bieruński ZI,
+zakończenie procedury przez grupę diagnostyczno-pomocową następuje wyłącznie wtedy,
+gdy urzędnicy sami uznają, że przemoc ustała i istnieje „uzasadnione przypuszczenie”, że
+## Strona 5
+
+nie powróci, bądź rozstrzygną o braku zasadności działań. W praktyce oznacza to pełną
+uznaniowość – obywatel może być miesiącami przetrzymywany w systemie pod pretekstem
+„monitoringu”, co w sądzie rodzinnym w Tychach czy Katowicach stanowi gotową podkładkę
+do odebrania władzy rodzicielskiej lub zablokowania opieki naprzemiennej.
+​V. PODSUMOWANIE: MORALNE BANKRUCTWO LOKALNEGO LEWIATANA
+​Studium przypadku Miasta Bieruń to wstrząsający akt oskarżenia wobec całego modelu
+funkcjonowania polskiej pomocy społecznej i zespołów interdyscyplinarnych. Przez blisko
+dekadę instytucja przy ul. Jagiełły 1, która miała być wzorem empatii, praworządności i
+ochrony słabszych, była zarządzana metodami rodem z obozu karnego – z rzucaniem
+segregatorami, czerwonymi adnotacjami „szok”, wywoływaniem zespołu stresu
+pourazowego u pracownic, drwinami z cudzych rozwodów i bezprawnymi zwolnieniami
+dyscyplinarnymi w Boże Narodzenie.
+​Jakim prawem moralnym instytucja, w której szef został skazany za psychiczne znęcanie się
+nad sześcioma kobietami, a komornik musiał zajmować jej konta bankowe z powodu
+łamania praw pracowniczych, śmie dziś pouczać mieszkańców Bierunia o prawidłowych
+relacjach rodzinnych? Zespół Interdyscyplinarny w Bieruniu, oparty na urzędniczej karuzeli
+stanowisk między dyrekcją MOPS a Działem Profilaktyki oraz scementowany obecnością
+policji, prokuratury i sądu, nie jest żadnym niezależnym mediatorem. To hermetyczny aparat
+administracyjnego przymusu, który – jak pokazała historia samego ośrodka – przez lata był
+ślepy na prawdziwą przemoc pod własnym dachem, podczas gdy wobec zwykłych obywateli
+dysponuje bezwzględnymi narzędziami inwigilacji i domowej banicji.

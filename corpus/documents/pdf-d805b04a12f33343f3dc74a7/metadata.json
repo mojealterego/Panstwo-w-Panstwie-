@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-d805b04a12f33343f3dc74a7",
+  "source_sha256": "d805b04a12f33343f3dc74a71706b0f69cdb7dc6a00489e9affea225d665e2d0",
+  "text_sha256": "6b16f6ded39de2480629d9a8e6b2898255eee60bbba4bf36aa7b936af9ecf0a3",
+  "original_filenames": [
+    "BESTIA, WATYKAŃSKIE WYCIECZKI I PORWANIE 5-LATKI__.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    3030,
+    3340,
+    1930
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Biuro Rzecznika Praw Dziecka — wydatki i postępowania",
+  "markdown_path": "documents/pdf-d805b04a12f33343f3dc74a7/document.md",
+  "text_path": "documents/pdf-d805b04a12f33343f3dc74a7/document.txt"
+}

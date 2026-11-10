@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-925830f90c9d7f167afe30f2",
+  "source_sha256": "925830f90c9d7f167afe30f21110ad400e08cf0da8ed65a824bb7485e6d2c80c",
+  "text_sha256": "ba7526a0b15fa48dde9d33b4990e5123d04f7e1f42a26e14e9a240200038ff45",
+  "original_filenames": [
+    "BRUKSELSKI INKUBATOR PATOLOGII__.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2728,
+    3229,
+    1810
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Program CERV — finansowanie i organizacje pośredniczące",
+  "markdown_path": "documents/pdf-925830f90c9d7f167afe30f2/document.md",
+  "text_path": "documents/pdf-925830f90c9d7f167afe30f2/document.txt"
+}

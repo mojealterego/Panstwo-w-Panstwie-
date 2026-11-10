@@ -1,0 +1,7 @@
+{
+  "batch_id": "batch-015",
+  "detection_method": "5-token shingles, >=90% Jaccard or >=90% containment, min 20 shared shingles; byte-exact page transcriptions",
+  "relations": [],
+  "exact_page_duplicates": [],
+  "editorial_topic_overlap": "Both Cieszyn reports discuss RIO, NIK, referendum and municipal administration; preserve both independently."
+}

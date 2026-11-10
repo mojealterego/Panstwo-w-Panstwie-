@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-7b937928c5e0bb4f7ae69257",
+  "source_sha256": "7b937928c5e0bb4f7ae692571665870ac542adf3864e092e706ef8fcad30512e",
+  "text_sha256": "94250ed6e40c166d793a022ea8507cfab279369d1aa9259ed8555985190f838d",
+  "original_filenames": [
+    "ARCHITEKCI PAŃSTWA W PAŃSTWIE.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2848,
+    3088,
+    2546
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Fundacja im. Stefana Batorego — legislacja i granty",
+  "markdown_path": "documents/pdf-7b937928c5e0bb4f7ae69257/document.md",
+  "text_path": "documents/pdf-7b937928c5e0bb4f7ae69257/document.txt"
+}

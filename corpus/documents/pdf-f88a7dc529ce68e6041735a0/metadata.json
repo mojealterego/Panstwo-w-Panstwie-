@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-f88a7dc529ce68e6041735a0",
+  "source_sha256": "f88a7dc529ce68e6041735a0d8295e98a675deb24ff53465c2f9a373181ad8f5",
+  "text_sha256": "dff0eb81dacb06666e1b5eaacf8e34dd8501e9fa25802251a5ed7a6ce86dabce",
+  "original_filenames": [
+    "BERLIŃSKA WIRÓWKA FINANSOWA I GEOPOLITYCZNY SZANTAŻ__.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2537,
+    3065,
+    2247
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "EU-Russia Civil Society Forum — finansowanie i struktura",
+  "markdown_path": "documents/pdf-f88a7dc529ce68e6041735a0/document.md",
+  "text_path": "documents/pdf-f88a7dc529ce68e6041735a0/document.txt"
+}

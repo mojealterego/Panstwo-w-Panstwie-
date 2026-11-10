@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-73ba6457d967cea3ea774c40",
+  "source_sha256": "73ba6457d967cea3ea774c405c78e00f17888c540176bdd3f4e4a958013325ef",
+  "text_sha256": "0f5ca1f0ae0c5a99c61b685ccc8f54a07ca2dbcd7b2c6010c1e39a48ce9d4110",
+  "original_filenames": [
+    "CYFROWA TARCZA CZY ZŁOTA KLATKA LOBBYSTÓW_ .pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2719,
+    3242,
+    2537
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "European Digital Rights (EDRi) — finansowanie i regulacje cyfrowe",
+  "markdown_path": "documents/pdf-73ba6457d967cea3ea774c40/document.md",
+  "text_path": "documents/pdf-73ba6457d967cea3ea774c40/document.txt"
+}

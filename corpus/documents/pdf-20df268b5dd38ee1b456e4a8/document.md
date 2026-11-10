@@ -1,0 +1,159 @@
+# pdf-20df268b5dd38ee1b456e4a8
+
+## Strona 1
+
+PAJĘCZYNA NAD OLZĄ. UKRYTY RAPORT RIO, DEZINFORMACJA REFERENDALNA I
+BEZWZGLĘDNA URZĘDNICZA OPRESJA W CIESZYŃSKIM RATUSZU
+WSTĘP: KLIENTELIZM I PROPAGANDA ZA PIENIĄDZE CIESZYNIAKÓW Cieszyn,
+turystyczna ikona Śląska Cieszyńskiego, z perspektywy przechodnia jawi się jako oaza spokoju
+i historycznego dziedzictwa. To jednak wyłącznie makijaż nałożony na gnijącą strukturę
+samorządowej władzy. Gdy odrzucimy oficjalne, pełne samozadowolenia komunikaty burmistrz
+Gabrieli Staszkiewicz i wejdziemy za kulisy magistratu, naszym oczom ukaże się bezwzględny,
+zabetonowany układ interesów. To mechanizm, w którym publiczne pieniądze są bezczelnie
+wydawane na ratowanie politycznego stołka, niewygodne pytania mieszkańców są
+cenzurowane, a realne, krytyczne problemy miasta maskuje się tanią, polaryzującą wojną
+ideologiczną. Cieszyński magistrat przekształcił się w korporacyjny folwark urzędniczy, w którym
+interes i bezpieczeństwo obywatela stoją na samym końcu listy priorytetów.
+I. ZASŁONA DYMNA I KŁAMSTWO PROPAGANDOWE: CO NAPRAWDĘ KONTROLERZY
+RIO ZNALEŹLI W CIESZYNIE? W połowie sierpnia 2025 roku burmistrz Gabriela Staszkiewicz
+oraz oficjalne profile miasta ogłosiły w mediach społecznościowych gigantyczny sukces.
+Przekaz był prosty i triumfalny: kompleksowa kontrola Regionalnej Izby Obrachunkowej (RIO)
+badająca finanse miasta za ostatnie cztery lata zakończyła się "bardzo dobrym wynikiem", a
+kontrolerzy sformułowali jedynie "kilka drobnych zaleceń". Władza obwieściła, że "prawda sama
+się broni", budując iluzję idealnie zarządzanego urzędu.
+Jednak te triumfalne posty były ordynarnym kłamstwem i wizerunkową manipulacją. Urząd za
+wszelką cenę próbował ukryć przed mieszkańcami oficjalny protokół pokontrolny RIO. Gdy
+niezależni dziennikarze w końcu dotarli do pełnego "Wystąpienia pokontrolnego", prawda
+okazała się skrajnie kompromitująca dla ekipy Staszkiewicz. Kontrolerzy bezlitośnie obnażyli
+rażące uchybienia, chaos i utratę publicznych środków w trzech kluczowych obszarach:
+   1.​ Chaos i rażące zaniedbania w zamówieniach publicznych: RIO zbadało m.in.
+       rewitalizację Parku św. Trójcy, inwestycję wartą ponad 1,5 miliona złotych. Urzędnicy
+      wykazali się tam szokującą, graniczącą z niedopełnieniem obowiązków beztroską.
+       Pozwolili, aby gwarancja wykonawcy na naprawę ewentualnych usterek wygasła o ponad
+     3 lata przed przeprowadzeniem kontroli. Całkowicie zrezygnowano z zabezpieczenia
+      interesu finansowego miasta, skazując budżet na samodzielne, kosztowne naprawy
+     błędów budowlanych.
+   2.​ Nieskuteczny pobór podatków i drenaż budżetu: Publiczne pieniądze w Cieszynie
+      dosłownie przeciekają przez palce. RIO wykazało rażącą bierność urzędników w
+     egzekwowaniu należnych podatków od nieruchomości i opłat lokalnych. Długi wobec
+      miasta rosły latami, a wydział finansowy nie podejmował wymaganych prawem kroków
+      windykacyjnych, pozwalając na przedawnianie się gigantycznych zobowiązań podmiotów
+      komercyjnych.
+   3.​ Balansowanie na krawędzi niewypłacalności i prognozy-fikcje: Najbardziej
+     druzgocący zarzut RIO uderzył w Wieloletnią Prognozę Finansową Cieszyna. Izba
+      wyraziła "poważne wątpliwości" co do zaplanowanych od 2025 roku wysokich kwot
+     nadwyżek operacyjnych, uznając je za nierealistyczne i niezwykle trudne do osiągnięcia.
+    Co gorsza, z analizy RIO wynika, że w latach 2026-2028 miasto będzie balansować na
+      krawędzi niewypłacalności. W 2027 roku tzw. "margines bezpieczeństwa" wskaźników
+      zadłużenia ma spaść do katastrofalnego poziomu 0,06%! Oznacza to, że miasto niemal
+      całkowicie straci elastyczność finansową i znajdzie się na łasce wierzycieli.
+II. SZEREG RAŻĄCYCH NIEPRAWIDŁOWOŚCI: JAK RATUSZ UKRYWAŁ RAPORT NIK W
+MIEJSKIM ZARZĄDZIE DRÓG RIO to nie jedyna instytucja, która zdemolowała mit o
+"profesjonalizmie" włodarzy Cieszyna. W 2024 roku Najwyższa Izba Kontroli (NIK)
+## Strona 2
+
+przeprowadziła kontrolę doraźną w Miejskim Zarządzie Dróg (MZD) kierowanym przez dyrektor
+Katarzynę Skotnicką. Kontrola (sygn. LKA.410.3.5.2024) dotyczyła oznakowania dróg
+publicznych i wydatków majątkowych.
+Protokół pokontrolny NIK stanowił katalog tak rażących błędów i niegospodarności
+uderzających bezpośrednio w pieszych, kierowców i budżet miasta, że Ratusz podjął decyzję o
+bezwzględnym zamilczeniu sprawy. Mimo wielokrotnych, formalnych wniosków opozycyjnych
+radnych, szczegółowe ustalenia NIK były przed mieszkańcami ukrywane. Dopiero w
+październiku 2024 roku, gdy Komisja Rewizyjna Rady Miejskiej uzyskała dostęp do
+dokumentów pokontrolnych, radni oficjalnie potwierdzili w protokole wystąpienie "szeregu
+rażących nieprawidłowości". Urzędnicy świadomie narażali bezpieczeństwo ruchu drogowego i
+marnotrawili setki tysięcy złotych na wadliwe inwestycje, a burmistrz Staszkiewicz nadzorowała
+proces blokowania tych informacji przed opinią publiczną, udowadniając, że przejrzystość to dla
+niej wyłącznie puste hasło.
+III. REFERENDUM W CIENIU CENZURY I PRYWATNEJ TUBY PROPAGANDOWEJ
+Arogancja władzy, deficyt dialogu i skrajne zaniedbania doprowadziły do tego, że zdesperowani
+mieszkańcy Cieszyna powiedzieli "dość". Cieszyński Komitet Referendalny (którego
+pełnomocnikiem był Michał Wenglorz, asystent społeczny posła Bronisława Foltyna) zebrał
+tysiące podpisów i doprowadził do rozpisania na 7 grudnia 2025 roku referendum w sprawie
+odwołania burmistrz Gabrieli Staszkiewicz oraz Rady Miejskiej przed upływem kadencji.
+Koszt referendum, szacowany na około 200 tysięcy złotych, obciążył i tak zrujnowany budżet
+miasta. Zamiast jednak poddać się demokratycznej ocenie, Staszkiewicz uruchomiła
+bezwzględną, cyniczną machinę dezinformacji i propagandy:
+   1.​ Bezprawna agitacja w gazecie za pieniądze podatników: 21 listopada 2023 r. ukazał
+      się numer miejskiego biuletynu "Wiadomości Ratuszowych". Gazeta, finansowana w
+    100% z podatków cieszyniaków, stała się prywatną, darmową ulotką wyborczą burmistrz.
+    Na 24 strony biuletynu aż 12 zajmował propagandowy, agresywny tekst "OD
+     BURMISTRZA", w którym Staszkiewicz polemizowała z opozycją i chwaliła się swoimi
+     rzekomymi sukcesami. Komitet Referendalny skierował sprawę do Sądu Okręgowego w
+       Bielsku-Białej, nazywając to wprost nielegal agitacją i domagając się konfiskaty nakładu
+      oraz przeprosin.
+   2.​ Celowa dezinformacja i bojkot: W tej samej samorządowej gazecie urzędnicy celowo
+      "zapomnieli" umieścić podstawowe informacje o głosowaniu. Zabrakło daty referendum,
+      spisu lokali wyborczych oraz godzin otwarcia urn. Było to z premedytacją zaplanowane
+      działanie dezinformacyjne, mające na celu zniechęcenie mieszkańców do pójścia do urn.
+     Władza prowadziła agresywną kampanię bojkotu, namawiając ludzi, by zostali w domach.
+Efekt? Aż 95% osób, które poszły głosować (4 362 wyborców), zagłosowało za odwołaniem
+Gabrieli Staszkiewicz. Jednakże referendum okazało się nieważne ze względu na frekwencję,
+która wyniosła 18,65%. Do wymaganego progu 3/5 głosów (5 321 osób) zabrakło zaledwie
+około 2% (niecałych 1000 głosów). Arogancka władza obroniła swój stołek wyłącznie dzięki
+dezinformowaniu i zniechęcaniu własnych mieszkańców do udziału w demokratycznym akcie.
+IV. WYDZIAŁ SPRAW OBYWATELSKICH I DZIAŁALNOŚCI GOSPODARCZEJ:
+SCHIZOFRENIA KONCESYJNA, TOKSYCZNA KONTRABANDA I BARIERY DLA
+NIEPEŁNOSPRAWNYCH Sercem urzędniczej biurokracji w Cieszynie jest Wydział Spraw
+Obywatelskich i Działalności Gospodarczej, zlokalizowany w Ratuszu przy ul. Kochanowskiego
+14. To tutaj, pod okiem naczelnik Oliwii Klimosz, urzędnicy tacy jak Magdalena Bielesz-Dadok
+(koncesje alkoholowe), Justyna Tomica (ewidencja ludności), Inga Sztwiertnia czy Grzegorz
+Soboszek skrupulatnie pilnują i reglamentują obywatelskie dokumenty oraz pozwolenia na
+prowadzenie biznesu.
+## Strona 3
+
+Ten kluczowy dla mieszkańców wydział obsługuje petentów w budynku, który jest całkowicie
+niedostosowany do potrzeb osób niepełnosprawnych. Jak głosi oficjalna deklaracja
+dostępności, budynek posiada bariery architektoniczne (schody przy wejściu), drzwi nie
+otwierają się automatycznie, a co najważniejsze – nie jest wyposażony w windę. Władza
+chętnie nakłada na przedsiębiorców obowiązki, ale od lat nie potrafi zapewnić godnego dostępu
+do urzędu dla osób na wózkach inwalidzkich.
+Szczytem hipokryzji są działania wydziału w zakresie polityki koncesyjnej. W kwietniu 2026 roku
+Rada Miejska Cieszyna przeforsowała (stosunkiem głosów 9 za, 7 przeciw) wprowadzenie od
+września tzw. nocnej prohibicji, zakazującej sprzedaży alkoholu w sklepach między godziną
+22:00 a 6:00. Decyzja ta dławi lokalny, legalnie płacący podatki handel detaliczny.
+Tymczasem, pod samym nosem restrykcyjnych urzędników, Cieszyn stał się potężnym rynkiem
+zbytu dla śmiercionośnej kontrabandy. Funkcjonariusze Krajowej Administracji Skarbowej (KAS)
+regularnie zatrzymują w Cieszynie transporty nielegalnego alkoholu przemycanego z terytorium
+Czech. Badania laboratoryjne setek przejętych butelek "spirytusu" i "rumu" (bez akcyzy, z
+podrobionymi banderolami) ujawniły zatrważającą prawdę: w środku znajdował się alkohol
+izopropylowy, produkowany do celów przemysłowych, którego spożycie grozi kalectwem i utratą
+życia. Urzędnicy z premedytacją niszczą legalny biznes prohibicją, podczas gdy ulice miasta
+zalewane są toksycznym metanolem, a zorganizowane grupy przemytnicze operują w
+najlepsze.
+V. POLITYCZNY CYRK ZAMIAST ZARZĄDZANIA: WYCIĘTE CHODNIKI, DZIKIE
+WYSYPISKA I INCYDENT FLAGOWY Symptomem całkowitego paraliżu zarządczego ekipy
+Gabrieli Staszkiewicz jest fakt, że miasto tonie w zaniedbaniach. Mieszkańcy gorzko ironizują,
+że przez cały rok trawniki i pobocza chodników w Cieszynie były zarośnięte chwastami, a
+"wielkie porządki" i koszenie zorganizowano pospiesznie dopiero wtedy, gdy ogłoszono
+referendum odwoławcze. Miasto nie radzi sobie z podstawowymi usługami komunalnymi – przy
+ul. Wiślańskiej (działka nr 19) na terenach gminnych bezkarnie powstają dzikie wysypiska
+odpadów budowlanych i zużytych opon. Dodatkowo w magistracie dochodzi do incydentów
+naruszających bezpieczeństwo danych – Zakład Budynków Miejskich (ZBM) informował o
+możliwym cyberataku, co rodzi potężne ryzyko wycieku poufnych informacji o obywatelach.
+Zamiast zająć się sprzątaniem miasta i łataniem luk w systemach IT, burmistrz Staszkiewicz woli
+wywoływać polityczne awantury i wojny ideologiczne. 11 lipca 2025 roku, w Narodowy Dzień
+Pamięci Ofiar Ludobójstwa na Wołyniu, posłowie Konfederacji (Bronisław Foltyn i Roman Fritz)
+podjęli "interwencję poselską", usuwając ukraińskie flagi z balkonu cieszyńskiego ratusza i
+zawieszając w ich miejsce polskie barwy narodowe. Posłowie zarzucili Staszkiewicz brak
+jakichkolwiek obchodów państwowego święta ku czci pomordowanych na Wschodzie Polaków.
+Reakcja burmistrz była kuriozalna i pełna wrogości: oskarżyła posłów o "kradzież flag",
+"działanie na korzyść Rosji" i natychmiast zaangażowała policję oraz prokuraturę w ten
+polityczny teatr. W wywiadzie dla mediów Staszkiewicz wypaliła bezczelnie: "Dlaczego akurat
+Cieszyn miałby o Wołyniu dziś wyjątkowo pamiętać?". Ta skandaliczna wypowiedź dobitnie
+pokazuje, że dla władz Cieszyna pamięć historyczna własnego narodu jest mniej istotna niż
+ideologiczna poprawność i atakowanie przeciwników politycznych.
+PODSUMOWANIE Urząd Miejski w Cieszynie to klasyczne studium instytucji, która uległa
+głębokiej degeneracji. To system, w którym obywatele są zmuszani do przestrzegania
+biurokratycznych rygorów w niedostosowanych dla niepełnosprawnych budynkach Wydziału
+Spraw Obywatelskich, podczas gdy ich podatki są lekką ręką marnowane na autopromocję i
+dezinformację referendalną władzy. Cieszyński magistrat zataja kompromitujące raporty NIK o
+zagrożeniach na drogach, ukrywa wstrząsające protokoły RIO o widmie bankructwa miasta, a
+legalnych przedsiębiorców dławi nocną prohibicją, ignorując fakt, że miasto jest trute
+## Strona 4
+
+przemysłowym, nielegalnym alkoholem.
+Burmistrz Gabriela Staszkiewicz i jej urzędniczy aparat udowodnili, że interes mieszkańców jest
+dla nich jedynie nic nieznaczącym hasłem. Cieszyn stał się prywatnym, zabetonowanym
+folwarkiem, w którym arogancja, polityczne awantury i niekompetencja w zarządzaniu
+publicznymi pieniędzmi osiągnęły absolutne maksimum.

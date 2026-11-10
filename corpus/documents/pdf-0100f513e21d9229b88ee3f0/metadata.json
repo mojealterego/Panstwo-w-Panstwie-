@@ -1,0 +1,31 @@
+{
+  "document_id": "pdf-0100f513e21d9229b88ee3f0",
+  "schema_version": 1,
+  "source_sha256": "0100f513e21d9229b88ee3f050d030fcd1a54a6bc1af51edecd2e4dcaa2e2e5f",
+  "text_sha256": "d1bff63f65e2dce035bb82e2b95380ea03be17d8f00fd0cdad80981501331b18",
+  "original_filenames": [
+    "ZŁOTY PARASOL DLA RADYKAŁÓW. Limelight Foundation_...PDF"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    2691,
+    3158,
+    3636,
+    107
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-0100f513e21d9229b88ee3f0/document.md",
+  "text_path": "documents/pdf-0100f513e21d9229b88ee3f0/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Limelight Foundation — twierdzenia o grantach, przepływach finansowych i NGO"
+}

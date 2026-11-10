@@ -1,0 +1,6 @@
+{
+  "batch_id": "batch-016",
+  "relations": [],
+  "exact_page_duplicates": [],
+  "method": "5-token shingles; 90% overlap; no automatic discard"
+}

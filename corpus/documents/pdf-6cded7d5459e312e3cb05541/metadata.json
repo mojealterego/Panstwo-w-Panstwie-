@@ -1,0 +1,23 @@
+{
+  "document_id": "pdf-6cded7d5459e312e3cb05541",
+  "source_sha256": "6cded7d5459e312e3cb05541845e8ff0c805d2bc4e20f04605ff75203fd13147",
+  "text_sha256": "ee8c7ed1771d68eb8aaad30de10c82e18485ab53898d3ffebb583398b8447fd1",
+  "original_filenames": [
+    "Dokument bez nazwy.PDF"
+  ],
+  "page_count": 5,
+  "page_characters": [
+    3561,
+    3594,
+    3194,
+    3687,
+    1674
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Bieruń — MOPS, sprawy pracownicze i zespół interdyscyplinarny",
+  "markdown_path": "documents/pdf-6cded7d5459e312e3cb05541/document.md",
+  "text_path": "documents/pdf-6cded7d5459e312e3cb05541/document.txt"
+}

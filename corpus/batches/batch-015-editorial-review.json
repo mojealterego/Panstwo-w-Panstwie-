@@ -1,0 +1,49 @@
+{
+  "batch_id": "batch-015",
+  "fact_check_status": "unverified_source_material",
+  "publication_review_required": true,
+  "sensitive_topics": [
+    "nazwane osoby i organizacje",
+    "zarzuty nadużyć i przestępstw",
+    "przemoc domowa i dane wrażliwe"
+  ],
+  "source_type": "publicystyczne opracowania, nie oryginalne raporty organów",
+  "findings": [
+    {
+      "document_id": "pdf-20df268b5dd38ee1b456e4a8",
+      "page": 2,
+      "issue": "Dokument podaje datę biuletynu 21.11.2023 w opisie referendum z 07.12.2025; możliwa niezgodność chronologii.",
+      "needed_primary_evidence": "Oryginalny biuletyn miejski, numer i data publikacji, akta postępowania referendalnego.",
+      "status": "requires_independent_verification"
+    },
+    {
+      "document_id": "pdf-20df268b5dd38ee1b456e4a8",
+      "page": 3,
+      "issue": "Ten sam fragment używa terminów alkohol izopropylowy i metanol; to różne substancje.",
+      "needed_primary_evidence": "Komunikat KAS, protokół laboratoryjny, numer sprawy i opis zabezpieczonego alkoholu.",
+      "status": "requires_independent_verification"
+    },
+    {
+      "document_id": "pdf-b975dddf71d1d51075672671",
+      "page": 1,
+      "issue": "Adres e-mail w darmowej domenie nie dowodzi sam w sobie naruszenia RODO ani przesyłania danych szczególnych kategorii.",
+      "needed_primary_evidence": "Polityka bezpieczeństwa danych, konfiguracja poczty, protokoły UODO i odpowiedź urzędu.",
+      "status": "requires_independent_verification"
+    },
+    {
+      "document_id": "pdf-0100f513e21d9229b88ee3f0",
+      "page": 3,
+      "issue": "Tekst wyprowadza twierdzenie o wpływie finansowania fundacji na decyzje zespołów interdyscyplinarnych bez pokazania bezpośredniego łańcucha dowodowego.",
+      "needed_primary_evidence": "Umowy grantowe, sprawozdania, uchwały i składy zespołów, dowody przepływu środków.",
+      "status": "requires_independent_verification"
+    },
+    {
+      "document_id": "pdf-bafe39828f10c5e413600f5d",
+      "page": 2,
+      "issue": "Związek przyczynowy między grantem z lat 2022–2024 a wycofaniem algorytmu w 2019 r. nie wynika z przedstawionej chronologii.",
+      "needed_primary_evidence": "Umowa grantowa, decyzje i orzeczenia z 2019 r., kalendarium działań fundacji.",
+      "status": "requires_independent_verification"
+    }
+  ],
+  "methodology": "Przyjęcie i transkrypcja nie potwierdzają zarzutów. Przed publikacją: dokumenty pierwotne, stanowiska stron, weryfikacja prawna i prywatności."
+}

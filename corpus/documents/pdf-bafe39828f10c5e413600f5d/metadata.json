@@ -1,0 +1,31 @@
+{
+  "document_id": "pdf-bafe39828f10c5e413600f5d",
+  "schema_version": 1,
+  "source_sha256": "bafe39828f10c5e413600f5dc5be07071b7f45380f4a5099d052dbe561eb2b87",
+  "text_sha256": "8a729d3d77c9f08a1194d3dbae7f35c064e860ee77bfb2a34c25f5a57110e178",
+  "original_filenames": [
+    "Śledztwo_ Mechanizmy Wpływu i Finansowania.PDF"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    2719,
+    3248,
+    3279,
+    1033
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-bafe39828f10c5e413600f5d/document.md",
+  "text_path": "documents/pdf-bafe39828f10c5e413600f5d/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Luminate — Omidyar Group, finansowanie NGO i regulacje AI"
+}

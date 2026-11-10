@@ -1,0 +1,34 @@
+{
+  "document_id": "pdf-5da29dba815195a05a270ff7",
+  "source_sha256": "5da29dba815195a05a270ff7afeefcf13acdc5f5323dbeb969794dda5d793f1e",
+  "text_sha256": "b8640c0a5d0c2184c0fdc6c0384c29d8d714c392da826fd13655f37214f48dae",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy.PDF"
+  ],
+  "page_count": 16,
+  "page_characters": [
+    2762,
+    3235,
+    3068,
+    2815,
+    2736,
+    2710,
+    3109,
+    3332,
+    3703,
+    3243,
+    3583,
+    3623,
+    3598,
+    3352,
+    3693,
+    1594
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Struktury lokalnych zespołów interdyscyplinarnych; zestawienie NGO",
+  "markdown_path": "documents/pdf-5da29dba815195a05a270ff7/document.md",
+  "text_path": "documents/pdf-5da29dba815195a05a270ff7/document.txt"
+}

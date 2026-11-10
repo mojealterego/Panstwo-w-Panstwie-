@@ -1,0 +1,29 @@
+{
+  "document_id": "pdf-dfaa97b1abc102e2b54f0ef2",
+  "schema_version": 1,
+  "source_sha256": "dfaa97b1abc102e2b54f0ef2804887d995b7e98e5ab648d231c637c6d8bbaf21",
+  "text_sha256": "01ff35062bc9960bd38e31bc5db39a2e36f7c5671a98d82c9e6f2f2a395f66c0",
+  "original_filenames": [
+    "Twierdza Cieszyn_ Urzędnicza Hipokryzja i Propagan..(1).PDF"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    3765,
+    3573,
+    2636
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-dfaa97b1abc102e2b54f0ef2/document.md",
+  "text_path": "documents/pdf-dfaa97b1abc102e2b54f0ef2/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Cieszyn — raport syntetyczny, samorząd, RIO/NIK, referendum, sieć podmiotów"
+}

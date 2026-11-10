@@ -1,0 +1,29 @@
+{
+  "document_id": "pdf-b975dddf71d1d51075672671",
+  "schema_version": 1,
+  "source_sha256": "b975dddf71d1d510756726710a2702dc870ce83d66a998d10d66a0cd28b14877",
+  "text_sha256": "f4a398af4f0ce3a96bb20f343d26c1cc5585ad4fde718490abd3cf3da1dbe63c",
+  "original_filenames": [
+    "Śledztwo_ Zespół Interdyscyplinarny w Abramowie.PDF"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2745,
+    3402,
+    364
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-b975dddf71d1d51075672671/document.md",
+  "text_path": "documents/pdf-b975dddf71d1d51075672671/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Abramów — zespół interdyscyplinarny, procedura Niebieskie Karty"
+}

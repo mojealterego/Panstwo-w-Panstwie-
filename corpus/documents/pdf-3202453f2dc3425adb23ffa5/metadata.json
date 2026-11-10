@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-3202453f2dc3425adb23ffa5",
+  "source_sha256": "3202453f2dc3425adb23ffa5d451f281db8a2e3b2f6403386e2f523b813aba90",
+  "text_sha256": "46968df23219e65787b9c790a4e12cd446e5aa6879f65f3ddb22131595e8792d",
+  "original_filenames": [
+    "ABORCYJNY HOLDING I SĄDOWY SZANTAŻ_.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2575,
+    3071,
+    1919
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "FEDERA — działalność prawna i finansowanie",
+  "markdown_path": "documents/pdf-3202453f2dc3425adb23ffa5/document.md",
+  "text_path": "documents/pdf-3202453f2dc3425adb23ffa5/document.txt"
+}

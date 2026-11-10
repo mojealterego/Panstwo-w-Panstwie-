@@ -1,0 +1,92 @@
+{
+  "batch_id": "batch-015",
+  "source_count": 5,
+  "source_page_count": 18,
+  "new_document_count": 5,
+  "new_unique_pages": 18,
+  "previously_indexed_count": 0,
+  "canonical_total_documents": 91,
+  "canonical_total_pages": 476,
+  "total_receipts": 95,
+  "source_pdf_sha256_verified": true,
+  "raw_pdf_in_repo": false,
+  "fact_check_status": "unverified_source_material",
+  "quality_status": "extracted",
+  "recognized_tables_count": 0,
+  "new_duplicate_pairs": 0,
+  "duplicate_pairs_after_import": 26,
+  "exact_page_duplicate_pairs": 0,
+  "extraction_engine": "PyMuPDF 1.26.7, embedded text sort=True (1-based pages); SHA-256 original byte integrity",
+  "baseline_scope": "canonical GitHub index, source SHA-256 compared separately",
+  "cross_corpus_text_similarity": "not_evaluated",
+  "unresolved_older_batch_002_slots": [
+    "slot-01",
+    "slot-02",
+    "slot-03",
+    "slot-04",
+    "slot-05"
+  ],
+  "missing_number_53_not_received": true,
+  "originals": [
+    {
+      "filename": "Twierdza Cieszyn_ Urzędnicza Hipokryzja i Propagan..(1).PDF",
+      "document_id": "pdf-dfaa97b1abc102e2b54f0ef2",
+      "source_sha256": "dfaa97b1abc102e2b54f0ef2804887d995b7e98e5ab648d231c637c6d8bbaf21",
+      "text_sha256": "01ff35062bc9960bd38e31bc5db39a2e36f7c5671a98d82c9e6f2f2a395f66c0",
+      "size_bytes": 121148,
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "structured_tables": 0,
+      "topic": "Cieszyn — raport syntetyczny, samorząd, RIO/NIK, referendum, sieć podmiotów"
+    },
+    {
+      "filename": "Twierdza Cieszyn_ Urzędnicza Hipokryzja i Propagan...PDF",
+      "document_id": "pdf-20df268b5dd38ee1b456e4a8",
+      "source_sha256": "20df268b5dd38ee1b456e4a828586bf8fe70446ce3af29812deb0f4c6e941359",
+      "text_sha256": "1295b4dd501084177c3428fe7514361adc9926ea2bef63653e496178bbe2ef31",
+      "size_bytes": 109832,
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "structured_tables": 0,
+      "topic": "Cieszyn — analiza RIO/NIK, referendum, dostępność, polityka lokalna"
+    },
+    {
+      "filename": "ZŁOTY PARASOL DLA RADYKAŁÓW. Limelight Foundation_...PDF",
+      "document_id": "pdf-0100f513e21d9229b88ee3f0",
+      "source_sha256": "0100f513e21d9229b88ee3f050d030fcd1a54a6bc1af51edecd2e4dcaa2e2e5f",
+      "text_sha256": "d1bff63f65e2dce035bb82e2b95380ea03be17d8f00fd0cdad80981501331b18",
+      "size_bytes": 117604,
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "structured_tables": 0,
+      "topic": "Limelight Foundation — twierdzenia o grantach, przepływach finansowych i NGO"
+    },
+    {
+      "filename": "Śledztwo_ Mechanizmy Wpływu i Finansowania.PDF",
+      "document_id": "pdf-bafe39828f10c5e413600f5d",
+      "source_sha256": "bafe39828f10c5e413600f5dc5be07071b7f45380f4a5099d052dbe561eb2b87",
+      "text_sha256": "8a729d3d77c9f08a1194d3dbae7f35c064e860ee77bfb2a34c25f5a57110e178",
+      "size_bytes": 121649,
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "structured_tables": 0,
+      "topic": "Luminate — Omidyar Group, finansowanie NGO i regulacje AI"
+    },
+    {
+      "filename": "Śledztwo_ Zespół Interdyscyplinarny w Abramowie.PDF",
+      "document_id": "pdf-b975dddf71d1d51075672671",
+      "source_sha256": "b975dddf71d1d510756726710a2702dc870ce83d66a998d10d66a0cd28b14877",
+      "text_sha256": "f4a398af4f0ce3a96bb20f343d26c1cc5585ad4fde718490abd3cf3da1dbe63c",
+      "size_bytes": 89041,
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "structured_tables": 0,
+      "topic": "Abramów — zespół interdyscyplinarny, procedura Niebieskie Karty"
+    }
+  ]
+}

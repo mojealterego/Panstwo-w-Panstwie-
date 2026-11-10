@@ -1,0 +1,22 @@
+{
+  "document_id": "pdf-37a5eb4febfb0e171e537b14",
+  "source_sha256": "37a5eb4febfb0e171e537b1422315264e6d744b56fc6bb0fc5a63d6d155eacdb",
+  "text_sha256": "fb2de640e74777d7a041983df8faba8d94ed7256be1282f1c182c15d653409fd",
+  "original_filenames": [
+    "CYFROWI STRAŻNICY NA SMYCZY OLIGARCHÓW__.pdf"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    2618,
+    3223,
+    3201,
+    212
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Fundacja Panoptykon — granty i regulacje cyfrowe",
+  "markdown_path": "documents/pdf-37a5eb4febfb0e171e537b14/document.md",
+  "text_path": "documents/pdf-37a5eb4febfb0e171e537b14/document.txt"
+}

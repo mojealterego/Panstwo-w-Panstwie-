@@ -1,0 +1,21 @@
+{
+  "document_id": "pdf-cf03e16d8915424f7a2ae187",
+  "source_sha256": "cf03e16d8915424f7a2ae18779e05f00fe3251cb7703a77a7cf59539a9291882",
+  "text_sha256": "4561de5ecac25f7c7abe53d51531cd4b2b7595d642ed217fb12326cc27f7e264",
+  "original_filenames": [
+    "BRUKSELSKI SEJF OLIGARCHÓW__.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2611,
+    3364,
+    1401
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "provenance_note": "Original file retained unchanged; source assertions not adjudicated.",
+  "topic": "Network of European Foundations — granty i programy",
+  "markdown_path": "documents/pdf-cf03e16d8915424f7a2ae187/document.md",
+  "text_path": "documents/pdf-cf03e16d8915424f7a2ae187/document.txt"
+}

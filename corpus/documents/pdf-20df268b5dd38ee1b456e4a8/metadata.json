@@ -1,0 +1,31 @@
+{
+  "document_id": "pdf-20df268b5dd38ee1b456e4a8",
+  "schema_version": 1,
+  "source_sha256": "20df268b5dd38ee1b456e4a828586bf8fe70446ce3af29812deb0f4c6e941359",
+  "text_sha256": "1295b4dd501084177c3428fe7514361adc9926ea2bef63653e496178bbe2ef31",
+  "original_filenames": [
+    "Twierdza Cieszyn_ Urzędnicza Hipokryzja i Propagan...PDF"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    3893,
+    3856,
+    4066,
+    352
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-20df268b5dd38ee1b456e4a8/document.md",
+  "text_path": "documents/pdf-20df268b5dd38ee1b456e4a8/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Cieszyn — analiza RIO/NIK, referendum, dostępność, polityka lokalna"
+}
