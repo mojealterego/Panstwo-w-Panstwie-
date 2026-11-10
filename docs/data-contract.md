@@ -42,3 +42,7 @@ Limit pojedynczego PDF: 150 MiB. Zaszyfrowane i uszkodzone PDF-y są odrzucane z
 ## Zakres obecnej implementacji
 
 To pipeline ekstrakcji i indeksowania, a nie pełny system analizy dowodów. Rozpoznawanie przypisów, grafów powiązań, ekstrakcja twierdzeń i niezależna weryfikacja źródeł wymagają oddzielnego procesu badawczego.
+
+## Awaryjny tryb transkrypcji bez bajtów PDF
+
+Jeżeli interfejs rozmowy udostępnia jedynie wyodrębniony tekst i numerację stron, ale nie umożliwia odczytu oryginalnego pliku, nie wolno generować `pdf-<sha256>`, wymyślać nazw ani dopisywać rekordu do kanonicznego `index.jsonl`. Zapisz osobny rekord w `corpus/staging/<batch_id>/slot-NN/` wraz z `source_kind=chat_attachment_text_preview`, `source_sha256=null`, `quality_status=awaiting_binary_pdf`, numerami stron i referencją podglądu. Zachowaj wszystkie załączniki, nawet jeśli widoczny tekst jest identyczny. Po uzyskaniu oryginałów wykonaj normalny import i porównanie stron. Ten tryb nie zastępuje weryfikacji PDF.

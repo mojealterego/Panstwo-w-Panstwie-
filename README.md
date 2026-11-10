@@ -56,3 +56,7 @@ AGENTS.md                       # reguły dla agentów AI
 Partia `batch-001`: **10 rzeczywistych PDF-ów / 72 strony**. Pełne transkrypcje Markdown i TXT, pliki stron, metadane i indeksy znajdują się w `corpus/`. Raport: [docs/batches/batch-001.md](docs/batches/batch-001.md).
 
 Każdy dokument ma identyfikator SHA-256 oryginalnych bajtów. W repozytorium opublikowano **tekst**, natomiast oryginalne pliki binarne PDF pozostają w osobnym pakiecie archiwalnym. Wszystkie zarzuty i interpretacje w źródłach mają status `unverified_source_material`.
+
+### Partia 002 — weryfikacja w toku
+
+Pięć podglądów załączników (`turn108file5`–`turn108file9`, łącznie 15 stron) zapisano w [`corpus/staging/batch-002/`](corpus/staging/batch-002/) jako **transkrypcje tymczasowe**, nie kanoniczne importy PDF. Każdy załącznik ma osobny rekord, także przy zgodności tekstu. [Raport](docs/batches/batch-002.md). Brak dostępu do oryginalnych bajtów PDF oznacza, że ich nazwy i SHA-256 pozostają nieustalone. Pozostałych pięciu pozycji tej partii nie oznaczono jako przetworzonych.

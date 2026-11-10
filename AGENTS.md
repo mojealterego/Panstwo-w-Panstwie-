@@ -20,3 +20,10 @@
 - Ten sam SHA-256 pod innymi nazwami ma zachować wszystkie aliasy.
 - `duplicates.json` nie dowodzi identyczności oryginalnych PDF-ów, jeśli relacja to `exact_text` lub `near_duplicate`.
 - Treści prywatnych, wrażliwych i niezweryfikowanych nie publikuj automatycznie w repozytorium publicznym.
+
+## Materiały tymczasowe (`corpus/staging/`)
+
+- Wpisy `chat-batch-002-slot-NN` pochodzą z podglądu tekstu w rozmowie, **nie** z kanonicznego importu bajtów PDF. Nie mają zweryfikowanego `source_sha256` ani nazwy oryginalnego pliku.
+- Cytuj je wyłącznie jako materiał tymczasowy, np. `[chat-batch-002-slot-08:s. 2; weryfikacja PDF oczekuje]`, a nie jako zweryfikowane dokumenty pierwotne.
+- Nie utożsamiaj dwóch PDF-ów na podstawie identycznej transkrypcji. Zachowaj osobne rekordy wejściowe i porównaj ich rzeczywiste SHA-256 po uzyskaniu oryginałów.
+- `corpus/index.jsonl` jest indeksem kanonicznym; pliki `corpus/staging/**/attachments.jsonl` stanowią oddzielny rejestr tymczasowy. Nie mieszaj obu kategorii bez jawnej informacji o pochodzeniu.
