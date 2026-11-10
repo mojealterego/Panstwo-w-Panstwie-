@@ -1,0 +1,129 @@
+# Dokument źródłowy pdf-7c44ee9f0e4e121ae948cc5b
+
+> Automatyczna transkrypcja. Zarzuty i twierdzenia materiału nie zostały niezależnie potwierdzone.
+
+## Strona 1
+
+POLAKU, POLKO NA WASZYCH
+KONFLIKTACH SIĘ BOGACĄ DLA NICH
+JESTEŚCIE NIKIM TYLKO STATYSTKĄ.
+DZIŚ MÓWIMY NIE WŁADZY
+
+System nie jest zepsuty. On działa dokładnie tak, jak skrupulatnie zaplanowali jego architekci. Z
+każdym rokiem rośnie w Polsce i Europie liczba urzędników, rzekomych ekspertów,
+wyspecjalizowanych prawników i fundacji, dla których Twoje problemy rodzinne to po prostu
+wysoce lukratywny biznes. Kiedy obywatel zderza się z bezduszną machiną państwa – w
+sądzie, w ośrodku pomocy czy na komisariacie – naiwnie wierzy, że te instytucje powołano po
+to, by mu pomóc. Prawda jest jednak brutalna: dla władzy i oplatających ją struktur rozpad
+Twojej rodziny to gwarancja ich własnego zatrudnienia. Jesteś tylko numerem w procedurze,
+rubryką w sprawozdaniu o unijne dotacje i pretekstem do wypłacania kolejnych,
+astronomicznych pensji.
+Gdyby prawo w Polsce zostało napisane tak, aby rzeczywiście chronić rodzinę i szybko,
+polubownie gasić konflikty, całe ministerstwa, dziesiątki wydziałów i gigantyczne organizacje
+pozarządowe musiałyby przestać istnieć. Oto dlaczego prawo nigdy nie ulegnie zmianie na
+Twoją korzyść.
+
+1. Przemysł rozwodowy i instrumentalne "Niebieskie Karty"
+
+Sztandarowym przykładem jest procedura "Niebieskiej Karty", która w teorii miała stanowić
+tarczę dla najsłabszych, a w praktyce stała się bronią masowego rażenia w salach sądowych.
+Analizy prawne i społeczne bezlitośnie pokazują, że procedura ta bywa powszechnie
+wykorzystywana w sposób instrumentalny w toku postępowań rozwodowych, bezwzględnej
+walki o alimenty czy o sprawowanie władzy rodzicielskiej nad dziećmi.
+Zamiast gasić pożar, system ten zachęca do jego podsycania. Wszczęcie procedury wymaga
+dziś często zaledwie gołego podejrzenia, w żaden sposób niepotwierdzonego żadnymi
+twardymi dowodami ani prawomocnym orzeczeniem sądu. To jest właśnie ten kluczowy
+element, który celowo zostawiono w przepisach, umożliwiający masowe nadużycia – w tym
+zakładanie "Niebieskich Kart" na chwilę przed złożeniem pozwu o rozwód, wyłącznie po to, by
+uzyskać lepszą pozycję procesową i zniszczyć oponenta.
+Kto na tym zyskuje? Armia prawników i adwokatów specjalizujących się w sprawach
+rodzinnych. Nielojalne, brutalne działania w postępowaniach rozwodowych i sztuczne
+eskalowanie konfliktów to dla nich gwarancja postępowań ciągnących się latami, co
+bezpośrednio przekłada się na gigantyczne honoraria za zastępstwo procesowe. Dla tej branży
+szybka, ugodowa mediacja i sprawiedliwy podział opieki to po prostu strata cennego klienta.
+
+2. OZSS i sądy: Wyrocznie na państwowym garnuszku
+
+Twój majątek, Twoje dziecko i Twoje prawo do opieki nad nim trafiają ostatecznie w ręce
+państwowych Opiniodawczych Zespołów Sądowych Specjalistów (OZSS). Teoretycznie są to
+
+## Strona 2
+
+niezależni, obiektywni eksperci. W praktyce to instytucje działające jak wyrocznia, których
+arbitralne decyzje przeradzają się dla rodziców w dramaty i niszczą życie całych pokoleń.
+Dlaczego aparat sprawiedliwości pozwala na przeciąganie badań miesiącami, a nawet latami?
+Ponieważ biegli psycholodzy w OZSS funkcjonują w ścisłej, zamkniętej symbiozie z wymiarem
+sprawiedliwości. Powszechną tajemnicą poliszynela jest to, że każdy biegły doskonale wie, pod
+jakiego konkretnie sędziego przygotowuje diagnozę, a pisanie opinii zgodnie z narzuconym,
+oczekiwanym kierunkiem gwarantuje mu kolejne, stałe zlecenia w przyszłości. W ten sposób
+generowane są i legalizowane patologie, w tym niszcząca dla dzieci alienacja rodzicielska.
+Urzędnicy i specjaliści mają zapewnione zlecenia i opłacone etaty, więc z ich czysto biznesowej
+perspektywy konflikt musi trwać.
+Uzdrowienie tego systemu – na przykład poprzez wprowadzenie jako standardu domyślnej
+pieczy naprzemiennej – spowodowałoby, że tysiące zlecanych opinii stałoby się
+bezprzedmiotowych. Całe rzesze "specjalistów" sądowych z dnia na dzień straciłyby sens
+swojego zawodowego istnienia i musiałoby szukać innej pracy.
+
+3. Biurokratyczny lewiatan: MOPR, GOPS i fikcja pomocy
+
+Rozrost administracji zajmującej się "przeciwdziałaniem przemocy" przybrał w Polsce rozmiary
+absurdu, z którego utrzymują się tysiące osób. Tylko w ubiegłych latach liczba wszczętych w
+ciągu roku procedur niebieskiej karty potrafiła wynieść ponad 183 tysiące. W każdej gminie w
+Polsce – od małych wsi po wielkie aglomeracje – utworzono zespoły interdyscyplinarne. W ich
+rozbudowany skład wchodzą przedstawiciele policji, pomocy społecznej, oświaty, ochrony
+zdrowia, organizacji pozarządowych oraz kuratorzy.
+Do tego dochodzą liczne grupy diagnostyczno-pomocowe. Ci wszyscy ludzie odbywają
+nieskończone spotkania, uczestniczą w płatnych szkoleniach, inkasują dodatki zadaniowe,
+wypełniają tony biurokratycznych formularzy i tworzą nikomu niepotrzebne sprawozdania.
+Machina ta generuje gigantyczne koszty. Szacuje się, że indywidualne koszty przemocy (oraz
+obsługi całego systemu jej zapobiegania) pochłaniają astronomiczne sumy – mogą one sięgać
+nawet 188 tysięcy złotych w ciągu zaledwie dwóch lat od momentu zgłoszenia sprawy do
+instytucji.
+Gdyby polskie prawo zostało uproszczone, a działania państwa stałyby się natychmiastowe,
+obiektywne i skuteczne, cała ta rozdmuchana, papierowa machina przestałaby być
+komukolwiek potrzebna. Urzędnicy Miejskich i Gminnych Ośrodków Pomocy Społecznej
+(MOPS/GOPS) straciliby uzasadnienie dla istnienia tysięcy posad, a samorządy nie
+otrzymywałyby milionowych dotacji z rządowych programów osłonowych. Dlatego obywatel
+musi pozostać w systemie jako bezradny "przypadek" do długofalowej, kosztownej obsługi.
+
+4. Miliony dla radykalnych NGO: Konflikt to paliwo dla grantów
+
+Na ludzkim nieszczęściu i rozpadzie więzi społecznych żeruje wreszcie trzeci sektor.
+Organizacje pozarządowe, które z definicji na sztandarach niosą hasła o pomocy pro publico
+bono, przekształciły się w potężne, bezwzględne korporacje, całkowicie uzależnione od
+kroplówki z dotacji. Unijne programy, takie jak chociażby gigantyczny fundusz CERV (Citizens,
+Equality, Rights and Values) dysponujący budżetem rzędu 1,55 miliarda euro, służą
+bezpośrednio do pompowania pieniędzy i utrzymywania całego ekosystemu ideologicznych
+fundacji.
+Te organizacje nigdy nie będą lobbować za wprowadzeniem prostych, przejrzystych praw,
+równości dla matek i ojców czy za ochroną pełnej, tradycyjnej rodziny. One muszą nieustannie
+
+## Strona 3
+
+krzyczeć, udowadniać w raportach, że w społeczeństwie trwa nieustanny "kryzys", "przemoc" i
+"dyskryminacja". Tylko taka, katastroficzna narracja uzasadnia przed decydentami konieczność
+pobierania kolejnych zagranicznych i rządowych grantów na ratowanie rzekomo uciskanych
+mas.
+Co by się stało, gdyby problem, którym te fundacje się zajmują, został trwale rozwiązany przez
+dobre, sprawiedliwe prawo w parlamencie? Organizacje te z dnia na dzień straciłyby rację bytu.
+Setki aktywistów i prezesów straciłoby swoje lukratywne pensje, a zagraniczny kapitał
+przestałby spływać na ich konta. Dlatego właśnie najbardziej zależy im na wiecznej wojnie,
+podsycaniu lęku, antagonizowaniu płci i kreowaniu sztucznych podziałów społecznych, z
+których uczynili swój zyskowny model biznesowy.
+
+KONKLUZJA: Wypowiedzenie posłuszeństwa
+
+Władza wykonawcza, sądownicza i ustawodawcza – od najniższego szczebla lokalnego, aż po
+globalne instytucje unijne – nie jest realnie zainteresowana likwidacją i profilaktyką kryzysów w
+polskich domach. Cały ten misternie utkany "przemysł pomocowy" i "sprawiedliwościowy"
+przypomina nowotwór pasożytujący na tragedii zwykłych ludzi.
+Dla sędziego, zarabiającego z "wierszówek" biegłego OZSS, pracownika pomocy społecznej,
+czy brylującego w mediach prawnika z aktywistycznej fundacji, nie jesteś człowiekiem z krwi i
+kości. Jesteś wyłącznie źródłem ich utrzymania, rubryką w systemie i statystycznym trybikiem
+napędzającym przepływ milionowych środków budżetowych.
+Czas przejrzeć na oczy. Na Waszych łzach, zrujnowanych nerwach, przewlekłych rozwodach i
+odcinanych od miłości dzieciach, zbudowano potężny układ, który sam z siebie nigdy nie
+zrezygnuje z posiadanych wpływów i gigantycznych zysków. Dopóki społeczeństwo pozwala na
+tę instytucjonalną arogancję i finansowanie ich synekur z własnych podatków, prawo w Polsce
+będzie dławić obywatela. Dziś musimy wreszcie powiedzieć stanowcze NIE tej władzy i dumnie
+odrzucić narzuconą nam rolę ofiar w ich dochodowym teatrze.

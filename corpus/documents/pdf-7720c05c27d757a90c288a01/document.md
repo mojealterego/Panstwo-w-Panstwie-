@@ -1,0 +1,646 @@
+# Dokument źródłowy pdf-7720c05c27d757a90c288a01
+
+> Automatyczna transkrypcja. Zarzuty i twierdzenia materiału nie zostały niezależnie potwierdzone.
+
+## Strona 1
+
+DYKTAT ESG. As You Sow: Jak
+aktywiści finansowi przejmują kontrolę
+nad zarządami korporacji i forsują
+radykalną agendę pod płaszczykiem
+troski o klimat
+
+Współczesne przejęcia korporacyjne nie wymagają już dysponowania miliardowym kapitałem
+ani wrogiego wykupywania pakietów kontrolnych na giełdzie. Najpotężniejszą bronią w walce o
+kontrolę nad globalnym biznesem stał się zinstytucjonalizowany szantaż moralny, znany pod
+skrótem ESG (Environmental, Social, and Governance). Pod płaszczykiem szlachetnej walki ze
+zmianami klimatycznymi i nierównościami, wyspecjalizowane organizacje pozarządowe
+zbudowały mechanizm, który pozwala im dyktować warunki największym firmom na świecie.
+W samym centrum tego układu znajduje się kalifornijska organizacja As You Sow. Wykreowana
+w mediach jako grupa niezależnych ekologów i obrońców praw akcjonariuszy, w rzeczywistości
+funkcjonuje jako bezwzględny kartel finansowo-polityczny. Prześwietlenie ich deklaracji
+podatkowych, powiązań z gigantami z Wall Street oraz dokumentów z przesłuchań przed
+amerykańskim Kongresem obnaża przerażającą prawdę. To podmiot, który za pomocą zaledwie
+ułamków procenta akcji paraliżuje zarządy korporacji, łamie przepisy antymonopolowe i
+wymusza wdrażanie radykalnych ideologii, które następnie za pośrednictwem łańcuchów
+dostaw eksportowane są do Europy i Polski.
+Oto bezkompromisowa sekcja zwłok najpotężniejszego aktywisty korporacyjnego w USA.
+
+1. GENEALOGIA KAPITAŁU I MODEL AKTYWIZMU
+KORPORACYJNEGO
+
+Zrozumienie fenomenu As You Sow wymaga obalenia mitu o ich rzekomej "oddolności".
+Fundacja, zarejestrowana jako podmiot charytatywny 501(c)(3), dysponuje relatywnie
+skromnym budżetem własnym – według deklaracji podatkowych IRS Form 990 za 2024 rok, ich
+całkowite aktywa wyniosły 9,2 miliona dolarów, a roczne przychody operacyjne nieco ponad 4,1
+miliona dolarów.
+Mimo to, organizacja ta potrafi mobilizować kapitał liczony w bilionach dolarów. Jak to możliwe?
+As You Sow opanowało do perfekcji model aktywizmu korporacyjnego, który polega na
+nabywaniu minimalnych, wręcz ułamkowych pakietów akcji wielkich spółek giełdowych
+wyłącznie po to, by zyskać formalne prawo do zgłaszania tzw. rezolucji akcjonariatu
+(shareholder resolutions). Nie inwestują po to, by zarabiać na wzroście wartości spółki –
+inwestują, by zinfiltrować jej struktury zarządcze.
+Kluczowym elementem ich inżynierii finansowej jest wykorzystywanie funduszy typu DAF
+(Donor-Advised Funds). To wehikuły finansowe pozwalające najbogatszym na przekazywanie
+środków przy zachowaniu pełnej anonimowości i natychmiastowym uzyskaniu ulg podatkowych.
+Kiedy w maju 2026 roku najwięksi amerykańscy administratorzy DAF-ów (Charles Schwab,
+Vanguard i Fidelity) próbowali zablokować transfery do radykalnych grup politycznych, to
+
+## Strona 2
+
+właśnie CEO As You Sow, Andrew Behar, stanął na czele koalicji inwestorów dysponujących
+aktywami o wartości 4,3 biliona dolarów, dokonując bezpardonowego nacisku na zarządy tych
+funduszy, oskarżając je o łamanie zaufania i wymuszając kontynuację finansowania.
+
+2. DEEP FORENSIC AUDIT: Mechanizm szantażu i monopol "Proxy
+Voting"
+
+Głównym narzędziem terroru prawnego stosowanego przez As You Sow jest reguła SEC Rule
+14a-8, która pozwala akcjonariuszom na umieszczanie własnych postulatów w materiałach do
+głosowania na walnych zgromadzeniach.
+Organizacje takie jak As You Sow taśmowo zasypują korporacje żądaniami przeprowadzenia
+drastycznej dekarbonizacji, audytów "równości rasowej" czy narzucenia kwot płciowych. Jeśli
+spółka odmawia poddania tego pod głosowanie, As You Sow wytacza jej procesy sądowe. W
+marcu 2026 roku fundacja ta pozwała ubezpieczeniowego giganta Chubb za odrzucenie
+rezolucji dotyczącej klimatu, co stało się precedensowym testem na to, jak daleko aktywiści
+mogą ingerować w biznesowe decyzje zarządów. Co więcej, gdy amerykańska Komisja
+Papierów Wartościowych i Giełd (SEC) próbowała ukrócić te praktyki, 19 marca 2026 roku As
+You Sow bez wahania pozwało samą komisję oraz jej komisarzy.
+Ten szantaż nie mógłby jednak działać bez wsparcia agencji doradczych, tzw. proxy advisors,
+takich jak ISS oraz Glass Lewis, które kontrolują ponad 90% rynku doradztwa dla funduszy
+inwestycyjnych i funduszy emerytalnych. As You Sow ściśle współpracuje z tym duopolem,
+wydając własne wytyczne "As You Vote" (dostępne m.in. na platformie Broadridge ProxyEdge).
+W kwietniu 2025 roku posunęli się do żądania, by fundusze głosowały przeciwko zarządom,
+które nie zapewniają na stanowiskach dyrektorskich minimum 40% mniejszości rasowych i
+etnicznych oraz 50% kobiet. To zinstytucjonalizowane wymuszanie parytetów kosztem
+kompetencji, uderzające w stabilność i wycenę spółek.
+
+3. INFLUENCE MAPPING: "Klimatyczny kartel" przed Kongresem USA
+
+Działalność As You Sow urosła do takich rozmiarów, że stała się przedmiotem federalnego
+śledztwa. W listopadzie 2023 roku Komisja Sądownictwa Izby Reprezentantów USA (House
+Judiciary Committee), kierowana przez Jima Jordana, wydała oficjalne wezwania pod rygorem
+kary (subpoenas) dla As You Sow oraz inicjatywy GFANZ.
+Z raportu opublikowanego w czerwcu 2024 roku wyłania się obraz zorganizowanej zmowy.
+Kongresmeni oskarżyli As You Sow, wraz z gigantami takimi jak BlackRock, State Street i
+Vanguard, o funkcjonowanie jako nieformalny "klimatyczny kartel". Udowodniono, że
+organizacje te uciekają się do "coraz bardziej eskalujących taktyk nacisku", w tym do celowego
+zwalniania niepokornych dyrektorów w firmach węglowych i naftowych. Według ustaleń
+śledczych, wymuszana przez As You Sow i ich sojuszników polityka może doprowadzić do strat
+w sektorze wydobywczym rzędu 10,5 biliona dolarów. Przesłuchiwana pod przysięgą prezydent
+As You Sow, Danielle Fugere, oraz dyrektor Andrew Behar, musieli tłumaczyć się z zarzutów o
+łamanie amerykańskich ustaw antymonopolowych poprzez nielegalne, rynkowe zmowy
+(collusion).
+
+4. ŁAŃCUCH POKARMOWY. Eksport dyktatu ESG do Europy i Polski
+
+Dlaczego kalifornijski aktywizm ma znaczenie dla polskiego obywatela i polskiej gospodarki?
+
+## Strona 3
+
+Organizacje takie jak As You Sow doskonale wiedzą, że to, czego nie zdołają przeforsować w
+sądach w USA, mogą narzucić okrężną drogą przez regulacje unijne.
+Kluczowym wektorem tego ataku jest unijna dyrektywa o sprawozdawczości przedsiębiorstw w
+zakresie zrównoważonego rozwoju (CSRD), która zmusza firmy do raportowania działań ESG w
+całym łańcuchu dostaw. Korporacje amerykańskie, sterroryzowane procesami i rezolucjami As
+You Sow, muszą narzucać drastyczne normy swoim europejskim i polskim spółkom-córkom
+oraz podwykonawcom. Oznacza to, że każda polska fabryka, firma logistyczna czy
+technologiczna, która chce współpracować z zachodnim kapitałem, musi wdrożyć kosztowne,
+ideologiczne protokoły emisji i raportowania tzw. różnorodności (DEI). Wymuszane przez As
+You Sow standardy uderzają rykoszetem w lokalny rynek, podnosząc koszty operacyjne
+polskich przedsiębiorców pod groźbą natychmiastowego zerwania kontraktów z winy
+naruszenia zasad "zrównoważonego łańcucha dostaw".
+
+5. HIPOKRYZJA SYSTEMOWA I UKRYTE TRANSFERY ZYSKÓW
+
+Najwyższym stopniem korporacyjnego cynizmu As You Sow jest ich własny portfel inwestycyjny.
+Organizacja ta od lat prowadzi bezwzględne kampanie przeciwko paliwom kopalnym, publicznie
+nawołując do całkowitej dywestycji (wycofania kapitału) z firm zajmujących się wydobyciem
+ropy, gazu i węgla. Wytykają hipokryzję politykom i innym funduszom.
+Tymczasem głęboki audyt ich własnych deklaracji podatkowych obnaża porażającą
+dwulicowość. W załącznikach do formularza IRS 990-PF za 2023 rok, wyszczególniających
+posiadane obligacje korporacyjne, czarno na białym widnieje, że fundacja As You Sow czerpała
+zyski z obligacji firmy Enterprise Products Operating. Jest to potężny amerykański gigant z
+branży rurociągów naftowych i gazowych! Organizacja, która przed kamerami oskarża firmy
+paliwowe o niszczenie planety i żąda ich bankructwa, sama po cichu lokuje własny,
+nieopodatkowany kapitał w infrastrukturze gazowo-naftowej, by generować dla siebie odsetki
+gwarantowane na poziomie 3,75%.
+
+6. DIAGNOSTYKA TRANSPARENTNOŚCI I ARBITRAŻ REGULACYJNY
+
+Działalność As You Sow to modelowy przykład arbitrażu regulacyjnego. Rejestrując się jako
+fundacja edukacyjno-charytatywna (501(c)(3)), organizacja ta korzysta z całkowitego zwolnienia
+z podatków i omija rygorystyczne przepisy nałożone na banki inwestycyjne, fundusze
+hedgingowe czy zarejestrowanych, komercyjnych lobbystów.
+Używają statusu organizacji non-profit do de facto nielegalnego zrzeszania kapitału i sterowania
+rynkiem. Ich interwencje w procedury giełdowe SEC, grożenie zarządom i sztuczne obniżanie
+wycen giełdowych spółek energetycznych uderzają ostatecznie w zwykłych obywateli i ich
+fundusze emerytalne.
+
+KONKLUZJA ŚLEDCZA: Zalegalizowany paraliż
+
+As You Sow nie jest organizacją ratującą planetę – to bezduszny mechanizm prawno-finansowy,
+który sprywatyzował procesy regulacyjne. Wykorzystując luki w amerykańskim prawie
+giełdowym, fundacja ta terroryzuje korporacje, wymuszając implementację radykalnych agend
+pod groźbą pozwów i tzw. kampanii vote-no.
+Zarabiając na obligacjach firm paliwowych, a jednocześnie napędzając histerię
+antymonopolową i klimatyczną, udowadniają całkowitą obłudę swojego modelu. Gdy połączymy
+ich siłę w USA z unijnymi dyrektywami (takimi jak CSRD), widzimy wyraźnie, że to właśnie tacy
+
+## Strona 4
+
+aktywiści finansowi, a nie demokratycznie wybrane rządy, decydują dziś o tym, kto na polskim i
+europejskim rynku otrzyma kredyt, kto podpisze kontrakt i kto będzie zmuszony do ogłoszenia
+upadłości z powodu "niezgodności z polityką klimatyczną".
+
+DOLINA KONTROLI. Omidyar Group:
+Jak miliarder z Doliny Krzemowej
+prywatyzuje demokrację, sponsoruje
+cenzurę algorytmiczną i buduje globalny
+aparat wpływu
+
+Doliny Krzemowej nie zadowala już kontrola nad światowym handlem czy strumieniem
+informacji; jej celem stało się bezpośrednie zarządzanie procesami politycznymi państw
+narodowych. Kiedy rządy próbują nakładać na technologicznych gigantów regulacje, ci
+przejmują stery nad procesem stanowienia prawa, finansując wielomiliardowe organizacje
+pozarządowe, które dyktują warunki w białych rękawiczkach pod hasłami "obrony demokracji" i
+"praw obywatelskich".
+Doskonałym studium tego zjawiska jest działalność Omidyar Group, potężnego imperium
+ufundowanego przez Pierre'a Omidyara, twórcę platformy aukcyjnej eBay. Prześwietlenie
+skomplikowanej architektury prawno-finansowej, transferów funduszy do rajów podatkowych
+oraz europejskich think tanków i lobbystów obnaża system, w którym zyski z monopolu
+e-commerce służą do cenzurowania niewygodnych narracji, osłabiania suwerenności państw i
+budowania globalnego aparatu wpływu.
+
+1. GENEALOGIA KAPITAŁU I HYBRYDOWY WEHIKUŁ FINANSOWY
+
+Omidyar Group nie jest typową organizacją filantropijną działającą wyłącznie ze szlachetnych
+pobudkach. Aby zmaksymalizować swój wpływ i ominąć ograniczenia nakładane na tradycyjne
+fundacje charytatywne, Pierre Omidyar przyjął innowacyjną i skrajnie nietransparentną,
+hybrydową strukturę korporacyjną.
+Utworzona w 2004 roku sieć Omidyar Network łączy w sobie fundację charytatywną, zwolnioną
+z podatków zgodnie z sekcją 501(c)(3) w prawie amerykańskim, z komercyjną spółką z
+ograniczoną odpowiedzialnością (LLC). Ta niezwykła konstrukcja prawna pozwala organizacji
+bez przeszkód inwestować w nastawione na zysk komercyjne startupy, a jednocześnie omijać
+rygorystyczne zakazy bezpośredniego finansowania lobbingu politycznego. Za pośrednictwem
+spółki LLC fundusz może pompować kapitał w organizacje "opieki społecznej" (tzw. podmioty
+501(c)(4)), które prowadzą agresywne działania polityczne, co jest niedostępne dla zwykłych
+fundacji. Omidyar de facto prywatyzuje w ten sposób procesy demokratyczne, używając fortuny
+z platformy eBay do tzw. "impact investingu", gdzie granica między działalnością pożytku
+publicznego a chłodnym biznesem ulega zatarciu.
+
+2. DEEP FORENSIC AUDIT: PRZEPŁYWY "DARK MONEY" I
+
+## Strona 5
+
+OPTYMALIZACJA PODATKOWA
+
+System stworzony przez Omidyara służy nie tylko celom politycznym, ale i brutalnej ochronie
+bogactwa (wealth defense). Zamiast odprowadzać setki milionów dolarów podatków do
+budżetów państw, miliarder wykorzystuje kruczki systemu.
+W dokumentach, które wyciekły do Międzynarodowego Konsorcjum Dziennikarzy Śledczych
+(ICIJ) w ramach afery "Paradise Papers", jawnie ujawniono inwestycje Omidyar Network
+ukrywane na Kajmanach. Stanowi to wyjątkowy przykład cynizmu, ponieważ Omidyar był
+jednocześnie ogromnym darczyńcą dla samego konsorcjum ICIJ. Audyt i analiza amerykańskich
+formularzy podatkowych IRS 990-PF bezlitośnie obnaża te przepływy. Z oficjalnych oświadczeń
+wynika, że zwolniona z podatków Omidyar Network Fund Inc. transferowała potężne kwoty lub
+utrzymywała wielomilionowe aktywa w jednostkach typu offshore. Mowa tu między innymi o MIG
+Offshore Fund Ltd (wycenianym na ponad 12,5 miliona dolarów), Tilden Park Offshore (z
+wyceną przekraczającą 16 milionów dolarów) czy SoMa Offshore (wycenianym na 8,2 miliona
+dolarów). Lokując potężne aktywa w zagranicznych wehikułach i wykorzystując fundusze DAF
+(Donor-Advised Funds), struktury Omidyara ukrywają swoje zyski, przekierowując kapitał w
+szarą strefę "dark money" w celu finansowania lobbingu, za który obywatele muszą płacić
+własnymi podatkami.
+
+3. INFLUENCE MAPPING: SPONSOROWANIE CENZURY I
+MONOPOLIZACJA "PRAWDY"
+
+Pieniądze grupy celowo projektują globalną inżynierię społeczną i próbują zmonopolizować to,
+co wolno czytać w sieci. Kapitał Omidyara płynie masowo do podmiotów kontrolujących
+informacje w internecie.
+Organizacje powiązane z Omidyarem (w tym inicjatywa Luminate) przekazują ogromne środki
+finansowe na tworzenie tzw. "kompleksu cenzury", zasilając sieci portali fact-checkingowych i
+grup śledczych na całym świecie. Według danych finansowych fundusze od Omidyara (nawet
+na kwotę 6 milionów dolarów w ramach koalicji) trafiały do jednostek certyfikujących prawdę
+takich jak Poynter Institute czy PolitiFact. Te elitarne środowiska wykorzystują swój status do
+tego, by w formie "niezależnych raportów" wymuszać na wielkich platformach
+społecznościowych usuwanie lub oznaczanie treści, które nie są zgodne z pożądaną,
+globalistyczną agendą. Omidyar zbudował w ten sposób model, w którym publicznym
+dyskursem w internecie nie kierują państwa czy obywatele, lecz sieć opłacanych przez niego
+prywatnych organizacji decydujących o algorytmicznej poprawności.
+
+4. ŁAŃCUCH POKARMOWY I POLSKI WĄTEK: KOLONIZACJA
+EUROPEJSKIEJ POLITYKI CYFROWEJ
+
+Kapitał Omidyara nie omija Europy Środkowo-Wschodniej. Używając rozbudowanej sieci,
+pieniądze z USA płyną do lokalnych organizacji, aby wpływać na kluczowe regulacje tworzone
+na szczeblu krajowym oraz w Brukseli.
+Pieniądze te zasilają wprost lub pośrednio środowiska cyfrowych "watchdogów" w Polsce.
+Organizacja Fundacja Panoptykon z jednej strony często poucza obywateli w kwestii praw
+cyfrowych, a z drugiej regularnie uczestniczy w eksperckich konferencjach organizowanych i
+finansowanych właśnie przez Omidyar Network. Środowisko to pozyskało ogromne pieniądze z
+różnych platform "obrony demokracji"; na sam projekt "Public Digital Infrastructure" organizacja
+
+## Strona 6
+
+Open Future kierowana przez wieloletniego doradcę i partnera tych środowisk uzyskała w 2023
+r. bezpośredni grant od Omidyar Network na kwotę 30 000 dolarów. Dodatkowo, powołana
+przez Omidyara fundacja Luminate finansuje zrzeszenie European Digital Rights (EDRi), do
+którego przynależy Panoptykon, kwotami takimi jak 71 305 euro. Organizacje te następnie
+zmasowanym atakiem lobbują na rzecz restrykcyjnych uregulowań Unii Europejskiej, jak Digital
+Services Act (DSA) czy AI Act. Pod maską walki z dezinformacją wprowadzają mechanizmy o
+których ostateczny kształt w kuluarach mogą walczyć jedynie technologiczne giganty pokroju
+Google czy Amazona, całkowicie wycinając mniejsze, niezależne firmy europejskie.
+
+5. HIPOKRYZJA SYSTEMOWA: ANTYMONOPOLOWY LOBBING NA
+USŁUGACH MONOPOLISTY
+
+Niebywałą hipokryzją jest, w jaki sposób holding zbudowany na całkowitym, globalnym
+monopolu platformy aukcyjnej (eBay) używa swojego kapitału, by zwalczać i szantażować
+dzisiejszych konkurentów z branży technologicznej.
+Pierre Omidyar pompuje potężne kwoty we wspieranie ruchu "antymonopolowego". Z funduszy
+Omidyar Network stworzono i sfinansowano w Stanach Zjednoczonych inicjatywę o nazwie
+"Tech Oversight Project". Instytucja ta prowadzi brutalne, niemalże kampanijne ataki PR-owe i
+lobbing przeciwko rywalom Omidyara: Alphabetowi (Google), Amazonowi, Apple i mecie
+(Facebook), żądając rozbijania Big Techu i nakładania surowych sankcji. To książkowy przykład
+używania rzekomo społecznych, filantropijnych funduszy jako broni do wyrównywania
+biznesowych porachunków oraz narzucania polityki "safety" tak, by niszczyła ona
+bezpośrednich biznesowych wrogów twórcy platformy aukcyjnej, pozostawiając biznesy
+powiązane z e-commerce nienaruszone.
+
+6. DIAGNOSTYKA TRANSPARENTNOŚCI I ARBITRAŻ REGULACYJNY
+
+Gdy przyjrzymy się rejestrom lobbingu na poziomie unijnym (EU Transparency Register),
+widzimy gigantyczną fikcję rzekomej transparentności tych środowisk. Zasilane z kont Luminate
+podmioty wykazują się niesłychaną łatwością w dostępie do unijnych decydentów. Wspomniane
+zrzeszenie EDRi, opłacane m.in. przez Luminate i powiązane fundusze, mogło się pochwalić
+odbyciem aż 47 spotkań na wysokim szczeblu w Komisji Europejskiej.
+Wykorzystywanie statusu podmiotów edukacyjno-charytatywnych pozwala grupie Omidyara
+uprawiać agresywną politykę zagraniczną bez rygorów ciążących na zarejestrowanych
+korporacjach. Zjawisko instytucjonalnych "obrotowych drzwi" (revolving door) jest tutaj
+powszechne: kadry z fundacji Omidyara przemieszczają się na stanowiska w komisjach
+eksperckich w UE, a unijni aparatczycy znajdują potem ciepłe, dobrze płatne posady w
+organizacjach trzeciego sektora. Daje to gigantycznemu kapitałowi władzę, o której państwa
+członkowskie UE nie mogą nawet pomarzyć: wykorzystując status charytatywny, sieć fundacji
+przejmuje stery w demokracjach i unijnych dyrekcjach za zamkniętymi drzwiami, całkowicie
+ignorując wolę wyborców w krajach Unii Europejskiej.
+
+ZAWŁASZCZONY URZĄD. Biuro
+Rzecznika Praw Obywatelskich: Jak
+
+## Strona 7
+
+instytucja zaufania publicznego stała się
+politycznym orężem i zakładnikiem
+radykalnych organizacji pozarządowych
+
+GENEALOGIA WPŁYWÓW I INSTYTUCJONALNY
+MONOPOL NGO
+
+Proces przejmowania kontroli nad agendą Biura Rzecznika Praw Obywatelskich (BRPO)
+odbywa się poprzez ścisłą współpracę z siecią fundacji, które z powodzeniem wykorzystują
+urząd jako swój polityczny megafon. Kluczową rolę w tej architekturze nacisków odgrywa
+inicjatywa „Nasz Rzecznik”, zrzeszająca organizacje skupione wokół Ogólnopolskiej Federacji
+Organizacji Pozarządowych (OFOP). Przedstawiciele tej inicjatywy, tworzący m.in. Zespół Praw
+Kobiet czy Zespół Praw Osób LGBTQ+, odbywają regularne spotkania z RPO w celu
+forsowania własnej agendy i domagania się konkretnych rozwiązań legislacyjnych.
+Podczas tych spotkań przedstawiciele NGO-sów (w których potrafi uczestniczyć ponad 50 osób)
+otwarcie przedstawiają kierunki działań, jakimi powinien zająć się urząd. Rzecznik Praw
+Obywatelskich publicznie deklaruje przy tym, że jego obowiązkiem jest wsłuchiwanie się w głos
+tych organizacji i podejmowanie interwencji zgodnie z ich postulatami. Warto zaznaczyć, że
+środowisko skupione wokół tych inicjatyw korzysta również z zagranicznego wsparcia lub
+uczestniczy w rozdzielaniu funduszy – jak chociażby Fundacja im. Stefana Batorego
+zarządzająca Funduszem Solidarności. W ten sposób BRPO, z założenia całkowicie niezależny
+organ państwowy, zostaje de facto sprowadzony do roli instytucjonalnego zderzaka służącego
+zewnętrznemu lobbingowi.
+
+DEEP FORENSIC AUDIT: BUDŻET PAŃSTWA NA
+USŁUGACH IDEOLOGII I SIECI "EKSPERTÓW"
+
+Z rygorystycznego audytu struktur urzędu wynika, że publiczne pieniądze, prestiż państwowy i
+infrastruktura przeznaczane są na budowanie zaplecza dla wąskiego, zaprzyjaźnionego grona.
+Przy Rzeczniku Praw Obywatelskich powołano tzw. Rady Społeczne, które funkcjonują nie tylko
+w Warszawie, ale również we wszystkich miastach posiadających instytucjonalnego
+pełnomocnika RPO: w Gdańsku, Katowicach i Wrocławiu.
+Choć oficjalnie gremia te mają grupować "aktywnych obywateli, naukowców i twórców", w
+rzeczywistości tworzą one hermetyczny układ. Dostęp do rad i zespołów doradczych uzyskują w
+przeważającej mierze działacze konkretnych, liberalno-lewicowych organizacji pozarządowych.
+Przez to z otwartego dyskursu toczącego się wewnątrz urzędu wypychani i wykluczani są ci
+naukowcy i zwykli obywatele, którzy nie wpisują się w dogmatyczną narrację ideologiczną
+preferowaną przez Biuro. Publiczne środki służą więc w praktyce do legitymizacji i zapewnienia
+platformy dla zaprzyjaźnionych aktywistów.
+
+INFLUENCE MAPPING: "SHADOW REGULATION" I
+
+## Strona 8
+
+PONADNARODOWY SABOTAŻ LEGISLACYJNY
+
+Mechanizmy działania RPO wyraźnie wskazują na stosowanie praktyki określanej mianem
+"shadow regulation". Urząd wykorzystuje swoje ogromne kompetencje, aby wywierać presję na
+suwerenną legislację państwa polskiego przy użyciu zagranicznych trybunałów i komisji.
+BRPO stanowi swoistą tylną furtkę dla globalnych dyrektyw, systematycznie przygotowując i
+publikując tzw. raporty alternatywne dla międzynarodowych gremiów kontrolnych – takich jak na
+przykład grupa ekspertów GREVIO monitorująca wdrażanie konwencji stambulskiej. W
+dokumentach tych Rzecznik szczegółowo kwestionuje stan przestrzegania przepisów w Polsce i
+lobbuje za zaostrzeniem kursu. Zamiast opierać się na krajowej debacie demokratycznej i woli
+polskiego parlamentu, urząd dąży do wymuszenia implementacji radykalnych wytycznych Rady
+Europy poprzez naciski z zewnątrz, otwarcie wspierając argumentację wymierzoną we własne
+państwo.
+
+ŁAŃCUCH POKARMOWY I ŚLEPOTA NA REALNE
+KRZYWDY (WĄTEK ALIENACJI RODZICIELSKIEJ I
+OZSS)
+
+Statystyki i interwencje urzędu w sprawach rodzinnych brutalnie obnażają ideologiczne
+uwikłanie RPO, często kosztem realnych dramatów zwykłych obywateli. Zamiast pochylić się
+nad krzywdą tysięcy ojców i dzieci, którzy stają się ofiarami alienacji rodzicielskiej oraz
+niszczących diagnoz wydawanych przez państwowe Opiniodawcze Zespoły Sądowych
+Specjalistów (OZSS), BRPO aktywnie staje w obronie odgórnie narzuconych dogmatów.
+Rzecznik Praw Obywatelskich, w pełni popierając raport grupy GREVIO, wezwał organy
+państwa do całkowitego odejścia od stosowania samego pojęcia „alienacji rodzicielskiej”. RPO
+argumentuje, że oskarżenia o alienację rzekomo powodują to, iż "matki wskazujące na przemoc
+ze strony ojca dziecka są uznawane za »niewspółpracujące«" i niesie to za sobą "ryzyko
+wtórnej wiktymizacji kobiet". W ten sposób urząd odwraca wzrok od masowego niszczenia więzi
+ojców z dziećmi oraz fałszywych oskarżeń w sądach rodzinnych, chroniąc zabetonowany
+mechanizm "Niebieskich Kart". Krytyka procedury "Niebieskiej Karty" ze strony RPO sprowadza
+się jedynie do narzekania na nadmierną biurokrację, z postulatem wyodrębnienia w jednostkach
+pomocy społecznej specjalnych etatów służących wyłącznie obsłudze tego systemu.
+
+ZJAWISKO "REVOLVING DOOR" I TRAJEKTORIE
+BRUKSELSKICH KARIER
+
+Urzędnicy najwyższego szczebla, w tym byli Rzecznicy i dyrektorzy najważniejszych zespołów,
+doskonale odnajdują się w mechanizmie "drzwi obrotowych" (revolving doors). Jak zauważają
+unijne organy nadzorcze, zjawisko to polega na swobodnym przepływie kadr i przenoszeniu
+cennej wiedzy o wewnętrznym funkcjonowaniu państwowych instytucji do sektora prywatnego
+oraz sfery lobbingu.
+W kontekście polskiego BRPO stanowiska kierownicze są nierzadko traktowane jako poligon i
+ekskluzywna trampolina zawodowa. Zdobyty w urzędzie zaufania publicznego kapitał polityczny
+służy potem do obejmowania lukratywnych posad w Trybunałach Międzynarodowych (TSUE,
+ETPC), strukturach Unii Europejskiej oraz w zarządach globalnych korporacji i fundacji
+
+## Strona 9
+
+celowych. Urząd RPO działa tym samym jako bezpłatne biuro karier dla ludzi, którzy docelowo
+zasilają ponadnarodowe struktury biznesowo-instytucjonalne.
+
+DIAGNOSTYKA TRANSPARENTNOŚCI I ARBITRAŻ W
+SELEKCJI SKARG
+
+Rocznie do Biura wpływają tysiące skarg od zdesperowanych obywateli. Jednak zestawienie
+spraw odrzuconych z tymi, którymi urząd zajmuje się natychmiastowo, dowodzi istnienia
+żelaznego filtra ideologicznego. Aby ułatwić masowy wpływ, RPO przygotował
+"nieskomplikowaną instrukcję" oraz gotowy formularz skargi dostępny w internecie, lecz sprawy
+"zwykłych" obywateli zderzających się z systemem często toną w biurokratycznym gąszczu i są
+proceduralnie zamykane.
+Sytuacja ulega diametralnej zmianie, gdy wniosek pokrywa się z polityczną agendą
+współpracujących z urzędem wielkomiejskich NGO-sów. W przypadku nagłośnionych medialnie
+tematów promowanych przez liberalny aktywizm, urząd błyskawicznie "nadaje sprawom bieg",
+angażując potężne zasoby państwa do walki z oponentami i systemem prawnym. To jawny
+dowód arbitrażu: BRPO przestał służyć wszystkim obywatelom, a stał się w pełni
+wyspecjalizowaną kancelarią chroniącą interesy wąskich grup nacisku.
+
+LISTA PŁAC SYSTEMU. Twarze,
+nazwiska i prywatne konta architektów
+układu: Kto i ile dokładnie zarabia na
+inżynierii społecznej i dekonstrukcji
+państwa
+
+Aby w pełni zrozumieć mechanizmy inżynierii społecznej i procesy legislacyjne uderzające w
+suwerenność państw oraz niszczące tradycyjne struktury społeczne, należy prześledzić drogę
+pieniądza. Nie jest to system budowany przez oddolnych zapaleńców, lecz precyzyjnie
+skonstruowana piramida finansowa. Na jej szczycie stoją globalni miliarderzy optymalizujący
+podatki w rajach podatkowych i prezesi fundacji inkasujący astronomiczne gaże, a na samym
+dole funkcjonują lokalni urzędnicy i prawnicy monetyzujący rozpad polskich rodzin.
+Oto dogłębny, bezkompromisowy audyt finansowy i personalny układu, ujawniający konkretne
+nazwiska, posady i kwoty – od Wall Street, przez korytarze Komisji Europejskiej, aż po polskie
+Ośrodki Pomocy Społecznej.
+
+FAZA I: GLOBALNI ARCHITEKCI I KORPORACYJNI OLIGARCHOWIE
+(Miliarderzy i Zarządy)
+
+Majątki zasilające globalny aktywizm są starannie chronione i powielane, nierzadko w
+egzotycznych jurysdykcjach.
+Open Society Foundations (OSF) i rodzina Sorosów: W samym tylko 2017 roku George
+
+## Strona 10
+
+Soros przetransferował do swojej sieci fundacji niebotyczną kwotę 18 miliardów dolarów.
+Śledztwo portalu ProPublica opierające się na wycieku danych z amerykańskiego urzędu
+skarbowego (IRS) ujawniło jednocześnie, że przez trzy lata z rzędu miliarder nie zapłacił ani
+centa federalnego podatku dochodowego. Dodatkowo, tzw. "Paradise Papers" obnażyły
+obecność kapitału z sieci OSF (m.in. powiązanego z holdingami Quantum) w takich rajach
+podatkowych jak Kajmany czy Curaçao (Netherlands Antilles). Dziś systemem tym zarządza
+syn Sorosa – Alex Soros. Choć OSF uchodzi za filar stabilności dla liberalnego NGO, tuż po
+przejęciu władzy latem 2023 r., Alex Soros podjął decyzję o bezwzględnym zwolnieniu 40% z
+liczącej wówczas 800 osób globalnej załogi fundacji w imię "optymalizacji modelu
+operacyjnego".
+Zarobki w Ford Foundation: Fundacja Forda, pouczająca cały świat o "sprawiedliwości
+społecznej" i nierównościach, płaci swoim menedżerom wręcz korporacyjne wynagrodzenia, o
+czym świadczą publicznie dostępne dane z formularzy podatkowych IRS (Form 990-PF).
+Wicedyrektor i Główny Dyrektor Inwestycyjny Eric W. Doppstadt otrzymał z kasy fundacji
+wynagrodzenie w wysokości 4 543 917 dolarów, do czego doliczono 120 565 dolarów
+dodatkowych świadczeń. Inni dyrektorzy również inkasują gigantyczne kwoty: dyrektor ds.
+inwestycji publicznych Michael Walden (1 797 293 USD + 144 998 USD świadczeń), dyrektor
+ds. funduszy hedgingowych William Artemenko (1 794 828 USD + 136 564 USD świadczeń)
+oraz dyrektor ds. private equity Sherif Nahas (1 792 843 USD).
+Imperium CHANEL i optymalizacja podatkowa: Założyciele i główni dysponenci francuskiego
+domu mody Chanel – bracia Alain i Gerard Wertheimer – legitymują się dziś majątkiem
+wycenianym łącznie na blisko 90 miliardów dolarów. Ich marka zasila lewicowy aktywizm m.in.
+poprzez Fondation Chanel, finansując operacje polskiego Funduszu Feministycznego
+(FemFund), w którym decyzyjną kadrę stanowią lokalne aktywistki. Jednocześnie ten sam
+kapitał jest bezlitośnie optymalizowany: bracia Wertheimer wyprowadzili kontrolę do brytyjskich
+spółek po Brexicie i posługują się powiązaniami ze spółką "Mousse Investments Limited" na
+Kajmanach. Tylko w 2021 roku spółka holdingowa kontrolowana z Kajmanów wypłaciła braciom
+rekordową dywidendę w wysokości 5 miliardów dolarów, bezpiecznie oddaloną od francuskiego
+fiskusa.
+Hybrydowy wehikuł Omidyar Group i "Czyste Oszczędności" Oak Foundation: Twórca
+platformy eBay, Pierre Omidyar, operuje hybrydową strukturą Omidyar Network, która
+umiejętnie łączy organizację non-profit 501(c)(3) (zwolnioną z podatków) oraz komercyjną
+spółkę LLC. Taki układ (często we współpracy z Luminate) umożliwia agresywne wspieranie
+"dziennikarstwa", weryfikatorów faktu i środowisk antymonopolowych (np. Tech Oversight
+Project kierowany przez Sachę Haworth), co w praktyce pomaga niszczyć rynkowych
+konkurentów z Doliny Krzemowej. Podobnie działają inni gracze – np. Alan M. Parker,
+miliarder, który ufundował potężną Oak Foundation (dystrybuującą ok. 383 milionów USD
+rocznie w grantach np. do Purpose Europe i sieci Brave Movement). Choć Oak Foundation ma
+siedzibę w Genewie i z chęcią forsuje restrykcje ekologiczne i społeczne w krajach docelowych,
+jej struktura opiera się na transferach, jak w przypadku zarejestrowanej w raju podatkowym
+spółki "Oak Philanthropy Limited" z wyspy Jersey.
+Z kolei w holenderskiej Limelight Foundation, która w krótkim czasie zalała Europę kwotami
+rzędu kilkudziesięciu milionów euro z majątku twórców fintechu Adyen (zapewniając fundusze
+m.in. polskiemu OKO.press pod batutą Piotra Pacewicza i innych redaktorów), o przydziale
+kapitału decyduje hermetyczny zarząd na czele z fundatorem Johnem Caspersem, gdzie nad
+całą redystrybucją i kontrolą czuwa zaledwie jedna dyrektorka wykonawcza, Merel Borger.
+
+## Strona 11
+
+FAZA II: BRUKSELSKA BIUROKRACJA I UNIJNI TECHNOKRACI
+(Komisja Europejska)
+
+Miliardy z zagranicy zazębiają się w Europie z systemem biurokratycznym Komisji Europejskiej,
+tworząc gęstą pajęczynę.
+DG JUST i program CERV: Mechanizmem nacisku stał się unijny program CERV dysponujący
+kwotą 1,55 miliarda euro, znajdujący się w jurysdykcji Dyrekcji Generalnej ds. Sprawiedliwości i
+Konsumentów (DG JUST). To na czele tej jednostki stoi Hiszpanka Ana Gallego Torres –
+wielokrotnie zmuszona do tłumaczenia się z faktu, że fundusze kierowane są do konkretnych
+ideologicznych NGO, podczas gdy odrzuca się wnioski innych grup. Skalę powiązań między
+unijnymi stanowiskami uwypukla przypadek jej podwładnej, Finki Salli Saastamoinen (byłej p.o.
+Dyrektora Generalnego DG JUST), która w zjawisku "obrotowych drzwi" gładko przeszła z
+instytucji dotującej środowiska na stanowisko Zastępcy Dyrektora Generalnego do urzędu
+antykorupcyjnego OLAF (luty 2025 r.), mającego badać unijne defraudacje.
+W parlamencie i strukturach europejskich wrze od skandali czysto kryminalnych. Najlepszym
+przykładem była afera "Qatargate", gdzie aresztowano ówczesną Wiceprzewodniczącą
+Parlamentu Europejskiego, Evę Kaili. U jej ojca i partnera w domu zabezpieczono łącznie
+blisko 900 tysięcy euro w gotówce przekazanych w formie łapówek od lobbystów. Z kolei Włoch,
+Luca Volontè, były przewodniczący frakcji EPP w Radzie Europy (PACE), został skazany
+prawomocnie za przyjęcie łapówki rzędu 500 tysięcy euro (z łącznej kwoty obiecanych 2,39
+miliona euro z "pralni azerbejdżańskiej") za uciszenie raportu o więźniach politycznych w
+procederze tzw. Caviar Diplomacy.
+Za "demokratycznymi zrywami" nie stoją obywatele, lecz wysoko opłacane agencje PR, takie
+jak spółka Purpose Europe kontrolowana przez francuską grupę informatyczną Capgemini.
+Według dokumentów lobbingowych i rejestrów, to do Purpose powędrował gigantyczny zastrzyk
+gotówki o wartości ponad 1,5 miliona dolarów od samej Oak Foundation, by zmontować w
+Brukseli całkowicie fikcyjną i płatną kampanię ("astroturfing") naciskającą unijną komisarz Ylvę
+Johansson na drakońskie wprowadzanie cyfrowej inwigilacji użytkowników internetu pod
+nazwą "Chat Control".
+
+FAZA III: KRAJOWY APARAT DYSTRYBUCJI I ZAWŁASZCZANIE
+ZASOBÓW (Politycy i Urzędnicy)
+
+Na poziomie rządu krajowego polityka sprowadza się do walki o partyjne zawłaszczenie
+funduszy oraz ich wykorzystanie do osobistego pozycjonowania i rozdawnictwa.
+  ●​  Pikniki i rezerwa 800+ (Marlena Maląg): Była Minister Rodziny, a obecna europosłanka
+     Marlena Maląg znalazła się w centrum śledztw Najwyższej Izby Kontroli i zawiadomień
+     do prokuratury. Resort wydał ponad 8 milionów złotych z rezerwy budżetowej na
+     przeprowadzenie ok. 140 tzw. "Pikników 800+" dokładnie w roku wyborczym 2023.
+      Pieniądze, które miały służyć poprawie bytu, stały się de facto narzędziem agitacji
+      kampanijnej polityków PiS obecnych na scenach.
+  ●​  Miliony dla okręgu ministra (Stanisław Szwed): Były wiceminister rodziny Stanisław
+    Szwed wykazał się ręcznym, bezpośrednim sterowaniem publiczną pulą z programu
+      "Aktywni+". Dzień przed ogłoszeniem wyników resort przeforsował zmianę regulaminu
+      dającą ministrowi kompetencję tzw. "oceny strategicznej". W rezultacie kwotę aż 1,8
+      miliona złotych ze środków dla seniorów przyznano niemal w całości na projekty
+     ulokowane w okręgu wyborczym ministra (Bielsko-Biała), co było obiektem miażdżących
+
+## Strona 12
+
+ocen organów audytorskich.
+  ●​ Budżety u Rzecznika Praw Dziecka (Mikołaj Pawlak): Instytucja, która powinna
+     zajmować się bezpośrednim ratowaniem najmłodszych, posłużyła byłemu rzecznikowi do
+      spektakularnych wydatków. Mikołaj Pawlak został objęty śledztwem m.in. za zakup dla
+     urzędu potężnego SUV-a marki Ford sprowadzonego bezpośrednio z USA za
+     astronomiczną kwotę 425 tysięcy złotych. Dodatkowo NIK wykazał nieuzasadnione
+     wydanie ponad 209 tysięcy złotych na książki "By rodzina była Bogiem silna", które bez
+     stosownych umów trafiły po prostu na sterty do 41 kurii biskupich, a także wydatkowanie
+      ok. 446 tysięcy złotych na wyjazd 150 osób na Światowe Dni Młodzieży do Lizbony pod
+     patronatem urzędu. Kończąc misję, RPD wypłacił sobie 116 tysięcy złotych z racji samej
+     odprawy i ekwiwalentów, zostawiając posadę Monice Hornej-Cieślak, która z kolei
+      natychmiast zatrudniła tzw. społecznych asystentów z lewicowych NGO do modelowania
+      kierunku swojej pracy.
+Podobną postawę prezentują politycy obecnego obozu rządzącego, z ministrą Agnieszką
+Dziemianowicz-Bąk i wiceministrą Katarzyną Nowakowską, wymieniające całe układy w
+urzędach (z zapowiedziami kontroli i audytów setek państwowych DPS-ów na lata 2025-2026),
+nie zmieniając jednak faktu, że środki wciąż rozdysponowywane są wg partyjnego klucza i na
+opłacanie posłusznych instytucji rzecznictwa.
+
+FAZA IV: GRANTOWI MALWERSANCI I DYREKTORIAT NGO
+(Pośrednicy Finansowi)
+
+Pośrednictwo w przekazywaniu setek milionów złotych funduszy rządowych, unijnych i tych
+pochodzących z EOG odbywa się poprzez wyspecjalizowanych graczy, którzy sami opłacają z
+tych pul swoich dyrektorów i kampanie lobbingowe. Złotym operatorem finansowym w Polsce
+jest Fundacja im. Stefana Batorego, zarządzana przez grono ludzi takich jak m.in. Edwin
+Bendyk, Anna Materska-Sosnowska i Ewa Kulik-Bielińska, pobierająca niebagatelne
+prowizje na obsługę struktury. Do podmiotów dotowanych i walczących o zmianę struktury
+prawno-obyczajowej należą zrzeszenia parasolowe, takie jak FEDERA kierowana przez
+dyrektorkę Krystynę Kacpurę i prawniczkę Kamilę Ferenc, wykorzystujące zagraniczny kapitał
+m.in. na skarżenie Polski przed trybunałami o prawo do liberalizacji aborcji i zwalczanie oporu
+instytucji lekarskich.
+W tym ekosystemie wybuchają też potężne skandale defraudacyjne.
+  ●​ NIW-CRSO i fałszowanie ocen: W Narodowym Instytucie Wolności, powołanym
+      pierwotnie w celu wzmocnienia trzeciego sektora, doszło do rażących nadużyć.
+     Ówczesny dyrektor Wojciech Kaczmarczyk oraz jego zastępcy Przemysław Jaśkiewicz
+            i Michał Rulski doczekali się prokuratorskich zarzutów po tym, jak NIK i nowy dyrektor
+     Michał Braun odkryli ręczne, polityczne zaniżanie lub zawyżanie wyników komisji
+     ekspertów w takich programach jak FIO czy PROO. Za sterowanie punktacjami dla
+      uprzywilejowanych fundacji i zatajanie konfliktów interesów odpowiadać ma również
+      urzędnik ministerstwa w zespole sterującym, Michał Płatek.
+  ●​ Afera Macierzy Polonii i Miłosz Manasterski: Klasycznym przypadkiem zawłaszczenia
+      setek tysięcy złotych była sprawa Fundacji Rozwoju Centrum Macierz Polonii. Pieniądze,
+      które miały iść m.in. na fundowanie stypendiów oraz historycznych biegów obywatelskich,
+      zostały wyłudzone. Audytorzy udowodnili, że prezes fundacji, Tomasz Małodobry,
+      wyprowadził dotacyjne środki na własne, prywatne konto w łącznej kwocie 56 300 PLN,
+     dokonując transferów z lakonicznymi tytułami na swoje nazwisko. Ponadto wykorzystał
+
+## Strona 13
+
+publiczną dotację do zapłacenia 10 000 PLN z tytułu raty prywatnego kredytu na zakup
+     samochodu. W całej tej strukturze fikcyjnych zdarzeń, posadę wiceprezesa fundacji pełnił
+            i "urealniał" ekspert polityczny Telewizji Polskiej, Miłosz Manasterski.
+
+FAZA V: LOKALNY APARAT OPRESJI (Biegli, Urzędnicy MOPS i
+Prawnicy)
+
+Mechanizm ten swoje największe żniwo finansowe zbiera na najniższym szczeblu. Ludzkie
+tragedie i zjawisko alienacji rodzicielskiej są dla konkretnych zawodów żyłą złota i systemowym
+biznesem.
+  ●​ Prawnicy rozwodowi i biegli z OZSS: Wieloletnie, wyniszczające procesy sądowe to dla
+      kancelarii adwokackich (specjalizujących się w cynicznym eskalowaniu konfliktów
+      rodzinnych) czysty zysk. Zaledwie jedno nieuzasadnione oskarżenie z procedury
+      "Niebieskiej Karty" zamyka ojcom i mężom dostęp do mieszkań i własnych dzieci.
+     Mechanizm legitymizowany jest potem przez państwowe Opiniodawcze Zespoły
+     Sądowych Specjalistów (OZSS), w których lokalni, powiązani z sędziami psychologowie
+     systemowo inkasują publiczne "wierszówki" (wynagrodzenia za pojedyncze diagnozy,
+      płatne od opinii), co stymuluje przeciąganie postępowań na całe miesiące, niszcząc więzi
+     z niekrzywdzącymi ojcami i utwierdzając opresyjny status quo.
+  ●​ Lokalne udzielne księstwa MOPR i MOPS: Instytucje wdrażające narzędzia nadzoru (w
+     tym same zespoły "Niebieskich Kart") działają w skrajnie upolitycznionym środowisku
+     zysków i awansów na plecach wykorzystywanych podwładnych i petentów.
+         ○​ MOPR Lublin: Za urzędowania Katarzyny Fus jako dyrektorki, która odmawiała
+          podwyżek dla kilkuset pracowników zarabiających najniższą krajową i tonących w
+            długach, co doprowadziło do zaostrzonych strajków pod Ratuszem, sama dyrektor
+           z radością przyznawała sobie nagrody po 5 i 18 tysięcy PLN. Wypłacała też na
+           swoje nazwisko 4450 PLN specjalnego, comiesięcznego dodatku dyrektorskiego
+           (ponad 30 tysięcy w pół roku), osiągając roczny pułap blisko 162 500 PLN z
+           publicznych środków (dane oświadczeń przed emeryturą w 2024 r.). Jej
+            wicedyrektorka, Magdalena Pakuła (prywatnie żona szefa rady miasta z ramienia
+           prezydenta Żuka), zarabiała ok. 124 200 PLN rocznie; co więcej, tuż po odejściu na
+           emeryturę została natychmiast, wręcz obrotowo, sprowadzona z powrotem na dwa
+           miesiące na specjalnie w tym celu utworzony kontrakt, by sporządzić kolejny
+           zbiurokratyzowany plan wspierania rodziny za kwotę 6 tysięcy PLN netto. Na ich
+           miejsce wprowadzono politycznie Grzegorza Sołtysa, który jako nowy,
+          namaszczony dyrektor, nadal z sukcesem tłumi postulaty podwyżkowe
+          szeregowych socjalnych, tłumacząc wszystko brakiem środków przy stale
+           uginającym się od administracji budżecie miejskim.
+         ○​ MOPS Łęczna: Tu z kolei, pod okiem wieloletniej kierowniczki, Ewy Studzińskiej,
+           ośrodek organizował dramatyczne w skutkach wyjazdy na kolonie dla młodzieży do
+           Krościenka nad Dunajcem, realizowane za tanie przetargowe środki pochodzące z
+              puli antyalkoholowej "tzw. korkowego" – uczestniczące w nich dzieci
+           transportowano pojazdami cieknącymi z oleju i wróciły masowo do domów z plagą
+          wszawicy oraz doniesieniami o ordynarnym ubliżaniu przez lokalnych
+          wychowawców. Pomimo ogromnego skandalu lokalnego i rozpaczy rodziców,
+           urzędnicza maszyna z kierownictwem na czele nie poniosła żadnych realnych
+           konsekwencji, twardo stawiając tamowane ściany biurokratyczne. Równolegle
+
+## Strona 14
+
+zresztą to jej bezpośrednia podwładna z urzędu w Łęcznej, Wioleta Dowierciał,
+             steruje jako Przewodnicząca lokalnym Zespołem Interdyscyplinarnym ds. Przemocy
+          Domowej, w pełni kontrolując procedury uderzające w miejscowe rodziny i
+           dysponując ich życiem.
+         ○​ Annopol: Ta sama symbioza biurokracji społecznej z wielkimi środkami
+           dotacyjnymi działa za pomocą dyrektoriatu. Asystentka z MOPS w Annopolu i
+             członkini powołanego przez miasto tamtejszego Zespołu Interdyscyplinarnego –
+           Sylwia Jedlińska – płynnie figuruje jako element kontrolny organów nadzoru, m.in.
+            dla podmiotów takich jak Annopolska Spółdzielnia Socjalna „Perspektywa”
+            (beneficjenta setek tysięcy złotych na m.in. publiczne dotacje z rąk samorządu
+            kraśnickiego i Ministra Rodziny z ramienia funduszy na pomoc społeczną, rzędu
+          126 tysięcy PLN).
+Podsumowując, od luksemburskich miliarderów, przez unijne przetargi z DG JUST, brukselskich
+lobbystów ukrywających się za fikcyjnym "dialogiem obywatelskim", zdeprawowane polskie elity
+władzy przydzielające granty, aż po gminnych urzędników – cały mechanizm inżynierii
+społecznej to wielki, połączony naczyniami aparat wysysający kapitał, rozbijający naturalną
+substancję społeczną i zapewniający synekury setkom polityków oraz prawników. Cena –
+zniszczone rodziny, sfałszowane wyroki, odebrane dzieci i skurczona demokracja – płacona jest
+wyłącznie przez bezbronnych, systemowo zmanipulowanych i terroryzowanych obywateli.

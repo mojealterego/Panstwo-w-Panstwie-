@@ -1,5 +1,29 @@
 [
   {
+    "containment": 1,
+    "jaccard": 0.15955,
+    "left_document_id": "pdf-13cd85e13fee2309c0212d47",
+    "relation": "contained_in",
+    "right_document_id": "pdf-7720c05c27d757a90c288a01",
+    "shared_shingles": 856
+  },
+  {
+    "containment": 1,
+    "jaccard": 0.10485,
+    "left_document_id": "pdf-13cd85e13fee2309c0212d47",
+    "relation": "contained_in",
+    "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+    "shared_shingles": 856
+  },
+  {
+    "containment": 1,
+    "jaccard": 0.09772,
+    "left_document_id": "pdf-13cd85e13fee2309c0212d47",
+    "relation": "contained_in",
+    "right_document_id": "pdf-e1dca27117c8a97691cb12aa",
+    "shared_shingles": 856
+  },
+  {
     "left_document_id": "pdf-24f00de3392d9a326970b049",
     "right_document_id": "pdf-6e59eb83485c3133d26a658d",
     "relation": "contained_in",
@@ -23,11 +47,35 @@
   },
   {
     "containment": 1,
+    "jaccard": 0.23318,
+    "left_document_id": "pdf-5206d071984502a92fc2064a",
+    "relation": "contained_in",
+    "right_document_id": "pdf-7720c05c27d757a90c288a01",
+    "shared_shingles": 1251
+  },
+  {
+    "containment": 0.90967,
+    "jaccard": 0.13749,
+    "left_document_id": "pdf-5206d071984502a92fc2064a",
+    "relation": "contained_in",
+    "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+    "shared_shingles": 1138
+  },
+  {
+    "containment": 1,
     "jaccard": 0.51524,
     "left_document_id": "pdf-5206d071984502a92fc2064a",
     "relation": "contained_in",
     "right_document_id": "pdf-d38c13a826d8a8f1e25871f1",
     "shared_shingles": 1251
+  },
+  {
+    "containment": 0.90967,
+    "jaccard": 0.12825,
+    "left_document_id": "pdf-5206d071984502a92fc2064a",
+    "relation": "contained_in",
+    "right_document_id": "pdf-e1dca27117c8a97691cb12aa",
+    "shared_shingles": 1138
   },
   {
     "containment": 1,
@@ -52,6 +100,14 @@
     "jaccard": 0.19188,
     "containment": 1,
     "shared_shingles": 1143
+  },
+  {
+    "containment": 0.99629,
+    "jaccard": 0.13137,
+    "left_document_id": "pdf-7c44ee9f0e4e121ae948cc5b",
+    "relation": "contained_in",
+    "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+    "shared_shingles": 1073
   },
   {
     "left_document_id": "pdf-c05be847e9d8021742d2dcd1",

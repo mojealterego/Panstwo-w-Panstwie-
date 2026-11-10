@@ -1,0 +1,149 @@
+{
+  "batch_id": "batch-012",
+  "detection_method": "same as src/pwp_ingest/core.py (5-token shingles, Jaccard>=0.9 or containment>=0.9)",
+  "exact_page_duplicates": [
+    {
+      "left_document_id": "pdf-7720c05c27d757a90c288a01",
+      "left_page": 1,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "right_page": 1
+    },
+    {
+      "left_document_id": "pdf-7720c05c27d757a90c288a01",
+      "left_page": 2,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "right_page": 2
+    },
+    {
+      "left_document_id": "pdf-7720c05c27d757a90c288a01",
+      "left_page": 1,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 1
+    },
+    {
+      "left_document_id": "pdf-7720c05c27d757a90c288a01",
+      "left_page": 2,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 2
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 1,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 1
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 2,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 2
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 3,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 3
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 4,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 4
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 5,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 5
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 6,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 6
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 10,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 10
+    },
+    {
+      "left_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "left_page": 11,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "right_page": 11
+    }
+  ],
+  "relations": [
+    {
+      "containment": 1.0,
+      "jaccard": 0.15955,
+      "left_document_id": "pdf-13cd85e13fee2309c0212d47",
+      "relation": "contained_in",
+      "right_document_id": "pdf-7720c05c27d757a90c288a01",
+      "shared_shingles": 856
+    },
+    {
+      "containment": 1.0,
+      "jaccard": 0.10485,
+      "left_document_id": "pdf-13cd85e13fee2309c0212d47",
+      "relation": "contained_in",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "shared_shingles": 856
+    },
+    {
+      "containment": 1.0,
+      "jaccard": 0.09772,
+      "left_document_id": "pdf-13cd85e13fee2309c0212d47",
+      "relation": "contained_in",
+      "right_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "shared_shingles": 856
+    },
+    {
+      "containment": 1.0,
+      "jaccard": 0.23318,
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "relation": "contained_in",
+      "right_document_id": "pdf-7720c05c27d757a90c288a01",
+      "shared_shingles": 1251
+    },
+    {
+      "containment": 0.90967,
+      "jaccard": 0.13749,
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "relation": "contained_in",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "shared_shingles": 1138
+    },
+    {
+      "containment": 0.90967,
+      "jaccard": 0.12825,
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "relation": "contained_in",
+      "right_document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "shared_shingles": 1138
+    },
+    {
+      "containment": 0.99629,
+      "jaccard": 0.13137,
+      "left_document_id": "pdf-7c44ee9f0e4e121ae948cc5b",
+      "relation": "contained_in",
+      "right_document_id": "pdf-917c79f42f2b924868f00ab7",
+      "shared_shingles": 1073
+    }
+  ],
+  "review_note": "Tekst wielokrotnie powtórzony nie jest niezależnym potwierdzeniem faktów."
+}

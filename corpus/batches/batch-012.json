@@ -1,0 +1,109 @@
+{
+  "batch_id": "batch-012",
+  "canonical_total_documents": 67,
+  "canonical_total_pages": 312,
+  "duplicate_pairs_after_import": 15,
+  "extraction_engine": "PyMuPDF embedded_text (sort=True), 1-based page numbering; raw source byte SHA-256",
+  "fact_check_status": "unverified_source_material",
+  "last_page_74_text_continuation": true,
+  "new_document_count": 7,
+  "new_duplicate_pairs": 7,
+  "new_unique_pages": 74,
+  "originals": [
+    {
+      "document_id": "pdf-c0b771697ff10b27eec9539c",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(68).PDF",
+      "number": 68,
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 123811,
+      "source_sha256": "c0b771697ff10b27eec9539c1740c37851488b35b469b825a2bec88f33aeda22",
+      "text_sha256": "99a118d11b83c948436ece7c9317ad11d224515ff708502f6d32a7a4d54aa4fb",
+      "topic": "Globalny Lewiatan — przekrojowa synteza zarzutów i finansowania"
+    },
+    {
+      "document_id": "pdf-7720c05c27d757a90c288a01",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(69).PDF",
+      "number": 69,
+      "pages": 14,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 275862,
+      "source_sha256": "7720c05c27d757a90c288a01237c8d9b5cc2e05c94e37fd7d1749598a90739e2",
+      "text_sha256": "8ab56732406a625a3cc83723ea8eb5ddf04bfee869eabe95cf0d636738bc3eac",
+      "topic": "Kompilacja As You Sow i dalszych opracowań — 14 stron"
+    },
+    {
+      "document_id": "pdf-bdd5005055b9336a06a0a1f8",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(70).PDF",
+      "number": 70,
+      "pages": 5,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 133419,
+      "source_sha256": "bdd5005055b9336a06a0a1f8709febf8d46ffe19ac86d5abe1430ff1bb77813a",
+      "text_sha256": "11ee46be2539ca56b6ebd692c9ac391b58a0d3a6a3c4762ed2f312020f3796fb",
+      "topic": "Lista płac systemu — podmioty i wynagrodzenia, wersja 5-stronicowa"
+    },
+    {
+      "document_id": "pdf-f4b4fcc93724c4398c5e47d0",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(71).PDF",
+      "number": 71,
+      "pages": 6,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 153799,
+      "source_sha256": "f4b4fcc93724c4398c5e47d0d91137c422448c6c15b2d1ef1ef209317e0c990e",
+      "text_sha256": "3bc222f9cbd188e56be07f656e7bf3394f8e381eebf0a7721bf8284779f05bf8",
+      "topic": "Lista płac systemu — rozszerzona wersja 6-stronicowa"
+    },
+    {
+      "document_id": "pdf-7c44ee9f0e4e121ae948cc5b",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(72).PDF",
+      "number": 72,
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 94770,
+      "source_sha256": "7c44ee9f0e4e121ae948cc5b8afdc2d5a37e70834dadf532b50c37a1b69aa4e7",
+      "text_sha256": "b44051030d097ead661edf6bd353a171fa854eba78598a1af9a66787ff326dbb",
+      "topic": "Apel o systemie pomocy społecznej, OZSS i Niebieskich Kartach"
+    },
+    {
+      "document_id": "pdf-e1dca27117c8a97691cb12aa",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(73).PDF",
+      "number": 73,
+      "pages": 21,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 394842,
+      "source_sha256": "e1dca27117c8a97691cb12aa8c14fbd1d6f5e72f0ce2e69d69d2f200f4334766",
+      "text_sha256": "7ea8f0705422b970a98e69a3489de5f57e019e1ee8826927a18ffbcb8e64da6b",
+      "topic": "Wielowątkowa kompilacja materiałów źródłowych — 21 stron"
+    },
+    {
+      "document_id": "pdf-917c79f42f2b924868f00ab7",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(74).PDF",
+      "number": 74,
+      "pages": 21,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 377689,
+      "source_sha256": "917c79f42f2b924868f00ab7181b9740e4522f569527f7bac19100e09256f871",
+      "text_sha256": "ab5356da939e3d5cd73b6545cafe595b443d870d6eee772c203bd24f15d4529f",
+      "topic": "Wielowątkowa kompilacja materiałów źródłowych — wariant 21-stronicowy"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "quality_status": "extracted",
+  "raw_pdf_in_repo": false,
+  "source_count": 7,
+  "source_page_count": 74,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 71,
+  "unresolved_prior_missing": [
+    "PDF 53",
+    "batch-002 slot-01..slot-05"
+  ]
+}
