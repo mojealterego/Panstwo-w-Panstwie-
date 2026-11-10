@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "batch_id": "batch-006",
+  "document_id": "chat-batch-006-slot-05",
+  "source_ref": "turn454file4",
+  "source_kind": "chat_attachment_text_preview",
+  "original_filename": null,
+  "source_sha256": null,
+  "text_sha256": null,
+  "canonical_import": false,
+  "quality_status": "awaiting_binary_pdf",
+  "fact_check_status": "unverified_source_material",
+  "preview_kind": "page_summary_only",
+  "verbatim_transcription_stored": false,
+  "page_count": 4,
+  "title_for_review": "Centrum Praw Kobiet — zarządzanie, spory pracownicze i sprawozdania",
+  "review_flags": [
+    "structured_table_page_3",
+    "personal_reputation",
+    "legal_outcome_unverified"
+  ]
+}

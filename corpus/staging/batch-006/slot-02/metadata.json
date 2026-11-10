@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "batch_id": "batch-006",
+  "document_id": "chat-batch-006-slot-02",
+  "source_ref": "turn454file1",
+  "source_kind": "chat_attachment_text_preview",
+  "original_filename": null,
+  "source_sha256": null,
+  "text_sha256": null,
+  "canonical_import": false,
+  "quality_status": "awaiting_binary_pdf",
+  "fact_check_status": "unverified_source_material",
+  "preview_kind": "page_summary_only",
+  "verbatim_transcription_stored": false,
+  "page_count": 3,
+  "title_for_review": "GREVIO — kompetencje, prawo rodzinne i finansowanie",
+  "review_flags": [
+    "law_vs_recommendation",
+    "causality_unproven",
+    "institutional_competence"
+  ]
+}
