@@ -21,7 +21,7 @@ python -m pip install -e ".[dev]"
 # Opcjonalnie OCR skanów: sudo apt-get install tesseract-ocr tesseract-ocr-pol
 mkdir -p incoming
 # Umieść tu pliki PDF (również te o identycznych nazwach, rozdzielając je katalogami).
-pwp-ingest ingest incoming --output corpus
+pwp-ingest ingest incoming --output corpus --batch-id batch-001
 pwp-ingest audit --output corpus
 pytest -q
 ```
@@ -40,6 +40,7 @@ corpus/
   index.jsonl                   # indeks dokumentów dla agentów
   duplicates.json               # pary: exact/near/contained
   review_queue.jsonl            # problemy ekstrakcji do ręcznej kontroli
+  receipts.jsonl                # każde wystąpienie pliku w danej partii
 src/pwp_ingest/                 # pipeline konwersji
 tests/                          # testy kolizji, idempotencji, duplikatów i OCR
 docs/                           # kontrakty i procedury redakcyjne
