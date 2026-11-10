@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1] / "corpus"
@@ -23,6 +24,8 @@ def test_batch_002_staging_is_separate_and_complete():
         assert meta["canonical_import"] is False
         assert meta["source_sha256"] is None
         assert meta["page_count"] == 3
+        plain = (folder / "document.txt").read_text(encoding="utf-8").removesuffix("\n")
+        assert hashlib.sha256(plain.encode("utf-8")).hexdigest() == meta["text_sha256"] == row["text_sha256"]
         assert len(list((folder / "pages").glob("*.md"))) == 3
         assert (folder / "document.md").is_file()
         assert (folder / "document.txt").is_file()
