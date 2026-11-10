@@ -1,29 +1,48 @@
-# Partia 006 — rejestr podglądów, import kanoniczny oczekuje
+# Raport przyjęcia — batch-006 (PDF 34–38)
 
-**Status:** `staging_preview_only`. Dostępne są cztery podglądy załączników o łącznej liczbie **15 stron**. Nie uzyskano bajtów oryginalnych plików PDF ani wiarygodnych sum SHA-256. W konsekwencji **nie dopisano** dokumentów do `corpus/index.jsonl` ani przyjęć do `corpus/receipts.jsonl`; nie utworzono pozornych transkrypcji. Zapisano wyłącznie notatki przypisane do numerów stron, a nie teksty źródłowe.
+**Status:** kanoniczny import z pięciu oryginalnych plików PDF, **18 stron**, pięć nowych SHA-256. 
+Stan korpusu: **32 unikatowe źródła / 142 strony / 35 przyjęć**. Oryginalne pliki PDF zachowano w oddzielnym archiwum ZIP i w Bibliotece, a **nie** w publicznym GitHub.
 
-| Slot | Ref podglądu rozmowy | Strony | Temat | Status |
-|---|---|---:|---|---|
-| slot-01 | niedostępny | nieustalona | pierwszy załącznik: treść/metadane niewidoczne w narzędziach | oczekuje |
-| slot-02 | `turn454file1` | 3 | GREVIO — kompetencje, prawo rodzinne i finansowanie | notatki stron; brak PDF SHA-256 |
-| slot-03 | `turn454file2` | 4 | Tetra Pak i rodzina Rausingów — antymonopol, podatki, filantropia | notatki stron; brak PDF SHA-256 |
-| slot-04 | `turn454file3` | 4 | FemFund — granty, finanse i programy wsparcia | notatki stron; brak PDF SHA-256 |
-| slot-05 | `turn454file4` | 4 | Centrum Praw Kobiet — zarządzanie, spory pracownicze i sprawozdania | notatki stron; brak PDF SHA-256 |
+Wcześniejsze notatki z podglądów `corpus/staging/batch-006/` nie są transkrypcją; ich przyporządkowanie do źródeł opisuje `resolution.json`.
 
-## Zadania przy późniejszym imporcie
+| PDF | Strony | SHA-256 (prefiks) | Zakres materiału |
+|---|---:|---|---|
+| (34) | 3 | `13301bc2e5bd5d7e` | Sigrid Rausing Trust — finansowanie, lobbing i zarzuty przedstawione w materiale |
+| (35) | 3 | `4126f1e0cbf5e281` | GREVIO — zalecenia, polityka przeciwdziałania przemocy i finansowanie |
+| (36) | 4 | `2ea8d036487e419b` | Tetra Pak i rodzina Rausingów — antymonopol, podatki, działalność filantropijna |
+| (37) | 4 | `0de856f947fbe9ce` | Fundusz Feministyczny (FemFund) — granty, finanse i finansowanie zagraniczne |
+| (38) | 4 | `1bc7364392cdd396` | Centrum Praw Kobiet — spory pracownicze, działalność i finanse |
 
-1. Uzyskać oryginalne pliki PDF, policzyć SHA-256 z bajtów, odczytać nazwy i liczbę stron; wykryć duplikaty względem całego korpusu.
-2. Przeprowadzić PyMuPDF ekstrakcję tekstu 1-based, kontrolę układu i tabel (zwłaszcza FemFund strony 2–3 i Centrum Praw Kobiet strona 3).
-3. Porównać wyodrębniony tekst z podglądami, bez utożsamiania streszczeń z transkrypcją; utworzyć `pdf-<sha24>`, metadane, receipts i kanoniczny indeks dopiero po weryfikacji.
-4. Zachować oryginały w lokalnym archiwum, bez dodawania PDF do publicznego repozytorium.
+## Ekstrakcja tabel
 
-## Priorytety fact-checkingu
+- PDF 37, strony 2 i 3: dwie części tabeli wyników i kosztów finansowych FemFund — pliki `tables/0002.*` i `tables/0003.*`.
+- PDF 38, strona 3: tabela wyników finansowych Centrum Praw Kobiet — pliki `tables/0003.*`.
+- Dane w tabelach są **twierdzeniami dokumentu źródłowego**, nie zweryfikowanymi danymi z KRS.
 
-- **GREVIO:** oryginalny raport o Polsce, przepisy Konwencji Stambulskiej i rozróżnienie rekomendacji od obowiązującego prawa. Wnioski o „dyktowaniu wyroków” nie wynikają automatycznie z raportu.
-- **Tetra Pak:** decyzja antymonopolowa Komisji Europejskiej z 1991 r., decyzja chińskiego organu z 2016 r., oficjalne dane dotyczące podatków i darowizn. Nie przypisywać odpowiedzialności osobistej za działania innych członków rodziny.
-- **FemFund:** roczne sprawozdania KRS, dokumenty grantowe i przypisy do kosztów finansowych; wykazać lub odrzucić hipotezy o przepływach na podstawie dokumentów, nie spekulacji.
-- **Centrum Praw Kobiet:** źródłowe reportaże, stanowisko organizacji, status komisji i postępowań, sprawozdania KRS. Wynik netto nie jest równoznaczny z niewypłacalnością.
+## Weryfikacja redakcyjna
 
-Wszystkie zarzuty wobec nazwanych osób i organizacji mają status `unverified_source_material`. Przed publikacją wymagają niezależnego potwierdzenia, prawa do odpowiedzi i przeglądu prawnego. Nie należy publikować danych wrażliwych.
+Poniższe punkty są zadaniami kontrolnymi, nie potwierdzeniem zarzutów:
 
-**Stan kanoniczny bez zmian:** 27 unikatowych PDF-ów, 124 strony, 30 rekordów przyjęcia. Nierozwiązane sloty 01–05 partii 002 pozostają bez zmian.
+### PDF 34
+- Potwierdzić sprawozdania Sigrid Rausing Trust i beneficjentów grantów; nie wywodzić wpływu na prawo z samego finansowania.
+- Zweryfikować zarzuty o cyberprzestępczości w dokumentach procesowych; oddzielić organizację od osób trzecich.
+
+### PDF 35
+- Sprawdzić źródłowe raporty GREVIO, treść Konwencji Stambulskiej i status prawny zaleceń.
+- Nie utożsamiać rekomendacji organu monitorującego z orzeczeniem sądowym ani wiążącą zmianą prawa.
+
+### PDF 36
+- Zweryfikować decyzje antymonopolowe KE i organów chińskich oraz ich adresatów.
+- Oddzielić historyczne sprawy rodzinne i podatkowe od działalności konkretnych fundacji.
+
+### PDF 37
+- Zweryfikować roczne sprawozdania finansowe FemFund w KRS i źródła finansowania.
+- Sprawdzić metodologię tabel z PDF, zwłaszcza znaczenie kosztów finansowych i wyniku netto.
+
+### PDF 38
+- Sprawdzić niezależne źródła dotyczące sporów pracowniczych i uzyskać stanowisko Centrum Praw Kobiet.
+- Zweryfikować kwoty z tabel w dokumentach KRS; strata netto nie dowodzi automatycznie niewypłacalności.
+
+**Zastrzeżenie:** w PDF-ach występują ostre, potencjalnie zniesławiające tezy dotyczące osób i organizacji. Wszystkie pozostają `unverified_source_material`; wymagają niezależnego fact-checkingu, prawa do odpowiedzi i oceny prawnej przed publikacją.
+
+Sloty 01–05 partii 002 nadal wymagają oryginałów.

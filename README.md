@@ -53,14 +53,14 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-**27 unikatowych PDF-ów / 124 strony** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **30 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
+**32 unikatowe PDF-y / 142 strony** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **35 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
 - **batch-003:** 5 oryginałów, 16 stron (4 nowe dokumenty, 13 nowych unikatowych stron; PDF 19 był już w indeksie) — [raport](docs/batches/batch-003.md). Tabela z PDF 22, strona 3, jest również dostępna w formatach Markdown i JSON.
 - **batch-004:** 5 oryginałów, 15 stron (5 nowych dokumentów) — [raport](docs/batches/batch-004.md). Brak nowych duplikatów tekstowych.
 - **batch-005:** 5 oryginałów, 15 stron (5 nowych dokumentów) — [raport](docs/batches/batch-005.md). Brak nowych relacji duplikacji tekstu.
-- **batch-006 (staging):** 4 podglądy, 15 stron; tylko notatki stron, bez oryginalnych bajtów PDF i bez importu kanonicznego — [raport](docs/batches/batch-006.md).
+- **batch-006:** 5 oryginalnych PDF-ów (34–38), 18 stron, 5 nowych dokumentów kanonicznych; oryginały w oddzielnym ZIP i Bibliotece, transkrypcje oraz 3 tabele w repo — [raport](docs/batches/batch-006.md).
 - **Niedostarczone:** sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

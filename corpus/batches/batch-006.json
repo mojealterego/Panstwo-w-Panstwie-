@@ -1,0 +1,69 @@
+{
+  "batch_id": "batch-006",
+  "canonical_total_documents": 32,
+  "canonical_total_pages": 142,
+  "duplicate_pairs": 5,
+  "extraction_engine": "PyMuPDF 1-based embedded text; raw source byte SHA-256 verified locally",
+  "fact_check_status": "unverified_source_material",
+  "new_document_count": 5,
+  "new_unique_pages": 18,
+  "originals": [
+    {
+      "document_id": "pdf-13301bc2e5bd5d7eebe29c0e",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(34).PDF",
+      "number": 34,
+      "pages": 3,
+      "source_sha256": "13301bc2e5bd5d7eebe29c0ebb828d802294fcd697f890fd6d2fa8cab015e58a",
+      "structured_tables": 0,
+      "text_sha256": "c6aa0313068cec52606d5e416f1c3b163395d3f29b2e91e63f04465a91708f9a",
+      "topic": "Sigrid Rausing Trust — finansowanie, lobbing i zarzuty przedstawione w materiale"
+    },
+    {
+      "document_id": "pdf-4126f1e0cbf5e281b1500d77",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(35).PDF",
+      "number": 35,
+      "pages": 3,
+      "source_sha256": "4126f1e0cbf5e281b1500d77322f5a62036ada6fd664b2819b7ce49278a39430",
+      "structured_tables": 0,
+      "text_sha256": "3670aa19d7eebc884a9402dd4dd88b4753c28ad08abec171252709911ddd2cde",
+      "topic": "GREVIO — zalecenia, polityka przeciwdziałania przemocy i finansowanie"
+    },
+    {
+      "document_id": "pdf-2ea8d036487e419b11fc007c",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(36).PDF",
+      "number": 36,
+      "pages": 4,
+      "source_sha256": "2ea8d036487e419b11fc007cb3aaa1731c75c2b729408a516410660b0d2a7a9d",
+      "structured_tables": 0,
+      "text_sha256": "9fb1d80e37ba00cf3d1e5d4a43fc147c3471ecd199bf7c2912163f2773c9026e",
+      "topic": "Tetra Pak i rodzina Rausingów — antymonopol, podatki, działalność filantropijna"
+    },
+    {
+      "document_id": "pdf-0de856f947fbe9cebb5fef36",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(37).PDF",
+      "number": 37,
+      "pages": 4,
+      "source_sha256": "0de856f947fbe9cebb5fef360b527bceee78151152f56b85bfeab1084aaf7afd",
+      "structured_tables": 2,
+      "text_sha256": "a5f42dc16c5f2007c7a53496bf4205b41a9db1ae4620f056f30c46eba425912f",
+      "topic": "Fundusz Feministyczny (FemFund) — granty, finanse i finansowanie zagraniczne"
+    },
+    {
+      "document_id": "pdf-1bc7364392cdd39685d45528",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(38).PDF",
+      "number": 38,
+      "pages": 4,
+      "source_sha256": "1bc7364392cdd39685d45528f48f2fbc324c5c60d95e1e6c61008129df6c0d63",
+      "structured_tables": 1,
+      "text_sha256": "31db6159349778d25fe58cefeb315c7884a9bf276bb37b93b776871c3674d6d7",
+      "topic": "Centrum Praw Kobiet — spory pracownicze, działalność i finanse"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "quality_status": "extracted",
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "source_page_count": 18,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 35
+}

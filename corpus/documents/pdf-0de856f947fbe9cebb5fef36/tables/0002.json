@@ -1,0 +1,28 @@
+{
+  "document_id": "pdf-0de856f947fbe9cebb5fef36",
+  "extraction_method": "pymupdf_find_tables",
+  "header": [
+    "Rok obrachunkowy",
+    "Zysk/Strata netto (PLN)",
+    "Koszty finansowe\n(PLN)",
+    "Główny zagraniczny\npłatnik"
+  ],
+  "rows": [
+    [
+      "2021",
+      "403 001,17",
+      "0,00",
+      "Sigrid Rausing Trust"
+    ],
+    [
+      "2022",
+      "150 826,35",
+      "0,00",
+      "Sigrid Rausing Trust"
+    ]
+  ],
+  "schema_version": 1,
+  "source_page": 2,
+  "table_index": 1,
+  "verification_status": "unverified_source_material"
+}

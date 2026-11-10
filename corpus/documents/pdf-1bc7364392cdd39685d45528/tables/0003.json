@@ -1,0 +1,40 @@
+{
+  "document_id": "pdf-1bc7364392cdd39685d45528",
+  "extraction_method": "pymupdf_find_tables",
+  "header": [
+    "Rok obrachunkowy",
+    "Przychody ogółem",
+    "Wynik finansowy netto\n(PLN)",
+    "Status bilansu"
+  ],
+  "rows": [
+    [
+      "2020",
+      "Dane statutowe",
+      "352 855,92",
+      "Zysk netto"
+    ],
+    [
+      "2022",
+      "Dane statutowe",
+      "665 652,14",
+      "Zysk netto"
+    ],
+    [
+      "2023",
+      "Dane statutowe",
+      "-626 531,32",
+      "STRATA NETTO"
+    ],
+    [
+      "2024",
+      "Dane statutowe",
+      "-1 503 924,72",
+      "GIGANTYCZNA\nSTRATA NETTO"
+    ]
+  ],
+  "schema_version": 1,
+  "source_page": 3,
+  "table_index": 1,
+  "verification_status": "unverified_source_material"
+}

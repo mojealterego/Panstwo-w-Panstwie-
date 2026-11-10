@@ -1,77 +1,29 @@
 {
-  "schema_version": 1,
   "batch_id": "batch-006",
-  "status": "staging_preview_only",
-  "canonical_import": false,
-  "source_pdf_sha256_verified": false,
-  "raw_pdf_available_to_processing_tools": false,
-  "preview_count": 4,
-  "preview_page_count": 15,
-  "pending_slots": [
-    "slot-01"
-  ],
-  "pending_slot_reason": "Brak dostępnego w bieżących narzędziach tekstu/metadanych pierwszego załącznika; nie przypisywać nazwy ani liczby stron",
-  "original_filenames_verified": false,
-  "verbatim_transcriptions_stored": false,
-  "source_text_sha256_verified": false,
+  "canonical_after": {
+    "document_count": 32,
+    "page_count": 142,
+    "receipt_count": 35
+  },
   "canonical_baseline": {
     "document_count": 27,
     "page_count": 124,
     "receipt_count": 30
   },
-  "quality_status": "awaiting_binary_pdf",
+  "canonical_import": true,
   "fact_check_status": "unverified_source_material",
-  "review_flags": [
-    "legal_status_of_GREVIO_recommendations",
-    "financial_records_require_primary_sources",
-    "unverified_reputational_allegations",
-    "causal_links_not_established",
-    "structured_tables_require_visual_review"
-  ],
-  "sources": [
-    {
-      "slot": "slot-02",
-      "source_ref": "turn454file1",
-      "page_count_preview": 3,
-      "title_for_review": "GREVIO — kompetencje, prawo rodzinne i finansowanie",
-      "review_flags": [
-        "law_vs_recommendation",
-        "causality_unproven",
-        "institutional_competence"
-      ]
-    },
-    {
-      "slot": "slot-03",
-      "source_ref": "turn454file2",
-      "page_count_preview": 4,
-      "title_for_review": "Tetra Pak i rodzina Rausingów — antymonopol, podatki, filantropia",
-      "review_flags": [
-        "personal_reputation",
-        "financial_provenance",
-        "unsupported_causal_link"
-      ]
-    },
-    {
-      "slot": "slot-04",
-      "source_ref": "turn454file3",
-      "page_count_preview": 4,
-      "title_for_review": "FemFund — granty, finanse i programy wsparcia",
-      "review_flags": [
-        "structured_table_page_2_3",
-        "financial_interpretation",
-        "causality_unproven"
-      ]
-    },
-    {
-      "slot": "slot-05",
-      "source_ref": "turn454file4",
-      "page_count_preview": 4,
-      "title_for_review": "Centrum Praw Kobiet — zarządzanie, spory pracownicze i sprawozdania",
-      "review_flags": [
-        "structured_table_page_3",
-        "personal_reputation",
-        "legal_outcome_unverified"
-      ]
-    }
-  ]
+  "historical_notes_are_transcriptions": false,
+  "original_filenames_verified": true,
+  "pending_slots": [],
+  "preview_count": 4,
+  "preview_page_count": 15,
+  "quality_status": "extracted",
+  "raw_pdf_available_to_processing_tools": true,
+  "raw_pdf_in_public_repo": false,
+  "resolution_path": "resolution.json",
+  "schema_version": 1,
+  "source_pdf_sha256_verified": true,
+  "source_text_sha256_verified": true,
+  "status": "resolved_to_canonical",
+  "verbatim_transcriptions_stored": true
 }

@@ -1,0 +1,48 @@
+{
+  "batch_id": "batch-006",
+  "note": "Historyczne notatki z podglądu pozostają w staging, ale nie zastępują transkrypcji kanonicznych.",
+  "resolved_slots": [
+    {
+      "document_id": "pdf-13301bc2e5bd5d7eebe29c0e",
+      "original_filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(34).PDF",
+      "page_count": 3,
+      "previous_preview_ref": null,
+      "slot": "slot-01",
+      "source_sha256": "13301bc2e5bd5d7eebe29c0ebb828d802294fcd697f890fd6d2fa8cab015e58a"
+    },
+    {
+      "document_id": "pdf-4126f1e0cbf5e281b1500d77",
+      "original_filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(35).PDF",
+      "page_count": 3,
+      "previous_preview_ref": "turn454file1",
+      "slot": "slot-02",
+      "source_sha256": "4126f1e0cbf5e281b1500d77322f5a62036ada6fd664b2819b7ce49278a39430"
+    },
+    {
+      "document_id": "pdf-2ea8d036487e419b11fc007c",
+      "original_filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(36).PDF",
+      "page_count": 4,
+      "previous_preview_ref": "turn454file2",
+      "slot": "slot-03",
+      "source_sha256": "2ea8d036487e419b11fc007cb3aaa1731c75c2b729408a516410660b0d2a7a9d"
+    },
+    {
+      "document_id": "pdf-0de856f947fbe9cebb5fef36",
+      "original_filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(37).PDF",
+      "page_count": 4,
+      "previous_preview_ref": "turn454file3",
+      "slot": "slot-04",
+      "source_sha256": "0de856f947fbe9cebb5fef360b527bceee78151152f56b85bfeab1084aaf7afd"
+    },
+    {
+      "document_id": "pdf-1bc7364392cdd39685d45528",
+      "original_filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(38).PDF",
+      "page_count": 4,
+      "previous_preview_ref": "turn454file4",
+      "slot": "slot-05",
+      "source_sha256": "1bc7364392cdd39685d45528f48f2fbc324c5c60d95e1e6c61008129df6c0d63"
+    }
+  ],
+  "source_pdf_sha256_verified": true,
+  "status": "canonical_imported"
+}
