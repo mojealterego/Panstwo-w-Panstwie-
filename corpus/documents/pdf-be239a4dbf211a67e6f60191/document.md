@@ -1,0 +1,133 @@
+# Dokument źródłowy pdf-be239a4dbf211a67e6f60191
+
+> Transkrypcja automatyczna. Treść źródła nie jest weryfikacją zawartych w nim twierdzeń.
+
+## Strona 1
+
+ARCHITEKCI PAŃSTWA W PAŃSTWIE.
+Fundacja im. Stefana Batorego: Ustawy
+w teczkach, ukrywane fundusze i
+wielomilionowe zadłużenia pod maską
+demokracji
+
+Kiedy dochodzi do gwałtownych zmian w ustroju państwa, przeciętny obywatel wierzy, że nowe
+prawo rodzi się w gmachach ministerstw na drodze transparentnych, demokratycznych
+procedur. Prawda jest znacznie mroczniejsza. Ośrodek decyzyjny i legislacyjny w Polsce został
+dawno sprywatyzowany. Jego nieformalną stolicą stała się ulica Sapieżyńska 10A w Warszawie
+– główna siedziba Fundacji im. Stefana Batorego.
+Organizacja założona w 1988 roku przez amerykańskiego miliardera George'a Sorosa
+wykreowała się w mediach na najwyższą wyrocznię moralną, stojącą na straży praworządności i
+transparentności. Jednak zderzenie tych wzniosłych haseł z wyrokami Naczelnego Sądu
+Administracyjnego (NSA), sejmowymi aferami oraz twardymi bilansami finansowymi z
+Krajowego Rejestru Sądowego (KRS) brutalnie niszczy ten mit. Fundacja Batorego to w
+rzeczywistości potężny, nieformalny gabinet cieni. To korporacja, która ukarana została grzywną
+za utajnianie podziału zagranicznych pieniędzy, i która tonie w milionowych zobowiązaniach,
+pisząc jednocześnie "z tylnego siedzenia" ustawy dla najwyższych władz w państwie.
+Oto bezlitosna sekcja zwłok najpotężniejszego gracza w polskim trzecim sektorze.
+
+1. LEGISLACYJNE MACHLOJKI I USTAWY "W TECZCE". Jak omija się
+prawo lobbingowe
+
+Największą zmorą każdej demokracji jest pisanie prawa na zamówienie, z pominięciem kontroli
+społecznej. Fundacja Batorego przez lata produkowała raporty krytykujące zjawisko
+nieuczciwego lobbingu, wprost przyznając w swoich publikacjach, że polska ustawa o
+działalności lobbingowej to fikcja, która pozwala firmom konsultingowym na zakulisowe
+wywieranie nacisków bez ponoszenia żadnych konsekwencji.
+Fundacja bez wahania wykorzystała jednak tę samą fikcję prawną do własnych celów. W 2024
+roku w polskim parlamencie wybuchł gigantyczny skandal związany ze zmianami w Trybunale
+Konstytucyjnym. Grupa posłów z nowej większości sejmowej złożyła projekty reformujące ten
+najważniejszy w Polsce sąd jako własne "projekty poselskie". Szybko jednak wyszło na jaw – co
+bezlitośnie obnażyli posłowie opozycji – że politycy przynieśli te ustawy de facto "w teczce"
+prosto od ekspertów z Fundacji Batorego.
+Politycy koalicji rządzącej (m.in. Sławomir Ćwik) otwarcie bronili tego procederu, przyznając, że
+"grupa posłów może wykorzystać taki projekt i złożyć jako poselski". To ominięcie oficjalnej drogi
+legislacyjnej i otwartych konsultacji społecznych. Zamiast przejrzystego procesu, obywatele
+otrzymali prawo napisane w zaciszu biur prywatnej fundacji na Sapieżyńskiej, która zrzesza
+osoby związane z konkretną stroną sceny politycznej (w zarządzie zasiadają m.in. Anna
+Materska-Sosnowska czy Edwin Bendyk). Fundacja wydała histeryczne oświadczenia,
+
+## Strona 2
+
+zaprzeczając, jakoby prowadziła nielegalny lobbing, ale fakt pozostaje faktem: prywatna
+instytucja dyktuje ramy prawne dla kluczowych organów państwa, omijając niewygodne dla
+siebie procedury ujęte w ustawie o lobbingu.
+
+2. SĄDOWE GRZYWNY I HIPOKRYZJA JAWNOŚCI. Co Fundacja
+ukrywała przed Polakami?
+
+Organizacja, która od lat poucza urzędników państwowych o transparentności, w obliczu
+kontroli własnych działań sięga po najgorsze wzorce zatajania prawdy. Sprawa dotyczy
+dystrybucji tak zwanych Funduszy Norweskich – potężnych środków finansowych, które z
+punktu widzenia prawa traktowane są jako mienie publiczne.
+Kiedy prawnicy z Instytutu Ordo Iuris złożyli oficjalny wniosek do Fundacji Batorego o
+udostępnienie informacji publicznej dotyczącej kryteriów i protokołów z podziału tych
+gigantycznych pieniędzy, Fundacja kategorycznie odmówiła. Władze z Sapieżyńskiej stwierdziły
+arbitralnie, że nie mają obowiązku się tłumaczyć, bo "podział Funduszy Norweskich nie stanowi
+realizacji zadania publicznego".
+Próba ukrycia mechanizmów oceny wniosków grantowych przed społeczeństwem zakończyła
+się dla fundacji sromotną, sądową klęską. Wojewódzki Sąd Administracyjny (WSA) w
+Warszawie, po zbadaniu sprawy, bezlitośnie ukarał Fundację Batorego grzywną za
+naruszenie przepisów ustawy o dostępie do informacji publicznej. Sprawa trafiła
+ostatecznie aż do Naczelnego Sądu Administracyjnego (NSA), który wydał przełomowy wyrok:
+fundacja dysponująca środkami dla organizacji musi być traktowana jako podmiot realizujący
+zadania publiczne i podlega obowiązkowi jawności. Instytucja moralizująca naród została
+zmuszona do poszanowania prawa dopiero groźbą sankcji karnych i grzywny.
+
+3. ZŁOTA KROPLÓWKA I DZIURAWE BILANSE. Milionowe zadłużenia
+w księgach KRS
+
+Taka arogancja wobec sądów i obywateli bierze się z gigantycznego, międzynarodowego
+zaplecza finansowego. Fundacja Batorego działa jak państwowy bankrut, operujący na potężnej
+dźwigni finansowej.
+Szczegółowa analiza sprawozdań finansowych, składanych do Krajowego Rejestru Sądowego,
+obnaża niepokojący obraz struktury finansowej tego podmiotu. Choć Fundacja obraca
+dziesiątkami milionów złotych (w 2019 roku ich przychody ze źródeł zagranicznych, w tym od
+Sorosa, drastycznie rosły), to ich bilans ujawnia ogromne zadłużenia.
+Z oficjalnego bilansu na dzień 31 grudnia 2019 roku wynika, że Fundacja Batorego posiadała
+zobowiązania krótkoterminowe w astronomicznej kwocie 3 273 932,50 PLN oraz
+zobowiązania długoterminowe opiewające na 3 634 922,32 PLN. Łącznie to niemal 7
+milionów złotych pasywów w formie zobowiązań i rezerw! Sprawozdania finansowe (np. za 2021
+i 2022 rok) wykazują jednocześnie potężne nakłady na spekulacje instrumentami finansowymi:
+fundacja inwestuje w obligacje skarbowe, lokaty i jednostki uczestnictwa w funduszach
+inwestycyjnych, wykazując na swoich kontach różnice kursowe i efekty z przeszacowania
+aktywów. To nie jest model działania transparentnej organizacji pomocowej; to mechanika
+wielkiego funduszu inwestycyjnego z gigantycznym zadłużeniem operacyjnym.
+
+4. MONOPOL CERV. Jak Batoremu opłaca się unijna inżynieria
+
+## Strona 3
+
+Skąd Fundacja czerpie środki na pokrycie tych zobowiązań i narzucanie własnego prawa? Gdy
+skończyła się poprzednia perspektywa Funduszy Norweskich, Fundacja Batorego błyskawicznie
+"przebranżowiła się", sięgając po pieniądze z Unii Europejskiej.
+Obecnie Fundacja Batorego przejęła pełną kontrolę nad unijnym programem CERV (Obywatele,
+Równość, Prawa i Wartości) w Polsce. Założyli oni Program Równych Praw, na który dysponują
+budżetem w wysokości 6,7 miliona euro (blisko 30 milionów złotych) na lata 2025-2027.
+Co robią z tymi pieniędzmi? Dzielą je na mniejsze dotacje celowe (np. "małe dotacje" do 50 tys.
+zł, "duże dotacje" do 100 tys. zł) i rozdają ściśle wyselekcjonowanym, lokalnym organizacjom
+lewicowym i feministycznym w całej Polsce. To właśnie za te pieniądze lokalne fundacje
+wchodzą potem w skład Zespołów Interdyscyplinarnych ds. Przemocy Domowej, lobbując za
+odbieraniem dzieci ojcom czy zakładaniem bezpodstawnych "Niebieskich Kart".
+Aby obsługiwać ten polityczny rurociąg z Brukseli, Fundacja Batorego zatrudnia armię
+biurokratów na niezwykle lukratywnych warunkach. Jak wynika z oficjalnych ogłoszeń
+rekrutacyjnych, specjalista ds. programu CERV w Fundacji Batorego może liczyć na
+wynagrodzenie rzędu od 7000 do 10500 zł brutto, a na stanowiskach zarządczych kwoty te
+szybują do 13 000 zł miesięcznie z pełnym pakietem prywatnej opieki medycznej, funduszami
+socjalnymi i pracowniczymi programami emerytalnymi. O takich warunkach szeregowy,
+przeciążony pracą pracownik socjalny z dowolnego prowincjonalnego MOPS-u w Polsce może
+jedynie pomarzyć.
+
+KONKLUZJA ŚLEDCZA
+
+Fundacja im. Stefana Batorego nie jest niewinnym graczem w sektorze społecznym. To
+perfekcyjnie zorganizowany, zakulisowy organ nadzoru, który sprywatyzował kluczowe procesy
+w polskim państwie.
+Z jednej strony organizacja ta omija niewygodne przepisy lobbingowe, pisząc ustawy wprost dla
+posłów próbujących przejąć Trybunał Konstytucyjny. Z drugiej strony, zasłaniając się własnymi
+regulaminami, bezczelnie utajnia przed polskim społeczeństwem protokoły z dystrybucji mienia
+publicznego, za co karana jest sądowymi grzywnami przez Wojewódzki Sąd Administracyjny.
+Grając na giełdach funduszy i notując wielomilionowe zadłużenia w dokumentacji KRS,
+uodporniła się na wszelką krytykę, wchłaniając kolejne transze unijnych dotacji z programu
+CERV. Dopóki polska polityka i prawo będą kształtowane z tylnego siedzenia przez organizacje
+oparte na tak głębokiej hipokryzji finansowej i operacyjnej, instytucje publiczne pozostaną
+jedynie notariuszami woli zagranicznego kapitału.

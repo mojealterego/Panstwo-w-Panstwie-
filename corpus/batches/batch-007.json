@@ -1,0 +1,75 @@
+{
+  "batch_id": "batch-007",
+  "canonical_total_documents": 37,
+  "canonical_total_pages": 158,
+  "duplicate_pairs": 5,
+  "extraction_engine": "PyMuPDF embedded_text, 1-based pages; PDF SHA-256 computed from raw source bytes",
+  "fact_check_status": "unverified_source_material",
+  "new_document_count": 5,
+  "new_duplicate_pairs": 0,
+  "new_unique_pages": 16,
+  "originals": [
+    {
+      "document_id": "pdf-5f2c3331760bd079001e28d0",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(39).PDF",
+      "number": 39,
+      "pages": 4,
+      "size_bytes": 108965,
+      "source_sha256": "5f2c3331760bd079001e28d0b1dc9f4072efbf43bd8d867d4fd1d701c53448d6",
+      "structured_tables": 0,
+      "text_sha256": "6daa80e3f18762a648a6bee2970c73648723f7d12cfdb98539defaa2e7f4b50a",
+      "topic": "Fundacja Panoptykon — finansowanie, polityka cyfrowa i działalność strażnicza"
+    },
+    {
+      "document_id": "pdf-0d5192fa264b75ae2929b4b9",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(40).PDF",
+      "number": 40,
+      "pages": 3,
+      "size_bytes": 116354,
+      "source_sha256": "0d5192fa264b75ae2929b4b94a98fffd5d453ad4d62fe1ee36c5dff17cc8f4cc",
+      "structured_tables": 1,
+      "text_sha256": "f6c217348867a60aa6d39fa84a4a0ae1fb4b6dcb5cb1fc69cb8a0b7bf43f5ffd",
+      "topic": "Sieć Obywatelska Watchdog Polska — finansowanie, spory sądowe i dostęp do informacji"
+    },
+    {
+      "document_id": "pdf-b377dbd9f33b652ea5631ce4",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(41).PDF",
+      "number": 41,
+      "pages": 3,
+      "size_bytes": 117203,
+      "source_sha256": "b377dbd9f33b652ea5631ce430855a7b11e15d892bcf357bd43bef7fd4c1568f",
+      "structured_tables": 0,
+      "text_sha256": "572e4a11c332b0356f105075847a986382ee7636a43e0958ff3750c48256f16f",
+      "topic": "OKO.press — finansowanie, sprawozdania i standardy dziennikarskie"
+    },
+    {
+      "document_id": "pdf-5f7db050861bc7f40b971cd1",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(42).PDF",
+      "number": 42,
+      "pages": 3,
+      "size_bytes": 103913,
+      "source_sha256": "5f7db050861bc7f40b971cd13bacc9e51f1b59634926e500a059486d744d7aa0",
+      "structured_tables": 0,
+      "text_sha256": "fab2609e7850f2a0c49fc5ea0fd992a45b5362652f60b12785cc92f619ce1412",
+      "topic": "Open Society Foundations — finansowanie, polityka grantowa i działalność organizacyjna"
+    },
+    {
+      "document_id": "pdf-be239a4dbf211a67e6f60191",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(43).PDF",
+      "number": 43,
+      "pages": 3,
+      "size_bytes": 101092,
+      "source_sha256": "be239a4dbf211a67e6f60191be6884c5ded552f2c17857871ddb16116566c1d7",
+      "structured_tables": 0,
+      "text_sha256": "cc7ec65afb2ec9496df0962a434c3dccb10703c1b6605e21d3ba956ebd26dcb3",
+      "topic": "Fundacja im. Stefana Batorego — legislacja, jawność, zobowiązania i granty"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "quality_status": "extracted",
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "source_page_count": 16,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 40
+}

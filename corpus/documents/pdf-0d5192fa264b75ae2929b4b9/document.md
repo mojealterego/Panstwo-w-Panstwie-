@@ -1,0 +1,142 @@
+# Dokument źródłowy pdf-0d5192fa264b75ae2929b4b9
+
+> Transkrypcja automatyczna. Treść źródła nie jest weryfikacją zawartych w nim twierdzeń.
+
+## Strona 1
+
+PSY STRÓŻUJĄCE NA SMYCZY
+OLIGARCHÓW. Watchdog Polska pod
+lupą: Miliony od Sorosa, manipulacje
+procesowe i hipokryzja w walce o
+jawność
+
+Wyprowadzanie publicznych pieniędzy i budowanie wpływów politycznych w państwie najłatwiej
+realizuje się poprzez tworzenie ułudy społecznej kontroli. Przeciętny obywatel, zmęczony
+wszechobecną urzędniczą arogancją i brakiem transparentności w urzędach, z nadzieją
+spogląda na organizacje mieniące się „niezależnymi psami stróżującymi”. W Polsce absolutnym
+monopolistą w tej dziedzinie, kreującym się na jedynego bezstronnego obrońcę prawa do
+informacji publicznej, jest Stowarzyszenie Sieć Obywatelska Watchdog Polska.
+Jednak pod fasadą bezkompromisowej walki o jawność kryje się wysoce dochodowa korporacja
+grantowa. Kiedy prześledzimy miliony płynące na ich konta bezpośrednio od zagranicznych
+miliarderów, zderzymy ich moralizatorskie hasła z brutalną praktyką sądową i obnażymy
+wybiórcze traktowanie jawności, odkryjemy przerażający obraz. To nie jest oddolna inicjatywa
+obywateli. To precyzyjnie opłacany z zewnątrz aparat nacisku, który za zagraniczny kapitał
+monopolizuje polską sferę kontroli obywatelskiej, bezlitośnie niszcząc przeciwników za pomocą
+sfałszowanych procesów, a w sprawach kluczowych dla obrony polskich rodzin (jak walka z
+patologiami „Niebieskich Kart”) zachowuje wymowne milczenie.
+Oto bezlitosne śledztwo obnażające finanse, metody i hipokryzję Watchdoga.
+
+1. RUROCIĄG FINANSOWY Z LONDYNU I NOWEGO JORKU. Kto
+naprawdę opłaca Watchdog Polska?
+
+Podstawowym kłamstwem, na którym ufundowano mit założycielski Watchdoga, jest rzekome
+finansowanie przez „zwykłych obywateli”. Choć stowarzyszenie posiada status Organizacji
+Pożytku Publicznego (OPP) i co roku apeluje do Polaków o odpisy podatkowe, wpływy z tego
+tytułu są jedynie listkiem figowym.
+Prawdziwe, milionowe przelewy płyną z zupełnie innych kierunków. Sprawozdania finansowe
+stowarzyszenia obnażają całkowite, finansowe uzależnienie od zagranicznych funduszy
+politycznych i prywatnych miliarderów:
+Sponsor instytucjonalny       Kwota dotacji (PLN)           Cel dotacji
+Sigrid Rausing Trust         580 370,05                  Grant instytucjonalny
+Open Society Foundations    156 323,91                  Raporty i edukacja obywatelska
+Fundacja im. Stefana Batorego 38 656,37                   Szkoła Inicjatyw Strażniczych
+Forum Społeczeństwa        23 166,87                  Współpraca wschodnia
+Obywatelskiego UE-Rosja
+Z powyższego zestawienia za jeden z badanych okresów wynika, że ponad połowa budżetu tej
+"niezależnej" organizacji pochodzi bezpośrednio z kont zagranicznych oligarchów. Głównym
+sponsorem jest brytyjski Sigrid Rausing Trust (SRT), należący do szwedzkich magnatów
+
+## Strona 2
+
+opakowaniowych, który w czerwcu 2024 r. przyznał Watchdogowi kolejny, gigantyczny grant w
+wysokości 300 000 funtów. Zaraz za nim plasuje się Open Society Foundations (OSF)
+George'a Sorosa, który tylko w jednym rzucie wpompował w stowarzyszenie ponad 150 tysięcy
+złotych.
+Najbardziej niepokojącą pozycją w ich księgach jest jednak kwota 19 712,40 PLN
+zaksięgowana jako „pomoc humanitarna z Freedom House w związku z potencjalnym
+zagrożeniem”. Dlaczego polskie stowarzyszenie, działające w bezpiecznym, demokratycznym
+kraju członkowskim UE, pobiera od amerykańskiej, rządowej organizacji fundusze pod
+pretekstem "pomocy humanitarnej w obliczu zagrożenia"? To rodzi uzasadnione pytania o
+rzeczywistą rolę Watchdoga jako zagranicznego ekspozytora interesów politycznych.
+
+2. SĄDOWY TERRORYZM I MANIPULACJE. Metoda działania
+Watchdoga przed sądem
+
+Mając za plecami milionowy kapitał z zagranicy, Watchdog Polska wypracował precyzyjną i
+bezwzględną metodę niszczenia swoich celów. Ich sztandarową batalią był wieloletni proces
+karny wytoczony członkom zarządu Fundacji Lux Veritatis (ojcu Tadeuszowi Rydzykowi, Janowi
+Królowi oraz księgowej Lidii Kochanowicz-Mańk).
+Wokół tej sprawy zorganizowano gigantyczny spektakl medialny. Jednak od strony czysto
+prawnej, śledztwo obnażyło zatrważający modus operandi Watchdoga. Jak wprost wskazał
+adwokat Marcin Chodkowski, stowarzyszenie to stosuje schemat polegający na celowym
+pomijaniu w pismach procesowych kluczowych i fundamentalnych faktów, aby
+zmanipulować decyzje sądów.
+Co więcej, Watchdog z premedytacją skierował oskarżenie nie przeciwko samej Fundacji, ale
+personalnie przeciwko jej zarządowi. Celem nie była jawność – celem był medialny lincz i próba
+wsadzenia do więzienia konkretnych ludzi pod okiem kamer zaprzyjaźnionego OKO.press.
+Finał tego politycznego procesu okazał się dla Watchdoga kompromitacją. We wrześniu 2022
+roku Sąd Okręgowy w Warszawie całkowicie uchylił wyrok skazujący księgową i umorzył
+postępowanie. Sędzia Iwona Konopka w ustnym uzasadnieniu obnażyła manipulację
+Watchdoga, orzekając, że stowarzyszenie w ogóle nie zostało i nie mogło zostać
+skrzywdzone brakiem informacji, a co za tym idzie – nie miało żadnego prawa do wnoszenia
+subsydiarnego aktu oskarżenia. Sąd wskazał, że nieudzielenie informacji nie narusza praw
+organizacji, a Watchdog wykorzystał procedury karne w sposób nieuprawniony. Co więcej, za
+ten sromotnie przegrany proces polityczny, sąd nakazał Watchdogowi zapłacić uniewinnionym
+po 5040 zł kosztów sądowych prosto z konta zasilanego przez Sorosa.
+
+3. RAŻĄCY KONFLIKT INTERESÓW. Żądania naruszające
+bezpieczeństwo i dane wrażliwe
+
+Wspomniany proces obnażył również głęboką hipokryzję Watchdoga w sferze ochrony
+prywatności. Domagając się od Fundacji Lux Veritatis rejestru wydatków, stowarzyszenie żądało
+ujawnienia umów cywilnoprawnych zwieranych z osobami fizycznymi.
+Jak wskazała dyrektor finansowa Lidia Kochanowicz-Mańk, spełnienie żądań Watchdoga
+wymagałoby ujawnienia skrajnie wrażliwych danych osobowych tysięcy
+współpracowników: ich imion, nazwisk, adresów zamieszkania, numerów PESEL oraz
+dokładnych kwot. Watchdog, mieniący się obrońcą praw obywatelskich, parł do
+bezprecedensowego złamania RODO i ujawnienia prywatnych danych zwykłych ludzi, którzy po
+
+## Strona 3
+
+prostu wykonali usługi dla fundacji. Gdy sprawa dotyczyła ich samych – np. gdy prokuratura
+badała sprawę unikania transparentności przez inne zaprzyjaźnione z nimi podmioty – aktywiści
+pierwsi krzyczeli o "atakach na społeczeństwo obywatelskie".
+Ta wybiórcza moralność uderza także w ich sojuszników. Watchdog Polska ściśle współpracuje
+z fundacjami feministycznymi (jak FemFund czy CPK), które są finansowane przez te same
+zagraniczne trusty (Sigrid Rausing). Organizacje te żyją z procedury "Niebieskich Kart" i
+przemysłu rozwodowego. Choć procedura ta rażąco łamie prywatność i jest masowo
+wykorzystywana przez adwokatów do niszczenia ojców w sądach rodzinnych, Watchdog milczy.
+Nie złożył ani jednego wniosku o transparentność prac Zespołów Interdyscyplinarnych czy Grup
+Diagnostyczno-Pomocowych, chroniąc dochodowy biznes swoich ideologicznych partnerek.
+
+4. 1049 DNI HIPOKRYZJI. Jak Watchdog zderzył się z własną bronią w
+NIK
+
+Najbardziej kuriozalnym dowodem na to, że "jawność" w wykonaniu Watchdoga to jedynie
+narzędzie polityczne, jest ich własna batalia z Najwyższą Izbą Kontroli. We wrześniu 2015 roku
+stowarzyszenie złożyło wniosek do NIK o udostępnienie dokładnych kwot nagród brutto
+wypłaconych urzędnikom w latach 2013-2014, żądając imion i nazwisk.
+NIK, będący naczelnym organem kontroli państwowej, zachował się jak typowy, biurokratyczny
+unikiarz. Urzędnicy Mariana Banasia zaczęli mnożyć przeszkody techniczne, twierdząc, że
+przygotowanie takiego wykazu dla 1600 pracowników wymaga "ręcznego sumowania" i
+skomplikowanych obliczeń, co uniemożliwia mechaniczne udostępnienie danych.
+Efekt? Od złożenia wniosku do rozprawy przed Naczelnym Sądem Administracyjnym minęło
+dokładnie 1049 dni. Sprawa, która miała dbać o transparentność instytucji kontrolnych, została
+celowo sparaliżowana przez państwowych urzędników. To koronny dowód na to, jak iluzoryczna
+jest egzekucja prawa w Polsce: gdy gra toczy się między dwiema potężnymi instytucjami (NIK i
+zasilanym z zagranicy Watchdogiem), obywatel otrzymuje spektakl przewlekłości, z którego po
+3 latach nie wynika kompletnie nic dla przejrzystości finansów publicznych.
+
+KONKLUZJA ŚLEDCZA
+
+Stowarzyszenie Sieć Obywatelska Watchdog Polska to nie jest niezależny ruch społeczny. To
+sprawnie prosperujący, supranarodowy holding prawno-medialny. Za miliony złotych płynące
+bezpośrednio od George'a Sorosa i szwedzkiej dynastii Rausingów, organizacja ta
+zmonopolizowała prawo do decydowania o tym, co w Polsce jest "jawne", a co ma pozostać w
+sferze mroku.
+Stosując brutalny lobbing i sfałszowane merytorycznie subsydiarne akty oskarżenia, Watchdog
+niszczył przeciwników politycznych, ignorując jednocześnie konstytucyjne prawa do prywatności
+zwykłych obywateli. W tym wielkim teatrze jawności, rozbijane rodziny, bezkarność inwigilacji
+MOPS-u oraz miliony wyprowadzane z Funduszu Sprawiedliwości do zaprzyjaźnionych struktur
+są całkowicie pomijane. Watchdog nie gryzie ręki, która go karmi – chroni system, który
+zapewnia stały dopływ brytyjskich funtów i unijnych dotacji na ich warszawskie etaty.
