@@ -1,0 +1,43 @@
+{
+  "document_id": "pdf-46f458b9f7ab457835a90e83",
+  "schema_version": 1,
+  "source_sha256": "46f458b9f7ab457835a90e83501fab79f612ea7521a5b21bee7f3bb0b09c6aa9",
+  "text_sha256": "93a1a04ff1c01a11b1b6efe67578f507aca6b7f5d63a1c53fb112001a6b25931",
+  "original_filenames": [
+    "Ford Foundation_ Śledztwo Finansowe i Wpływy.PDF"
+  ],
+  "page_count": 10,
+  "page_characters": [
+    2918,
+    3027,
+    3711,
+    3409,
+    3550,
+    3348,
+    3147,
+    3123,
+    3366,
+    3399
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-46f458b9f7ab457835a90e83/document.md",
+  "text_path": "documents/pdf-46f458b9f7ab457835a90e83/document.txt",
+  "recognized_table_count": 1,
+  "topic": "Ford Foundation — historia, struktura i przepływy finansowe"
+}

@@ -1,0 +1,29 @@
+{
+  "document_id": "pdf-0f063f8856dd7a1950fec7b3",
+  "schema_version": 1,
+  "source_sha256": "0f063f8856dd7a1950fec7b3dcce87a0afc1fb50ab709968157eff53fbbce769",
+  "text_sha256": "c1a3fc32e63200055430f5c4c3346599b81e8ae314dc65b061dabc567478e5e4",
+  "original_filenames": [
+    "Dokument bez nazwy(4).PDF"
+  ],
+  "page_count": 2,
+  "page_characters": [
+    3658,
+    2056
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Układ PDF może dzielić inicjały akapitów (drop caps); transkrypcja zachowuje wynik ekstrakcji bez redakcyjnej korekty."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-0f063f8856dd7a1950fec7b3/document.md",
+  "text_path": "documents/pdf-0f063f8856dd7a1950fec7b3/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Adamów (powiat łukowski i zamojski) — funkcjonowanie zespołów"
+}

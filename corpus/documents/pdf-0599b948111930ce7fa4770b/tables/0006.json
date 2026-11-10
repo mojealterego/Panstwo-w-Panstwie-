@@ -1,0 +1,42 @@
+{
+  "document_id": "pdf-0599b948111930ce7fa4770b",
+  "source_filename": "Stiftung Mercator_ Śledztwo Finansowe i Wpływy.PDF",
+  "page_number": 8,
+  "table_number_on_page": 1,
+  "row_count": 5,
+  "column_count": 4,
+  "rows": [
+    [
+      "Pozycja\nsprawozdawcza\n(Aktywa i Wydatki)",
+      "Stan na rok 2017",
+      "Stan na rok 2021",
+      "Analiza dynamiki i\nznaczenie strukturalne"
+    ],
+    [
+      "na dotacje (ogółem)",
+      "",
+      "",
+      "finansowania\nzewnętrznego mimo\nkryzysu\nzadłużeniowego Metro\nAG."
+    ],
+    [
+      "Dotacje: Partycypacja\ni Spójność",
+      "0,00",
+      "15,60",
+      "Gwałtowny wzrost\nfinansowania\nprogramów wpływu\nspołecznego i\nmigracyjnego."
+    ],
+    [
+      "Dotacje: Edukacja i\nNauka",
+      "19,90",
+      "6,80",
+      "Drastyczne\nograniczenie\nfinansowania\nklasycznej edukacji na\nrzecz projektów\npolitycznych."
+    ],
+    [
+      "Suma zatwierdzonych\nnowych grantów",
+      "77,10",
+      "51,20",
+      "Spadek o 33,6%\nodzwierciedlający\nkurczenie się dywidend\nz kapitału handlowego\nrodziny."
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "fact_check_status": "unverified_source_material"
+}

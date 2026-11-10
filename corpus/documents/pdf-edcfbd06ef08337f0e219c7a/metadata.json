@@ -1,0 +1,32 @@
+{
+  "document_id": "pdf-edcfbd06ef08337f0e219c7a",
+  "schema_version": 1,
+  "source_sha256": "edcfbd06ef08337f0e219c7aace593eabb6b5bcc0a15639f95a62a988464b7ca",
+  "text_sha256": "c3960a1a2b03ede59c04758be151eadbf216733bdd5739d9c27360ec070c1e9c",
+  "original_filenames": [
+    "Dokument bez nazwy(1).PDF"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2630,
+    2931,
+    111
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Układ PDF może dzielić inicjały akapitów (drop caps); transkrypcja zachowuje wynik ekstrakcji bez redakcyjnej korekty.",
+    "Strona 3: krótki tekst (111 znaków), zachowano w całości."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-edcfbd06ef08337f0e219c7a/document.md",
+  "text_path": "documents/pdf-edcfbd06ef08337f0e219c7a/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Niebieskie Karty i finansowanie systemu — krytyczna analiza kosztów"
+}

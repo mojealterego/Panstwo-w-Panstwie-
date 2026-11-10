@@ -1,0 +1,36 @@
+{
+  "document_id": "pdf-0599b948111930ce7fa4770b",
+  "source_filename": "Stiftung Mercator_ Śledztwo Finansowe i Wpływy.PDF",
+  "page_number": 7,
+  "table_number_on_page": 1,
+  "row_count": 4,
+  "column_count": 4,
+  "rows": [
+    [
+      "Pozycja\nsprawozdawcza\n(Aktywa i Wydatki)",
+      "Stan na rok 2017",
+      "Stan na rok 2021",
+      "Analiza dynamiki i\nznaczenie strukturalne"
+    ],
+    [
+      "Aktywa trwałe\n(Non-current assets)",
+      "b.d.",
+      "132,95",
+      "Stabilny kapitał\nulokowany w\nnieruchomościach i\nudziałach\npowierniczych."
+    ],
+    [
+      "Aktywa obrotowe\n(Current assets)",
+      "b.d.",
+      "141,31",
+      "Środki płynne służące\nzabezpieczeniu\nbieżącej działalności\ndotacyjnej."
+    ],
+    [
+      "Środki przeznaczone",
+      "61,80",
+      "64,10",
+      "Stały poziom"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "fact_check_status": "unverified_source_material"
+}

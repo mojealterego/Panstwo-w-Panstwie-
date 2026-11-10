@@ -1,0 +1,31 @@
+{
+  "document_id": "pdf-8ab1669090b4d21ea690629b",
+  "schema_version": 1,
+  "source_sha256": "8ab1669090b4d21ea690629b5849f1542b945cc623971414f1f0c7660ea5b1b5",
+  "text_sha256": "f4e4f33239c182d2fc1e71305401fa41e691f623967df4de93ae037d83eab725",
+  "original_filenames": [
+    "Dokument bez nazwy(3).PDF"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2390,
+    2852,
+    240
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Układ PDF może dzielić inicjały akapitów (drop caps); transkrypcja zachowuje wynik ekstrakcji bez redakcyjnej korekty."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-8ab1669090b4d21ea690629b/document.md",
+  "text_path": "documents/pdf-8ab1669090b4d21ea690629b/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Białystok — skład zespołu interdyscyplinarnego i finansowanie NGO"
+}

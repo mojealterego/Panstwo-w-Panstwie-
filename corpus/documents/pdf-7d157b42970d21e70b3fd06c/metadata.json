@@ -1,0 +1,55 @@
+{
+  "document_id": "pdf-7d157b42970d21e70b3fd06c",
+  "schema_version": 1,
+  "source_sha256": "7d157b42970d21e70b3fd06c858ece91fe5cc3307477614b36a166ad9be3f81b",
+  "text_sha256": "c2dda1287f54b3146eb982e832e1be651da71e014076eab244d0e7d1ecfb6797",
+  "original_filenames": [
+    "Dokument bez nazwy(5).PDF"
+  ],
+  "page_count": 15,
+  "page_characters": [
+    3224,
+    3591,
+    3519,
+    3281,
+    3112,
+    3466,
+    3461,
+    3318,
+    3046,
+    3450,
+    3632,
+    3553,
+    3642,
+    3167,
+    2719
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Układ PDF może dzielić inicjały akapitów (drop caps); transkrypcja zachowuje wynik ekstrakcji bez redakcyjnej korekty."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-7d157b42970d21e70b3fd06c/document.md",
+  "text_path": "documents/pdf-7d157b42970d21e70b3fd06c/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Biometria, e-dowody i Rejestry Państwowe — krytyczna analiza RODO"
+}

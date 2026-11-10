@@ -1,0 +1,29 @@
+{
+  "document_id": "pdf-ad2aee68b29f72b1246ff863",
+  "schema_version": 1,
+  "source_sha256": "ad2aee68b29f72b1246ff8633a9aa5724f19f5e0acb6a5809dca9e0aa6f34af6",
+  "text_sha256": "48f26d56c7b79a167806aaa7a110b19dfa82d8e1f9cddb1fc0679e1b78989aef",
+  "original_filenames": [
+    "Dokument bez nazwy.PDF"
+  ],
+  "page_count": 2,
+  "page_characters": [
+    3091,
+    1295
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Układ PDF może dzielić inicjały akapitów (drop caps); transkrypcja zachowuje wynik ekstrakcji bez redakcyjnej korekty."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-ad2aee68b29f72b1246ff863/document.md",
+  "text_path": "documents/pdf-ad2aee68b29f72b1246ff863/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Przeciwdziałanie przemocy — ujęcie broniące legalnego outsourcingu zadań do NGO"
+}

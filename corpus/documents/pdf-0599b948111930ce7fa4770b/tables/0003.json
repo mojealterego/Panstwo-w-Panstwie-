@@ -1,0 +1,44 @@
+{
+  "document_id": "pdf-0599b948111930ce7fa4770b",
+  "source_filename": "Stiftung Mercator_ Śledztwo Finansowe i Wpływy.PDF",
+  "page_number": 4,
+  "table_number_on_page": 1,
+  "row_count": 4,
+  "column_count": 6,
+  "rows": [
+    [
+      "Rok obrotowy",
+      "Przychody\nnetto",
+      "EBITDA\n(operacyjna)",
+      "Dług netto (Net\nDebt)",
+      "Zysk/Strata\nokresu",
+      "Relacja długu\nnetto do\nEBITDA"
+    ],
+    [
+      "2017 / 2018",
+      "26 792",
+      "1 216",
+      "3 102",
+      "+357",
+      "2,55"
+    ],
+    [
+      "2018 / 2019",
+      "27 082",
+      "1 359",
+      "2 858",
+      "+405",
+      "2,10"
+    ],
+    [
+      "2019 / 2020",
+      "25 600",
+      "1 154",
+      "2 450",
+      "-205",
+      "2,12"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "fact_check_status": "unverified_source_material"
+}

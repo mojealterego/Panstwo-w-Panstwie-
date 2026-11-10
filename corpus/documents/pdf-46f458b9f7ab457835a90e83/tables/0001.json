@@ -1,0 +1,37 @@
+{
+  "document_id": "pdf-46f458b9f7ab457835a90e83",
+  "source_filename": "Ford Foundation_ Śledztwo Finansowe i Wpływy.PDF",
+  "page_number": 4,
+  "table_number_on_page": 1,
+  "row_count": 5,
+  "column_count": 3,
+  "rows": [
+    [
+      "Podmiot beneficjenta i program",
+      "Kwota grantu",
+      "Charakterystyka i ramy\nczasowe inicjatywy"
+    ],
+    [
+      "European Climate\nFoundation (ECF)",
+      "$750 000",
+      "Lata 2022–2025; wsparcie dla\nPool Fund on International\nEnergy z perspektywy\nsprawiedliwości społecznej"
+    ],
+    [
+      "Civil Society Fund\n(Konsorcjum w Polsce)",
+      "€83 471 033",
+      "Lata 2025–2031; finansowanie\nrozwoju społeczeństwa\nobywatelskiego i\nprzeciwdziałanie nieliberalnym\ntendencjom"
+    ],
+    [
+      "Fundacja im. Stefana\nBatorego (Historyczny)",
+      "1 736 650 PLN",
+      "Finansowanie celowe na rozwój\ninstytucjonalny, budowę\nstruktur filantropijnych i\npropagowanie postaw\nobywatelskich"
+    ],
+    [
+      "Civic Europe Capacity\nBuilding Program (OWOP)",
+      "€83 000",
+      "Lata 2020–2022; podnoszenie\nkompetencji i budowa struktur\norganizacji pozarządowych w\nregionach Polski"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "fact_check_status": "unverified_source_material"
+}

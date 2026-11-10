@@ -1,0 +1,21 @@
+{
+  "batch_id": "batch-014",
+  "fact_check_status": "unverified_source_material",
+  "publication_review_required": true,
+  "sensitive_topics": [
+    "nazwane osoby i instytucje publiczne",
+    "zarzuty nieprawidłowości lub przestępstw",
+    "wrażliwe dane i informacje o przemocy domowej"
+  ],
+  "methodology": "Zachowanie materiałów źródłowych nie jest niezależną weryfikacją ani stwierdzeniem winy. Ocenę twierdzeń wymaga dokumentacja pierwotna, odpowiedzi zainteresowanych i konsultacja prawna.",
+  "conflicting_assessments": [
+    {
+      "source_a": "pdf-ad2aee68b29f72b1246ff863",
+      "source_b": "pdf-f93181c5e4e31c3b12880f1c",
+      "issue": "Odmienna ocena legalności i konsekwencji współpracy państwa z organizacjami pozarządowymi w systemie przeciwdziałania przemocy.",
+      "status": "not_independently_verified",
+      "resolution": "preserve_both_and_request_primary_evidence"
+    }
+  ],
+  "legal_and_privacy_action_required": "Przed publikacją cytatów o osobach lub instytucjach zweryfikować zarzuty, podstawy prawne, okoliczności i rozważyć anonimizację danych wrażliwych."
+}

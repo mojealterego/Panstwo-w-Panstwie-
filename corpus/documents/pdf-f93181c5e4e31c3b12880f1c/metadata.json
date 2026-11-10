@@ -1,0 +1,33 @@
+{
+  "document_id": "pdf-f93181c5e4e31c3b12880f1c",
+  "schema_version": 1,
+  "source_sha256": "f93181c5e4e31c3b12880f1c59361e3b823eaa04544a67cec0d527bc88c73263",
+  "text_sha256": "a5f927210247f75768fdce194399ccbfff016a96fc64d080234127320f4af6dd",
+  "original_filenames": [
+    "Dokument bez nazwy(2).PDF"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    3164,
+    2994,
+    3145,
+    450
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Układ PDF może dzielić inicjały akapitów (drop caps); transkrypcja zachowuje wynik ekstrakcji bez redakcyjnej korekty."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-f93181c5e4e31c3b12880f1c/document.md",
+  "text_path": "documents/pdf-f93181c5e4e31c3b12880f1c/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Przemoc domowa, procedury i finansowanie — polemiczna analiza systemu"
+}

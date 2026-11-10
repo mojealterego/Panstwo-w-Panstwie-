@@ -1,0 +1,76 @@
+# pdf-ad2aee68b29f72b1246ff863
+
+## Strona 1
+
+Śladem publicznych pieniędzy w systemie przeciwdziałania przemocy domowej.
+
+​Kiedy podążamy za pieniędzmi płynącymi z budżetu państwa do trzeciego sektora, na
+pierwszy rzut oka mechanizm ten może budzić pytania. Setki tysięcy złotych wędrują rocznie
+do stowarzyszeń i fundacji zajmujących się ofiarami i sprawcami przemocy. Jednak po
+wnikliwej analizie dokumentacji finansowej, zarządzeń samorządowych oraz przepisów
+prawa, sensacyjna teza o "praniu pieniędzy" całkowicie upada. Księgi rachunkowe i ustawy
+ujawniają coś zupełnie innego: państwo polskie stosuje rygorystyczny outsourcing, który
+chroni przed nadużyciami kapitałowymi i ratuje budżet centralny.
+
+​Krok 1: Mechanizm przyznawania środków – brak „wolnej ręki”
+
+Państwo nie rozdaje pieniędzy w sposób arbitralny ani zakulisowy. Zgodnie z ustawą o
+pomocy społecznej i ustawą o działalności pożytku publicznego, przekazywanie środków
+organizacjom pozarządowym na realizację zadań publicznych musi odbywać się w drodze
+rygorystycznych, otwartych konkursów ofert. Dotacje płynące do gmin w ramach Rządowego
+Programu Przeciwdziałania Przemocy Domowej mają charakter celowy i są sztywno
+limitowane. Przykładowo, na usprawnienie funkcjonowania lokalnego zespołu
+interdyscyplinarnego gmina otrzymuje z góry narzuconą stawkę – wynoszącą 6000 zł dotacji
+na cały rok. Z kolei realizacja wymaganego ustawą programu korekcyjno-edukacyjnego dla
+sprawców przemocy w całym powiecie to często wydatek rzędu zaledwie 8000 zł z budżetu
+wojewody.
+
+​Krok 2: Iluzja prywatnego zysku i żelazne zasady rozliczeń
+
+Analiza prawa gospodarczego wykazuje, że fundacje i stowarzyszenia zasilające struktury
+Ośrodków Pomocy Społecznej nie mogą generować zysków w ujęciu komercyjnym na
+zadaniach zleconych. Prawo bezwzględnie zakazuje zarabiania na działalności odpłatnej
+pożytku publicznego – otrzymane wynagrodzenie pokrywa wyłącznie koszty faktycznie
+poniesione przy realizacji zadania.
+
+​System rozliczeń w publicznych dotacjach jest szczelny. Organizacje muszą prowadzić
+ściśle wyodrębnioną ewidencję księgową dla pobranych dotacji, a daty wszystkich
+dokumentów finansowych muszą mieścić się w precyzyjnie określonym harmonogramie
+umowy zawartej z prezydentem lub burmistrzem. Środki niewykorzystane, wydane
+niezgodnie z przeznaczeniem, lub pobrane w nadmiernej wysokości nie trafiają do
+prywatnych kieszeni zarządów, lecz podlegają natychmiastowemu zwrotowi na rachunek
+budżetu miasta wraz z ewentualnymi odsetkami. Nie ma tu zatem infrastruktury podatnej na
+tzw. "pranie pieniędzy".
+
+​Krok 3: Prawdziwy beneficjent systemu, czyli zysk makroekonomiczny
+
+Głębsze śledztwo ujawnia twardy, ekonomiczny powód, dla którego państwo ceduje te
+obowiązki na NGO. Z twardych danych ujętych w raporcie przygotowanym przez Szkołę
+Główną Handlową oraz Instytut Psychologii Zdrowia wynika, że przemoc domowa
+bezpośrednio rujnuje gospodarkę państwa. Koszty utrzymania systemu ochrony zdrowia
+(leczenie ofiar), wymiaru sprawiedliwości (prokuratura, sądy, kuratorzy) oraz straty na rynku
+pracy (utrata produktywności) sprawiają, że brak podjęcia interwencji kosztuje państwo
+
+## Strona 2
+
+polskie od 17 tys. do nawet 188 tys. złotych na zaledwie jedną ofiarę w okresie dwóch lat od
+zdarzenia.
+
+​Zlecając zatem interwencję specjalistom z zewnątrz, instytucje publiczne dokonują potężnej
+optymalizacji wydatków. Widać to doskonale na zbadanym wcześniej przykładzie z
+Cieszyna. Przekazanie łącznej dotacji rzędu 452 000 zł rocznie Stowarzyszeniu Pomocy
+Wzajemnej "Być Razem" na zabezpieczenie stacjonarnych miejsc w schronisku i noclegowni
+dla osób w kryzysie stanowi dla samorządu ułamek kwoty, jaką pochłonęłoby samodzielne
+powołanie od zera państwowej placówki, budowa infrastruktury oraz utrzymanie
+pełnoetatowej, całodobowej kadry urzędniczej.
+
+​Konkluzja Śledcza:
+
+Zebrany materiał dowodowy przeczy oskarżeniom o pranie publicznych pieniędzy.
+Architektura współpracy państwa z trzecim sektorem nie jest anomalią korupcyjną, lecz
+chłodną, opłacalną kalkulacją makroekonomiczną. Państwo przenosi ciężar realizacji
+najtrudniejszych zadań – takich jak organizacja ośrodków wsparcia czy bezpośrednia praca
+ze sprawcami – na wysoce wyspecjalizowane organizacje pozarządowe. Proces ten
+zabezpieczają bardzo restrykcyjne ustawy i umowy o dotacje celowe, a jego ostatecznym
+rezultatem jest nie tylko redukcja przemocy, ale powstrzymanie miliardowych strat dla
+polskiego budżetu centralnego.

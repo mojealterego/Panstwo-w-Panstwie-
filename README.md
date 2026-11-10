@@ -53,7 +53,7 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-**76 unikatowych PDF-ów / 403 strony** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **80 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
+**86 unikatowych PDF-ów / 458 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **90 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
@@ -68,6 +68,7 @@ AGENTS.md                       # reguły dla agentów AI
 - **batch-011:** 5 oryginalnych PDF-ów (63–67), 26 stron; 5 nowych dokumentów. PDF 63 jest w całości zawarty w PDF 64 i PDF 66 (odrębne bajty); zachowano wszystkie źródła i pełne transkrypcje — [raport](docs/batches/batch-011.md). ZIP oryginałów i pełnego korpusu w Bibliotece.
 - **batch-012:** 7 oryginalnych PDF-ów (68–74), 74 strony; 7 nowych dokumentów; 7 nowych relacji zawierania tekstu i 12 par identycznych stron — [raport](docs/batches/batch-012.md). Oryginały i pełny ZIP zachowane w Bibliotece.
 - **batch-013:** 9 PDF-ów (75–83), 91 stron, 9 nowych dokumentów; 9 relacji powtarzających się treści, 27 par identycznych stron. Pełny ZIP i oryginały w Bibliotece — [raport](docs/batches/batch-013.md). Materiały wymagają weryfikacji i przeglądu prawnego przed publikacją.
+- **batch-014:** 10 oryginalnych PDF-ów (w tym nr 84 i dokumenty opisowe), 55 stron, 10 nowych źródeł i 6 tabel. Dwie relacje zawierania tekstu, przejrzysta dokumentacja rozbieżnych ocen; pełny ZIP i kopia oryginałów w Bibliotece — [raport](docs/batches/batch-014.md). Publikacja wymaga weryfikacji zarzutów i kontroli danych osobowych.
 - **Niedostarczone:** PDF 53 oraz sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

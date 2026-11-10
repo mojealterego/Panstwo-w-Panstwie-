@@ -1,0 +1,47 @@
+{
+  "document_id": "pdf-0599b948111930ce7fa4770b",
+  "source_filename": "Stiftung Mercator_ Śledztwo Finansowe i Wpływy.PDF",
+  "page_number": 5,
+  "table_number_on_page": 1,
+  "row_count": 7,
+  "column_count": 3,
+  "rows": [
+    [
+      "Parametr porównawczy",
+      "Stiftung Mercator GmbH\n(Essen)",
+      "Agora Energiewende\n(Berlin/Bruksela)"
+    ],
+    [
+      "Numer w Rejestrze\nPrzejrzystości UE",
+      "876602816224-14 (od\n25.02.2015)",
+      "321342621105-20 (od\n17.03.2016)"
+    ],
+    [
+      "Oficjalne koszty lobbingu\n(rocznie)",
+      "< 9 999 EUR",
+      "1 375 000 EUR (dane za rok\nsprawozdawczy)"
+    ],
+    [
+      "Liczba zarejestrowanych\nlobbystów",
+      "2 osoby (wymiar czasu pracy:\n50% każda)",
+      "12 osób (w tym 10\nzatrudnionych na 100% etatu)"
+    ],
+    [
+      "Ekwiwalent pełnego czasu\npracy (FTE)",
+      "1,0 FTE",
+      "11,0 FTE"
+    ],
+    [
+      "Akredytacje do Parlamentu\nEuropejskiego",
+      "Brak",
+      "Brak (oficjalnie deklarowany)"
+    ],
+    [
+      "Główne cele i obszary\nnacisku legislacyjnego",
+      "Polityka sąsiedztwa UE, EEAS,\nDGNEAR, edukacja\nobywatelska",
+      "Rynek energii elektrycznej,\nGreen Deal, pomoc publiczna\nna cele środowiskowe, cele\nredukcyjne 2030"
+    ]
+  ],
+  "extraction_method": "pymupdf_find_tables",
+  "fact_check_status": "unverified_source_material"
+}

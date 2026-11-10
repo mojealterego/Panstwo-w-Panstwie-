@@ -1,0 +1,23 @@
+{
+  "batch_id": "batch-014",
+  "detection_method": "5-token shingles, >=90% Jaccard or >=90% containment, min 20 shared shingles; byte-exact page transcriptions",
+  "relations": [
+    {
+      "left_document_id": "pdf-0f063f8856dd7a1950fec7b3",
+      "right_document_id": "pdf-f13a3c76b622400b369ddae6",
+      "relation": "contained_in",
+      "jaccard": 0.14256,
+      "containment": 0.90495,
+      "shared_shingles": 695
+    },
+    {
+      "left_document_id": "pdf-8ab1669090b4d21ea690629b",
+      "right_document_id": "pdf-f13a3c76b622400b369ddae6",
+      "relation": "contained_in",
+      "jaccard": 0.13403,
+      "containment": 0.9221,
+      "shared_shingles": 651
+    }
+  ],
+  "exact_page_duplicates": []
+}

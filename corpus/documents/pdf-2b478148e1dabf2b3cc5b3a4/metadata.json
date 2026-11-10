@@ -1,0 +1,33 @@
+{
+  "document_id": "pdf-2b478148e1dabf2b3cc5b3a4",
+  "schema_version": 1,
+  "source_sha256": "2b478148e1dabf2b3cc5b3a4f93d83fe0aac28bd36a0c9cebdaf04ccf9146a2d",
+  "text_sha256": "d0ae7d9521628b0382ffe52ea74c5be56273a7be2c6b8b814058289f3556b673",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(84).PDF"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    2739,
+    3449,
+    3228,
+    1821
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [
+    "Zestawienie osobowe na stronie 2 ma układ wierszowy/pipe; detector tabel nie rozpoznaje tabeli, zachowano dosłowny tekst."
+  ],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-2b478148e1dabf2b3cc5b3a4/document.md",
+  "text_path": "documents/pdf-2b478148e1dabf2b3cc5b3a4/document.txt",
+  "recognized_table_count": 0,
+  "topic": "Augustów — skład zespołu interdyscyplinarnego i finansowanie lokalnej pomocy"
+}

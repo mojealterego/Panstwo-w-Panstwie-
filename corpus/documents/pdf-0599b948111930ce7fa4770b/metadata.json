@@ -1,0 +1,41 @@
+{
+  "document_id": "pdf-0599b948111930ce7fa4770b",
+  "schema_version": 1,
+  "source_sha256": "0599b948111930ce7fa4770bc240f162f2cf5d3254a219a15fc824d4ee241e2d",
+  "text_sha256": "80424a719517b25502e86d00026485a5fbba81e525ef0b92e89558700ed69952",
+  "original_filenames": [
+    "Stiftung Mercator_ Śledztwo Finansowe i Wpływy.PDF"
+  ],
+  "page_count": 9,
+  "page_characters": [
+    2876,
+    3545,
+    3256,
+    3648,
+    3254,
+    3365,
+    3598,
+    3401,
+    908
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "editorial_review_required": true,
+  "privacy_review_required": true,
+  "markdown_path": "documents/pdf-0599b948111930ce7fa4770b/document.md",
+  "text_path": "documents/pdf-0599b948111930ce7fa4770b/document.txt",
+  "recognized_table_count": 5,
+  "topic": "Stiftung Mercator — historia finansowania, struktura i lobbing"
+}
