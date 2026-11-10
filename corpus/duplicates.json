@@ -22,6 +22,22 @@
     "containment": 1
   },
   {
+    "containment": 1,
+    "jaccard": 0.51524,
+    "left_document_id": "pdf-5206d071984502a92fc2064a",
+    "relation": "contained_in",
+    "right_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+    "shared_shingles": 1251
+  },
+  {
+    "containment": 1,
+    "jaccard": 0.37635,
+    "left_document_id": "pdf-5206d071984502a92fc2064a",
+    "relation": "contained_in",
+    "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+    "shared_shingles": 1251
+  },
+  {
     "left_document_id": "pdf-6e59eb83485c3133d26a658d",
     "right_document_id": "pdf-c2c231afa368720d7ab63401",
     "relation": "contained_in",

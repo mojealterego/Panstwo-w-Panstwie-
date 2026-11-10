@@ -53,7 +53,7 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-**55 unikatowych PDF-ów / 212 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **59 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
+**60 unikatowych PDF-ów / 238 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **64 rekordy przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
@@ -65,6 +65,7 @@ AGENTS.md                       # reguły dla agentów AI
 - **batch-008:** 5 oryginalnych PDF-ów (44–48), 15 stron, 5 nowych dokumentów; lista darczyńców EDRi w JSON i Markdown, kopia ZIP w Bibliotece — [raport](docs/batches/batch-008.md).
 - **batch-009:** 5 oryginalnych PDF-ów (49, 50, 51, 52, 54), 15 stron, 5 nowych dokumentów; brak PDF 53; kopia ZIP w Bibliotece — [raport](docs/batches/batch-009.md).
 - **batch-010:** 9 PDF-ów (54–62), 27 stron; 8 nowych dokumentów i 24 nowe strony. PDF 54: identyczne bajty z batch-009; PDF 60: identyczny tekst z PDF 42, lecz odrębne bajty. ZIP zachowany w Bibliotece — [raport](docs/batches/batch-010.md).
+- **batch-011:** 5 oryginalnych PDF-ów (63–67), 26 stron; 5 nowych dokumentów. PDF 63 jest w całości zawarty w PDF 64 i PDF 66 (odrębne bajty); zachowano wszystkie źródła i pełne transkrypcje — [raport](docs/batches/batch-011.md). ZIP oryginałów i pełnego korpusu w Bibliotece.
 - **Niedostarczone:** PDF 53 oraz sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

@@ -1,0 +1,94 @@
+{
+  "batch_id": "batch-011",
+  "canonical_total_documents": 60,
+  "canonical_total_pages": 238,
+  "duplicate_pairs_after_import": 8,
+  "extraction_engine": "PyMuPDF embedded_text (sort=True), 1-based page numbering; SHA-256 raw PDF bytes",
+  "fact_check_status": "unverified_source_material",
+  "new_document_count": 5,
+  "new_duplicate_pairs": 2,
+  "new_unique_pages": 26,
+  "originals": [
+    {
+      "document_id": "pdf-5206d071984502a92fc2064a",
+      "fact_check_status": "unverified_source_material",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(63).PDF",
+      "number": 63,
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 118226,
+      "source_sha256": "5206d071984502a92fc2064acbfd2dad9e76768b18d6e792ed04450d81f71e38",
+      "text_sha256": "af28b7d58b3851a51e1b9d67b58d3a4ab8813ddec9d4eb7191abb307a7668220",
+      "topic": "As You Sow — raport o aktywizmie korporacyjnym i ESG"
+    },
+    {
+      "document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "fact_check_status": "unverified_source_material",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(64).PDF",
+      "number": 64,
+      "pages": 7,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 164046,
+      "source_sha256": "d38c13a826d8a8f1e25871f1b587dc5db3c50713ac57434ed13cdfc60233b10f",
+      "text_sha256": "948f2e1135e67c05263cdd5cd2fcdd3ac4be35596fdf80dd60c71d8efdafdab6",
+      "topic": "As You Sow / Omidyar Group — kompilacja dwóch opracowań"
+    },
+    {
+      "document_id": "pdf-ebd2c8623be89110ae841f5c",
+      "fact_check_status": "unverified_source_material",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(65).PDF",
+      "number": 65,
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 98983,
+      "source_sha256": "ebd2c8623be89110ae841f5c8f97f941a7b5ae1ec085df6248190c28bf3f7ba2",
+      "text_sha256": "c7accab2d348c605d6c7f665856be2b0d4be768d1f945b094522de0b1167aadb",
+      "topic": "Omidyar Group — finansowanie i polityka cyfrowa"
+    },
+    {
+      "document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "fact_check_status": "unverified_source_material",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(66).PDF",
+      "number": 66,
+      "pages": 9,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 199299,
+      "source_sha256": "fcd864fafc99d3d7e1fd345afb07d77aa0c7a07cbbc487b60749732ba8061de8",
+      "text_sha256": "0deaedb6465d23c266b72a858746cdd97651f2fd94ed868094d477202d2a3ad0",
+      "topic": "As You Sow / Omidyar / Biuro RPO — kompilacja trzech opracowań"
+    },
+    {
+      "document_id": "pdf-13cd85e13fee2309c0212d47",
+      "fact_check_status": "unverified_source_material",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(67).PDF",
+      "number": 67,
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 89601,
+      "source_sha256": "13cd85e13fee2309c0212d472670cd8ffba23f4caccf4da8d76057e26bf47228",
+      "text_sha256": "e3b110bb3a88c1526b3499d8040fe93e9ca723bf5b3b3473c3eba1193580375b",
+      "topic": "Biuro Rzecznika Praw Obywatelskich — analiza instytucjonalna"
+    }
+  ],
+  "other_notes": [
+    "PDF 64 and 66 are independently SHA-identifiable compilations.",
+    "PDF 63 is a full-content near-page-merged subset of PDF 64 and PDF 66 under 5-token shingle containment.",
+    "PDF 65 substantially overlaps a section of 66, but under default containment threshold (<0.9); do not merge.",
+    "PDF 67 covers a BRPO topic also present in the 66 compilation; not a full-content duplicate."
+  ],
+  "previously_indexed_count": 0,
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "source_page_count": 26,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 64,
+  "unresolved_prior_missing": [
+    "batch-002 slot-01..slot-05",
+    "PDF (53)"
+  ]
+}

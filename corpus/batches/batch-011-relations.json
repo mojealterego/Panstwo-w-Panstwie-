@@ -1,0 +1,88 @@
+{
+  "batch_id": "batch-011",
+  "detection_method": "5-token shingles with Jaccard>=0.9 or containment>=0.9; exact page UTF-8 text match",
+  "exact_page_duplicates": [
+    {
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "left_page": 1,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "right_page": 1
+    },
+    {
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "left_page": 2,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "right_page": 2
+    },
+    {
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "left_page": 3,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "right_page": 3
+    },
+    {
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "left_page": 1,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "right_page": 1
+    },
+    {
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "left_page": 2,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "right_page": 2
+    },
+    {
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "left_page": 3,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "right_page": 3
+    },
+    {
+      "left_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "left_page": 1,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "right_page": 1
+    },
+    {
+      "left_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "left_page": 2,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "right_page": 2
+    },
+    {
+      "left_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "left_page": 3,
+      "relation": "exact_page_text",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "right_page": 3
+    }
+  ],
+  "relations": [
+    {
+      "containment": 1.0,
+      "jaccard": 0.51524,
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "relation": "contained_in",
+      "right_document_id": "pdf-d38c13a826d8a8f1e25871f1",
+      "shared_shingles": 1251
+    },
+    {
+      "containment": 1.0,
+      "jaccard": 0.37635,
+      "left_document_id": "pdf-5206d071984502a92fc2064a",
+      "relation": "contained_in",
+      "right_document_id": "pdf-fcd864fafc99d3d7e1fd345a",
+      "shared_shingles": 1251
+    }
+  ],
+  "review_note": "Do not infer independent corroboration from repeated passages."
+}
