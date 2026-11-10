@@ -1,0 +1,103 @@
+{
+  "archive_policy": "Raw PDFs are included only in downloadable ZIP and private ChatGPT library, not public GitHub.",
+  "batch_id": "batch-008",
+  "canonical_total_documents": 42,
+  "canonical_total_pages": 173,
+  "duplicate_pairs": 5,
+  "extraction_engine": "PyMuPDF fitz embedded_text sort=True; raw-source SHA-256; 1-based pages",
+  "fact_check_status": "unverified_source_material",
+  "new_document_count": 5,
+  "new_duplicate_pairs": 0,
+  "new_unique_pages": 15,
+  "originals": [
+    {
+      "document_id": "pdf-1d51af05a83b159ee6803960",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(44).PDF",
+      "number": 44,
+      "pages": 3,
+      "review_flags": [
+        "transfer_amounts_require_original_financial_statements",
+        "foreign_influence_inference_unproven",
+        "chronology_requires_review"
+      ],
+      "size_bytes": 106005,
+      "source_sha256": "1d51af05a83b159ee680396088043da45e3fff54a98e99d0bd4eb1e9ee34d4a1",
+      "structured_tables": 0,
+      "text_sha256": "2a7fa87386e8bd712a38ad3f1daf60f9dffccc1d7a5c45d7f72a6d374a34ff03",
+      "topic": "Forum Społeczeństwa Obywatelskiego UE–Rosja — struktura, finansowanie i działania publiczne"
+    },
+    {
+      "document_id": "pdf-876abb28ab844af9f19eef23",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(45).PDF",
+      "number": 45,
+      "pages": 3,
+      "review_flags": [
+        "legal_activity_distinguish_from_alleged_coercion",
+        "KRS_finances_primary_records",
+        "personal_reputation",
+        "reproductive_health_privacy"
+      ],
+      "size_bytes": 95829,
+      "source_sha256": "876abb28ab844af9f19eef2368da388c4560f5178e16aed827bda2463896179f",
+      "structured_tables": 0,
+      "text_sha256": "21f633f9fdb77002d7372d314d64fa216a40df26477257024403ac35f1775390",
+      "topic": "FEDERA — granty, prawa reprodukcyjne, klinika i postępowania przed ETPC"
+    },
+    {
+      "document_id": "pdf-04acbf1a8a01fd109e751809",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(46).PDF",
+      "number": 46,
+      "pages": 3,
+      "review_flags": [
+        "pooled_fund_not_proof_of_corruption",
+        "grants_need_disbursement_evidence",
+        "election_claims_require_causal_evidence"
+      ],
+      "size_bytes": 113302,
+      "source_sha256": "04acbf1a8a01fd109e75180909791d38c76b1097bd0b5e57355717a481dbd778",
+      "structured_tables": 0,
+      "text_sha256": "60a87f5042390eb992ec9da346143527d989d26bc92b2c95a6944af629d5026d",
+      "topic": "Civitates — finansowanie mediów i organizacji oraz programy grantowe"
+    },
+    {
+      "document_id": "pdf-7061e6da329eb072e7463624",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(47).PDF",
+      "number": 47,
+      "pages": 3,
+      "review_flags": [
+        "nonprofit_structure_not_proof_of_illegality",
+        "lobbying_registrations",
+        "organizational_figures_need_dates"
+      ],
+      "size_bytes": 92318,
+      "source_sha256": "7061e6da329eb072e7463624c0a4600ef3a162f90b462d35f453a61a7e35e52a",
+      "structured_tables": 0,
+      "text_sha256": "79f2e0bebeb012803d74513e15cd6ae3d138fb91a24cf72b2630ec4fe3c97a98",
+      "topic": "Network of European Foundations (NEF) — struktura i finanse funduszy połączonych"
+    },
+    {
+      "document_id": "pdf-6f95f22921414a9ac46d7d20",
+      "filename": "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(48).PDF",
+      "number": 48,
+      "pages": 3,
+      "review_flags": [
+        "grant_figures_need_primary_statements",
+        "cross_border_tax_status_not_automatically_tax_abuse",
+        "EU_register_sources",
+        "structured_donor_list"
+      ],
+      "size_bytes": 102812,
+      "source_sha256": "6f95f22921414a9ac46d7d20bbc2e8a1078a770899baa19e40a96df219e5bd18",
+      "structured_tables": 1,
+      "text_sha256": "9de7ecab2454f58d88ba34123908119765ad9efa572d57d33eccc55043664705",
+      "topic": "European Digital Rights (EDRi) — finansowanie, lobbing oraz status organizacyjny"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "quality_status": "extracted",
+  "raw_pdf_in_repo": false,
+  "source_count": 5,
+  "source_page_count": 15,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 45
+}

@@ -1,0 +1,86 @@
+{
+  "disclaimer": "Niezweryfikowane kwoty podane przez autora PDF; nie są potwierdzeniem transferów. Dokument nie podaje jednoznacznie wspólnego okresu sprawozdawczego.",
+  "document_id": "pdf-6f95f22921414a9ac46d7d20",
+  "extraction_type": "curated_from_embedded_text",
+  "fact_check_status": "unverified_source_material",
+  "heading": "Lista finansowania EDRi według treści dokumentu źródłowego",
+  "rows": [
+    {
+      "amount": 240000,
+      "currency": "EUR",
+      "donor": "Network of European Foundations (NEF)",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 1
+    },
+    {
+      "amount": 225509,
+      "currency": "EUR",
+      "donor": "Aspiration Tech",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 1
+    },
+    {
+      "amount": 192914,
+      "currency": "EUR",
+      "donor": "Stiftung Mercator",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 1
+    },
+    {
+      "amount": 154839,
+      "currency": "EUR",
+      "donor": "Ford Foundation",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 1
+    },
+    {
+      "amount": 140000,
+      "currency": "EUR",
+      "donor": "Stichting Adessium",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 1
+    },
+    {
+      "amount": 128434,
+      "currency": "EUR",
+      "donor": "European AI & Society Fund",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 1
+    },
+    {
+      "amount": 126570,
+      "currency": "EUR",
+      "donor": "MacArthur Foundation",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 2
+    },
+    {
+      "amount": 108936,
+      "currency": "EUR",
+      "donor": "Open Society Foundations (OSF)",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 2
+    },
+    {
+      "amount": 87500,
+      "currency": "EUR",
+      "donor": "Limelight Foundation",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 2
+    },
+    {
+      "amount": 71305,
+      "currency": "EUR",
+      "donor": "Luminate",
+      "fact_check_status": "unverified_source_material",
+      "source_page": 2
+    }
+  ],
+  "schema_version": 1,
+  "source_document_number": 48,
+  "source_page": 1,
+  "source_pages": [
+    1,
+    2
+  ]
+}
