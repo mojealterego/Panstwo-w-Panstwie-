@@ -22,6 +22,7 @@ def main(argv: list[str] | None = None) -> int:
     ingest.add_argument("--no-ocr", action="store_true")
     ingest.add_argument("--ocr-lang", default="pol+eng")
     ingest.add_argument("--min-chars", type=int, default=40)
+    ingest.add_argument("--batch-id", default="unassigned", help="Identyfikator partii, np. batch-001")
     audit = commands.add_parser("audit", help="Odtwórz indeks i wykryj duplikaty.")
     audit.add_argument("--output", type=Path, default=Path("corpus"))
     args = parser.parse_args(argv)
@@ -34,6 +35,7 @@ def main(argv: list[str] | None = None) -> int:
                 ocr_enabled=not args.no_ocr,
                 ocr_lang=args.ocr_lang,
                 min_chars=args.min_chars,
+                batch_id=args.batch_id,
             )
             summary = rebuild_index(args.output)
             summary["files_examined"] = len(ingested)
