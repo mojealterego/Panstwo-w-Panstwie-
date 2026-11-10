@@ -1,0 +1,131 @@
+# Dokument źródłowy pdf-883276f1643113333126fda2
+
+> Zapis transkrypcji nie weryfikuje zarzutów. Materiał źródłowy, nie niezależny dowód. Wszystkie oskarżenia: `unverified_source_material`.
+
+## Strona 1
+
+PAŃSTWO JAKO PASOŻYT NA
+KRYZYSIE RODZINY. Dekonstrukcja
+mechanizmów kontroli i dojenia budżetu
+na przykładzie Zespołu
+Interdyscyplinarnego w Andrychowie
+
+Dramat rozpadających się rodzin to dla jednych koniec świata, a dla drugich – doskonały, stale
+zasilany państwowymi dotacjami model biznesowy. Jako dziennikarz śledczy badający od 30 lat
+patologie na styku władzy, budżetu i sektora pozarządowego, wielokrotnie obserwowałem, jak
+wzniosłe hasła stają się przykrywką dla brutalnego, systemowego wyzysku. Aby zrozumieć ten
+bezwzględny mechanizm, należy zejść z poziomu centralnych statystyk i dokonać wiwisekcji
+struktur szczebla lokalnego. Doskonałym poligonem badawczym jest Gminny Zespół
+Interdyscyplinarny – dumnie nazywający się „Koalicją Przeciw Przemocy” – działający przy
+Ośrodku Pomocy Społecznej w małopolskim Andrychowie.
+Nie mam w tej kwestii żadnych złudzeń. To nie jest instytucja wsparcia. To samonapędzająca
+się fabryka, w której „Niebieska Karta” jest towarem, obwiniony ojciec najczęściej wrogiem z
+góry skazanym na porażkę, a zdesperowani obywatele zmuszeni są finansować machinę
+skierowaną bezpośrednio przeciwko nim samym.
+
+1. ARCHITEKTURA PRZEPŁYWÓW FINANSOWYCH:
+"Cyrkulacja zamknięta" i konsumpcja dotacji w
+Andrychowie
+
+Aby lokalny układ mógł nieprzerwanie działać, potrzebuje sformalizowanych struktur i stałego
+zasilania budżetowego. 11 września 2023 roku Burmistrz Andrychowa wydał Zarządzenie Nr
+444/23 w sprawie powołania członków Gminnego Zespołu Interdyscyplinarnego . Na papierze to
+tarcza mająca chronić pokrzywdzonych. W rzeczywistości – hermetyczny organizm urzędniczy.
+Zasiadają w nim wydelegowane pracownice Ośrodka Pomocy Społecznej (takie jak Elżbieta
+Prus, Ewa Białczyk-Czechowska czy Izabela Jończy-Chmiel) oraz dobrani działacze lokalnych
+NGO, np. Jan Jopek ze Stowarzyszenia „Światło i Nadzieja” .
+Mechanizm przepływów finansowych przypomina tu klasyczną "cyrkulację zamkniętą".
+Pieniądze z budżetu państwa, funduszy celowych oraz budżetu gminy rzadko trafiają
+bezpośrednio i trwale do osób faktycznie potrzebujących pomocy. Zamiast tego są zasysane
+przez sam aparat, który przeznacza je na organizację własnego, wygodnego zaplecza –
+lukratywne szkolenia eksperckie, usługi doradcze czy obsługę psychologiczną.
+Dokładna analiza wydatków OPS Andrychów obnaża ten system. 22 maja 2024 roku Gminny
+Zespół Interdyscyplinarny do spółki z lokalnym OPS zorganizował kosztowne szkolenie pt.
+„Praca z dzieckiem w rodzinie z problemem przemocy domowej – prowadzenie procedury
+Niebieskie Karty” . Z publicznych pieniędzy wynajęto Jerzego Szczepańca, certyfikowanego
+superwizora i dyrektora ośrodka interwencji w Tarnowie . Szkoleniowa karuzela nigdy się nie
+
+## Strona 2
+
+zatrzymuje – już 10 marca 2025 roku zrealizowano kolejne seminarium pod nadzorem dr.
+Michała Gluzka. Zaproszono na nie aż 45 urzędników, w tym członków grup
+diagnostyczno-pomocowych, sędziów i policjantów. Jak cynicznie i wprost informuje sam OPS w
+swoich sprawozdaniach, wydarzenie to upłynęło „przy filiżance kawy i słodkim co nieco” –
+oczywiście na koszt podatnika ``.
+Te same, publiczne środki opłacają też kampanie, w których urzędnicy kreują się na wybawców.
+W październiku 2025 roku, podczas tzw. „Andrychowskich Dni Profilaktyki”, miała miejsce
+premiera filmu społecznego „Milczenie nie chroni – wybierz pomoc”, sfinansowanego z
+Gminnego Programu Przeciwdziałania Przemocy Domowej. W produkcji tej wystąpili jako
+„aktorzy” pracownicy andrychowskiego OPS oraz funkcjonariusze – co tylko dowodzi, że budżet
+służy zaspokajaniu PR-owych ambicji samego środowiska ``.
+
+2. EKONOMIA KONFLIKTU OKOŁOROZWODOWEGO I
+ASYMETRIA PROCESOWA
+
+Andrychowska „Koalicja Przeciw Przemocy” działa w szerokim systemie, w którym brutalny
+konflikt rodzinny został podniesiony do rangi zyskownej gałęzi gospodarki. Na sprawach
+rozwodowych i opiekuńczych tuczą się wyspecjalizowane kancelarie prawne oraz rzesze
+terapeutów i biegłych sądowych z OZSS.
+Oficjalne dokumenty Gminy Andrychów wymieniają szeroki wachlarz problemów: „awantury
+domowe”, „pobicia”, a także „przemoc ekonomiczną” ``. Ta ostatnia to często kluczowe hasło w
+sprawach okołorozwodowych. Procedura "Niebieskiej Karty" w Andrychowie i całym kraju jest
+nierzadko wykorzystywana z zimną krwią jako as procesowy tuż przed złożeniem pozwu w
+sądzie. W tym mechanizmie brakuje obiektywizmu – w majestacie prawa dochodzi do
+systemowej dyskryminacji ojców, wobec których wysnuwa się fałszywe oskarżenia, traktując je
+odgórnie za pewnik.
+Aparat pomocy społecznej z definicji faworyzuje matki, co widać gołym okiem w statystykach i
+sposobie interweniowania zespołów. Zjawisko alienacji rodzicielskiej (celowego i okrutnego
+niszczenia więzi ojca z dzieckiem) jest przez lokalne zespoły wyciszane, a często uważa się je
+za wtórną wiktymizację domniemanej ofiary. Oskarżony o „przemoc ekonomiczną” lub
+„psychiczną” mężczyzna musi latami, własnym kosztem udowadniać swoją niewinność przed
+sędziami. Narzędzia takie jak Niebieska Karta, które miały ratować bitych, stały się w rękach
+wyrachowanych stron i sprytnych mecenasów gwarantem uzyskania szybkiej eksmisji z
+mieszkania i wyłącznej władzy rodzicielskiej.
+
+3. REFORMA SYSTEMU NIEBIESKIEJ KARTY (2023):
+Penalizacja bez sądowej kontroli
+
+Cała opresyjność lokalnych struktur, takich jak ta andrychowska, zyskała niespotykane dotąd
+paliwo dzięki nowelizacji ustawy z 9 marca 2023 r. o przeciwdziałaniu przemocy domowej (która
+weszła w życie 22 czerwca 2023 r.). Rygorystyczna dekonstrukcja tych przepisów ujawnia, jak
+administracja urzędnicza zyskała władzę niemal absolutną nad polską rodziną.
+Reforma zastąpiła pojęcie "przemocy w rodzinie" szerszym pojęciem "przemocy domowej",
+stygmatyzując z góry wszystkich, którzy mieszkają lub kiedykolwiek mieszkali pod jednym
+dachem. Dodano pojęcia przemocy "cyfrowej" i "ekonomicznej".
+Co najgorsze, w Andrychowie i setkach innych gmin powołano do życia tzw. grupy
+
+## Strona 3
+
+diagnostyczno-pomocowe, wyłaniane przez Zespół Interdyscyplinarny. Grupa taka, składająca
+się z zaledwie pracownika socjalnego i lokalnego policjanta, może zdiagnozować przemoc,
+narzucić ofierze lub domniemanemu sprawcy konkretne rygory i zdecydować o zamknięciu
+procedury (po której jeszcze przez 9 miesięcy kontroluje rodzinę). Wszystko to odbywa się w
+warunkach pozasądowych – bez gwarancji procesowych dla oskarżanego obywatela. To grupa
+urzędnicza, a nie niezawisły sąd, wydaje wyrok i przymusza domniemanego sprawcę do
+uczestnictwa w programach „korekcyjno-edukacyjnych” lub „psychologiczno-terapeutycznych”.
+Ten układ ma ścisłe uzasadnienie finansowe. Ilość wszczynanych formularzy "Niebieska Karta -
+A" uzasadnia roczne statystyki. Gdyby andrychowski Ośrodek Pomocy Społecznej wykazał brak
+problemu, urzędnicze, rozrośnięte do absurdu stanowiska pracy w Zespole Interdyscyplinarnym
+oraz dofinansowania z ministerstwa po prostu by zniknęły. Wymusza to sztuczną eskalację
+zapotrzebowania na wrogów systemu.
+
+4. TRZYDZIESTOLECIE STAGNACJI LEGISLACYJNEJ:
+Interesy na ludzkim nieszczęściu
+
+Pytanie brzmi: dlaczego polskie prawo opiekuńcze tkwi w fundamentach od dekad, całkowicie
+ignorując współczesne, cywilizowane standardy takie jak domyślna piecza naprzemienna nad
+dzieckiem, która ucięłaby setki tysięcy niszczących procesów?
+Odpowiedź to pieniądze. Polskie państwo skapitulowało przed potężnym lobby. Po pierwsze –
+środowiska prawnicze, dla których długotrwały, morderczy konflikt okołorozwodowy oznacza
+strumień honorariów i prowizji. Uspokojenie sytuacji to mniejszy zysk. Po drugie – organizacje
+pozarządowe o profilu skrajnie feministycznym, które zbudowały własne imperia, monopole
+szkoleniowe i potężne przepływy finansowe z międzynarodowych grantów w oparciu o narrację
+wiecznej walki płci i wyłącznego sprawstwa mężczyzn. Po trzecie – armia urzędników. Tacy jak
+członkowie Zespołu Interdyscyplinarnego w Andrychowie, którzy legitymizują sens swojego
+istnienia, powołując do życia wciąż nowe zespoły, rozpisując zarządzenia burmistrza i
+konsumując dotacje państwowe w zaciszu zorganizowanych szkoleń.
+Z perspektywy Andrychowa widać to nader wyraźnie: rodzina jest tu wyłącznie paliwem do
+podtrzymania ognia w biurokratycznym piecu. Zamiast szybkiej, sprawiedliwej interwencji sądu,
+obywatel otrzymuje duszny uścisk administracyjny, w którym jego prywatność jest niszczona po
+to, by Zespół Interdyscyplinarny mógł odhaczyć w sprawozdaniach kolejny sukces i poprosić
+państwo o następny budżet na spotkania „przy kawie”.

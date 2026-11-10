@@ -53,7 +53,7 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-10)
 
-**67 unikatowych PDF-ów / 312 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **71 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
+**76 unikatowych PDF-ów / 403 strony** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **80 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały binarne PDF pozostają poza publicznym repozytorium.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
@@ -67,6 +67,7 @@ AGENTS.md                       # reguły dla agentów AI
 - **batch-010:** 9 PDF-ów (54–62), 27 stron; 8 nowych dokumentów i 24 nowe strony. PDF 54: identyczne bajty z batch-009; PDF 60: identyczny tekst z PDF 42, lecz odrębne bajty. ZIP zachowany w Bibliotece — [raport](docs/batches/batch-010.md).
 - **batch-011:** 5 oryginalnych PDF-ów (63–67), 26 stron; 5 nowych dokumentów. PDF 63 jest w całości zawarty w PDF 64 i PDF 66 (odrębne bajty); zachowano wszystkie źródła i pełne transkrypcje — [raport](docs/batches/batch-011.md). ZIP oryginałów i pełnego korpusu w Bibliotece.
 - **batch-012:** 7 oryginalnych PDF-ów (68–74), 74 strony; 7 nowych dokumentów; 7 nowych relacji zawierania tekstu i 12 par identycznych stron — [raport](docs/batches/batch-012.md). Oryginały i pełny ZIP zachowane w Bibliotece.
+- **batch-013:** 9 PDF-ów (75–83), 91 stron, 9 nowych dokumentów; 9 relacji powtarzających się treści, 27 par identycznych stron. Pełny ZIP i oryginały w Bibliotece — [raport](docs/batches/batch-013.md). Materiały wymagają weryfikacji i przeglądu prawnego przed publikacją.
 - **Niedostarczone:** PDF 53 oraz sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

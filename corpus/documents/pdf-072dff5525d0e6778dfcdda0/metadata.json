@@ -1,0 +1,63 @@
+{
+  "document_id": "pdf-072dff5525d0e6778dfcdda0",
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-072dff5525d0e6778dfcdda0/document.md",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(75).PDF"
+  ],
+  "page_characters": [
+    2760,
+    3217,
+    2833,
+    3151,
+    3108,
+    2574,
+    3131,
+    2853,
+    2839,
+    3180,
+    2852,
+    2774,
+    3724,
+    3379,
+    3405,
+    3566,
+    3837,
+    2908,
+    3632,
+    3396,
+    59
+  ],
+  "page_count": 21,
+  "page_warnings": [
+    "Strona 21: krótka końcówka dokumentu (59 znaków), zachowano bez dopisywania tekstu."
+  ],
+  "quality_status": "extracted",
+  "schema_version": 1,
+  "source_sha256": "072dff5525d0e6778dfcdda019e43c39b56f9cdc86b9332ec97720d3e2e9392c",
+  "text_path": "documents/pdf-072dff5525d0e6778dfcdda0/document.txt",
+  "text_sha256": "ab5356da939e3d5cd73b6545cafe595b443d870d6eee772c203bd24f15d4529f"
+}

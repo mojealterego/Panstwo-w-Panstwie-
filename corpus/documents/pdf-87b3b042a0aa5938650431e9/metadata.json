@@ -1,0 +1,28 @@
+{
+  "document_id": "pdf-87b3b042a0aa5938650431e9",
+  "editorial_risk": "Unverified allegations naming identifiable private persons and minor; mandatory legal and privacy review before publication.",
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-87b3b042a0aa5938650431e9/document.md",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(80).PDF"
+  ],
+  "page_characters": [
+    3016,
+    3335,
+    3395,
+    2359
+  ],
+  "page_count": 4,
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "schema_version": 1,
+  "source_sha256": "87b3b042a0aa5938650431e9f801b7ae73e9bcbb0eccbc099c4eceec631f62c2",
+  "text_path": "documents/pdf-87b3b042a0aa5938650431e9/document.txt",
+  "text_sha256": "838decb3b622614ddcf1c6625175306c214854672bc1e57321686155181ad26f"
+}

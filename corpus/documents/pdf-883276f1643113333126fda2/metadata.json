@@ -1,0 +1,26 @@
+{
+  "document_id": "pdf-883276f1643113333126fda2",
+  "editorial_risk": "Unverified allegations naming identifiable officials; independent corroboration needed.",
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-883276f1643113333126fda2/document.md",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(83).PDF"
+  ],
+  "page_characters": [
+    2689,
+    3192,
+    2533
+  ],
+  "page_count": 3,
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "schema_version": 1,
+  "source_sha256": "883276f1643113333126fda2e4174affe1b9aecf48cd2fa5411ffc060a3045de",
+  "text_path": "documents/pdf-883276f1643113333126fda2/document.txt",
+  "text_sha256": "6b4d560a44907e763dbbc1db80e53a3b28fa4cb740dcce63aad0e67b679ae763"
+}
