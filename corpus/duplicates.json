@@ -1,0 +1,33 @@
+[
+  {
+    "left_document_id": "pdf-24f00de3392d9a326970b049",
+    "right_document_id": "pdf-6e59eb83485c3133d26a658d",
+    "relation": "contained_in",
+    "jaccard": 0.18852,
+    "containment": 1,
+    "shared_shingles": 1123
+  },
+  {
+    "left_document_id": "pdf-6e59eb83485c3133d26a658d",
+    "right_document_id": "pdf-c2c231afa368720d7ab63401",
+    "relation": "contained_in",
+    "jaccard": 0.20514,
+    "containment": 1,
+    "shared_shingles": 1222
+  },
+  {
+    "left_document_id": "pdf-6e59eb83485c3133d26a658d",
+    "right_document_id": "pdf-ea5a0aa7df5f24ee1573f7a7",
+    "relation": "contained_in",
+    "jaccard": 0.19188,
+    "containment": 1,
+    "shared_shingles": 1143
+  },
+  {
+    "left_document_id": "pdf-c05be847e9d8021742d2dcd1",
+    "right_document_id": "pdf-d5c3679c9edde172b32dd104",
+    "relation": "exact_text",
+    "jaccard": 1,
+    "containment": 1
+  }
+]

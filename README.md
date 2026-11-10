@@ -51,6 +51,8 @@ AGENTS.md                       # reguły dla agentów AI
 
 **Repozytorium jest publiczne.** Nie umieszczaj w nim bez przeglądu redakcyjnego dokumentów zawierających dane osobowe, informacje wrażliwe ani niezweryfikowane oskarżenia. `incoming/` jest ignorowane przez Git. Wygenerowany `corpus/` **nie jest automatycznie wysyłany** do GitHub: przed `git add` i `git push` przeprowadź kontrolę treści, anonimizację i weryfikację prawną. Jeżeli cały materiał ma pozostać poufny, przechowuj korpus w prywatnym repozytorium.
 
-## Status
+## Stan przyjęcia źródeł (2026-11-10)
 
-Infrastruktura konwersji jest rozwijana. Odbiór konkretnych partii PDF następuje dopiero po odczytaniu oryginalnych bajtów, zarejestrowaniu SHA-256 i sprawdzeniu wyniku ekstrakcji. Nie należy traktować samego podglądu tekstowego w czacie jako zweryfikowanego importu pliku.
+Partia `batch-001`: **10 rzeczywistych PDF-ów / 72 strony**. Pełne transkrypcje Markdown i TXT, pliki stron, metadane i indeksy znajdują się w `corpus/`. Raport: [docs/batches/batch-001.md](docs/batches/batch-001.md).
+
+Każdy dokument ma identyfikator SHA-256 oryginalnych bajtów. W repozytorium opublikowano **tekst**, natomiast oryginalne pliki binarne PDF pozostają w osobnym pakiecie archiwalnym. Wszystkie zarzuty i interpretacje w źródłach mają status `unverified_source_material`.

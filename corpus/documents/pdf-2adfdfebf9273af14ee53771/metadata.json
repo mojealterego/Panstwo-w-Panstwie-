@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "document_id": "pdf-2adfdfebf9273af14ee53771",
+  "source_sha256": "2adfdfebf9273af14ee537714971440774331ef6936977df29d50f6fc444b360",
+  "text_sha256": "0c67dc015dc5a41fdcd1c9ae5366809fbb7e52a712874c674ee26b0fdfeb541d",
+  "original_filenames": [
+    "Analiza Działań European AI & Society Fund.PDF"
+  ],
+  "page_count": 10,
+  "page_characters": [
+    2810,
+    3432,
+    4069,
+    3588,
+    3312,
+    3270,
+    3588,
+    3225,
+    3920,
+    2933
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-2adfdfebf9273af14ee53771/document.md",
+  "text_path": "documents/pdf-2adfdfebf9273af14ee53771/document.txt",
+  "extraction_engine": "PDF parsed text (files.read); source SHA-256 from original PDF bytes"
+}

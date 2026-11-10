@@ -1,0 +1,640 @@
+Architektura Instytucjonalna Zespołów
+Interdyscyplinarnych w Polsce: Rola,
+Struktura i Partycypacja Organizacji
+Pozarządowych w Lokalnych Systemach
+Pomocy Społecznej
+Wprowadzenie do Problematyki Systemów Wsparcia
+Społecznego
+Współczesna polityka społeczna w Rzeczypospolitej Polskiej opiera się na wysoce
+zdywersyfikowanym i wielopoziomowym mechanizmie współpracy międzysektorowej. W
+centrum tego paradygmatu znajdują się instytucje administracji samorządowej, w szczególności
+Ośrodki Pomocy Społecznej. W zależności od statusu administracyjnego danej jednostki
+terytorialnej, podmioty te przyjmują formę Miejskich Ośrodków Pomocy Społecznej (MOPS),
+Gminnych Ośrodków Pomocy Społecznej (GOPS), Miejsko-Gminnych Ośrodków Pomocy
+Społecznej (MGOPS), Miejskich Ośrodków Pomocy Rodzinie (MOPR) oraz, coraz częściej,
+nowoczesnych Centrów Usług Społecznych (CUS). Ich ustawowym i statutowym obowiązkiem
+jest nie tylko dystrybucja świadczeń finansowych, ale przede wszystkim prowadzenie
+zintegrowanej pracy socjalnej, ukierunkowanej na zapobieganie marginalizacji, wykluczeniu
+społecznemu oraz neutralizację zjawisk patologicznych, z których najpoważniejszym pozostaje
+przemoc domowa.
+Fundamentalnym narzędziem operacyjnym w arsenale tych instytucji jest Zespół
+Interdyscyplinarny. Instytucja ta stanowi unikalną w polskim porządku prawnym platformę
+zinstytucjonalizowanej wymiany informacji, planowania strategicznego oraz koordynacji
+bezpośrednich działań pomocowych. Zespół Interdyscyplinarny skupia przedstawicieli
+kluczowych służb publicznych: pracowników socjalnych, funkcjonariuszy policji, pedagogów i
+psychologów szkolnych, przedstawicieli ochrony zdrowia, wymiaru sprawiedliwości
+(prokuratorów, kuratorów sądowych) oraz członków gminnych komisji rozwiązywania problemów
+alkoholowych. Analiza lokalnych struktur Zespołów Interdyscyplinarnych ujawnia jednak, że ich
+rzeczywista skuteczność w środowisku lokalnym jest w ogromnej mierze uwarunkowana
+poziomem zaangażowania przedstawicieli organizacji pozarządowych – fundacji i
+stowarzyszeń. Podmioty trzeciego sektora wprowadzają do sformalizowanego i niekiedy
+zbiurokratyzowanego systemu administracyjnego niezbędną zwinność, wysoce specjalistyczną
+wiedzę terapeutyczną, a także innowacyjne metody pracy, które nie zawsze są możliwe do
+zaimplementowania w sztywnych ramach instytucji publicznych.
+Zgodnie z wymogami zgłoszonymi w niniejszym zleceniu badawczym, raport ten stanowi
+dogłębną, krytyczną i wyczerpującą analizę struktur Zespołów Interdyscyplinarnych
+funkcjonujących przy jednostkach pomocy społecznej w Polsce. Centralnym punktem
+odniesienia jest identyfikacja oraz ocena stopnia integracji przedstawicieli fundacji i
+stowarzyszeń z tymi gremiami. Eksploracja zgromadzonego materiału empirycznego i
+
+dokumentacji normatywnej pozwala na mapowanie dominujących modeli współpracy,
+zrozumienie różnic w podejściu do polityki społecznej między wielkimi metropoliami a
+mniejszymi ośrodkami wiejskimi, a w konsekwencji dostarcza twardych podstaw do oceny
+zjawiska deinstytucjonalizacji usług społecznych w polskim modelu państwa opiekuńczego.
+
+Ramy Prawne, Ewolucja Normatywna i Struktura
+Kompetencyjna
+Funkcjonowanie Zespołów Interdyscyplinarnych jest ściśle zdeterminowane przez rygorystyczne
+ramy ustawowe, które w ostatnich latach przeszły fundamentalną transformację. Aktem
+prawnym o znaczeniu konstytutywnym dla omawianych struktur jest ustawa z dnia 29 lipca
+2005 r. o przeciwdziałaniu przemocy domowej (akt ten do niedawna funkcjonował pod nazwą
+ustawy o przeciwdziałaniu przemocy w rodzinie). Nowelizacje tej ustawy, w tym kluczowe
+przepisy wdrażające standardy dostosowujące polski system ochrony przed przemocą do
+współczesnych wyzwań prawno-społecznych (które weszły w życie w 2023 i 2024 roku),
+nałożyły na jednostki samorządu terytorialnego obligatoryjne obowiązki w zakresie tworzenia
+nowoczesnych, elastycznych systemów wsparcia.
+Zgodnie z literalnym brzmieniem art. 9a ust. 2 wspomnianej ustawy, wójt, burmistrz albo
+prezydent miasta jest bezwzględnie zobowiązany do powołania Zespołu Interdyscyplinarnego
+na podległym mu terytorium. Ustawodawca, mając świadomość niewystarczalności samych
+struktur państwowych, precyzyjnie zdefiniował obligatoryjny i fakultatywny skład tego gremium,
+wyraźnie wskazując, że obok urzędników i funkcjonariuszy publicznych, w jego pracach
+bezwzględnie powinni uczestniczyć przedstawiciele organizacji pozarządowych działających na
+rzecz przeciwdziałania przemocy. Oznacza to, że polski porządek prawny wprost legitymizuje
+trzeci sektor jako pełnoprawnego, instytucjonalnego aktora w procesie decyzyjnym dotyczącym
+diagnozy i zapewnienia bezpieczeństwa obywateli w skali mikrospołecznej. Udział
+poszczególnych podmiotów nie jest jednak dowolny; delegowani przedstawiciele stają się
+członkami Zespołu na podstawie oficjalnych zarządzeń organów wykonawczych gminy.
+Dodatkowo, powołanie i działanie w ramach tego gremium wymaga zawarcia sformalizowanych
+porozumień o współpracy pomiędzy gminą a władzami statutowymi danej fundacji lub
+stowarzyszenia, co nakłada na te podmioty rygor prawny, w tym zwłaszcza zasady ścisłej
+poufności i ochrony danych osobowych.
+
+Od Zespołów Interdyscyplinarnych do Grup
+Diagnostyczno-Pomocowych
+Kluczowym elementem ewolucji procedur administracyjnych w Polsce – w tym głośnej
+procedury „Niebieskie Karty” – jest przejście od modelu ogólnego zarządzania problemem do
+wysoce zindywidualizowanego modelu naprawczo-terapeutycznego. Skutkowało to
+transformacją dotychczasowych grup roboczych w zoptymalizowane „grupy
+diagnostyczno-pomocowe” (na mocy znowelizowanych przepisów z 2023 r.), które funkcjonują
+na podstawie szczegółowych regulaminów. Tworzenie tych struktur drastycznie zwiększyło
+zapotrzebowanie na wysoko wykwalifikowanych specjalistów: psychologów dziecięcych,
+psychoterapeutów uzależnień, mediatorów i prawników. To potężne zapotrzebowanie w
+znakomitej większości przypadków zaspokajane jest właśnie przez kadry delegowane przez
+organizacje pozarządowe.
+
+Dowodów na rosnące obciążenie struktur Zespołów Interdyscyplinarnych dostarczają twarde
+dane empiryczne. Analiza raportów z funkcjonowania tych ciał wskazuje na nieprzerwany,
+dynamiczny wzrost liczby prowadzonych postępowań. Przykładowo, w gminie Kaluszyn
+odnotowano systematyczny przyrost realizowanych zadań. Zespół Interdyscyplinarny w tym
+ośrodku odbył 5 spotkań w 2022 roku, 9 spotkań w 2023 roku oraz 8 spotkań w roku 2024. W
+tym samym czasie liczba powoływanych celowych grup diagnostyczno-pomocowych (bądź
+dawnych grup roboczych) dla konkretnych rodzin objętych procedurą uległa drastycznemu
+zwiększeniu – w 2024 roku powołano o 19 grup więcej niż zaledwie dwa lata wcześniej. Z kolei
+w aglomeracji łódzkiej tylko w jednym 2020 roku do Przewodniczącej Zespołu wpłynęło ponad
+1500 formularzy „Niebieska Karta” (w tym niemal 1400 inicjowanych przez funkcjonariuszy
+Policji, a ponad 130 przez sam MOPS). Skala tych zjawisk dobitnie ukazuje, że publiczne
+jednostki pomocy społecznej nie byłyby w stanie udźwignąć ciężaru operacyjnego, gdyby nie
+ścisła, zinstytucjonalizowana partycypacja stowarzyszeń i fundacji.
+
+Tabularyczne Zestawienie Organizacji Pozarządowych
+w Strukturach Zespołów Interdyscyplinarnych
+W odpowiedzi na kluczowy postulat zlecenia badawczego, poniżej zaprezentowano
+wyczerpujące zestawienie tabelaryczne. Mapa ta systematyzuje zidentyfikowane Ośrodki
+Pomocy Społecznej w Polsce (oraz jednostki pokrewne) pod kątem udokumentowanej i
+sformalizowanej obecności przedstawicieli fundacji oraz stowarzyszeń w składach lokalnych
+Zespołów Interdyscyplinarnych. Stanowi to niezbędny punkt wyjścia do dalszej analizy
+jakościowej poszczególnych modeli integracji międzysektorowej.
+Jednostka Terytorialna / Instytucja            Wykaz Organizacji      Referencje Źródłowe
+Miasto                   Koordynująca System Pozarządowych
+                         (MOPS / GOPS /        Zasiadających w
+                         MOPR / CUS / Inne)    Zespole
+                                               Interdyscyplinarnym
+Białystok                Miejski Ośrodek       Caritas Archidiecezji
+                         Pomocy Rodzinie w     Białostockiej;
+                         Białymstoku           Prawosławny Ośrodek
+                                               Miłosierdzia Diecezji
+                                               Białostocko-Gdańskiej
+                                               „ELEOS”; Polskie
+                                               Stowarzyszenie
+                                               Pedagogów i
+                                               Animatorów „KLANZA”;
+                                               Stowarzyszenie
+                                               Pomocy „DROGA”;
+                                               Stowarzyszenie
+                                               Pomocy Rodzinie i
+                                               Dzieciom „SZANSA”;
+                                               Stowarzyszenie Ku
+                                               Dobrej Nadziei;
+                                               Fundacja Aktywizacja
+                                               (Oddział)
+
+Jednostka Terytorialna / Instytucja       Wykaz Organizacji        Referencje Źródłowe
+Miasto                   Koordynująca System
+                                          Pozarządowych
+                         (MOPS / GOPS /   Zasiadających w
+                         MOPR / CUS / Inne)
+                                          Zespole
+                                          Interdyscyplinarnym
+Cieszyn               Miejski Ośrodek     Stowarzyszenie
+                      Pomocy Społecznej w Pomocy Wzajemnej
+                      Cieszynie           "Być Razem"
+Czernica              Gminny Ośrodek      Stowarzyszenie na
+                      Pomocy Społecznej w rzecz społeczności
+                      Czernicy            lokalnej "Rozwiń
+                                          Skrzydła"
+Częstochowa           Miejski Ośrodek     Terenowy Komitet
+                      Pomocy Społecznej w Ochrony Praw Dziecka;
+                      Częstochowie        CARITAS Archidiecezji
+                                          Częstochowskiej;
+                                          Częstochowskie
+                                          Towarzystwo
+                                          Profilaktyki Społecznej;
+                                          Stowarzyszenie
+                                          Abstynenckie „Północ”;
+                                          Częstochowskie
+                                          Stowarzyszenie ETOH;
+                                          Stowarzyszenie na
+                                          rzecz pomocy dziecku i
+                                          rodzinie „DLA
+                                          RODZINY”;
+                                          Stowarzyszenie Polski
+                                          Instytut Mediacji i
+                                          Integracji Społecznej
+Gdańsk                Miejski Ośrodek     Fundacja Centrum
+                      Pomocy Rodzinie w   Praw Kobiet; Centrum
+                      Gdańsku             Pomocy Dzieciom
+                                          Fundacji Dajemy
+                                          Dzieciom Siłę;
+                                          Fundacja Oparcia
+                                          Społecznego
+                                          Aleksandry FOSA;
+                                          Stowarzyszenie
+                                          Opiekuńczo-Resocjaliz
+                                          acyjne „Prometeusz”;
+                                          Stowarzyszenie
+                                          AGAPE (z siedzibą w
+                                          Nowym Stawie);
+                                          Caritas Archidiecezji
+                                          Gdańskiej
+Karnice               Ośrodek Pomocy      Stowarzyszenie
+
+Jednostka Terytorialna / Instytucja            Wykaz Organizacji       Referencje Źródłowe
+Miasto                   Koordynująca System   Pozarządowych
+                         (MOPS / GOPS /        Zasiadających w
+                         MOPR / CUS / Inne)    Zespole
+                                               Interdyscyplinarnym
+                      Społecznej w             "Przyjazne Karnice"
+                      Karnicach
+Kłodawa               Ośrodek Pomocy        Kłodawskie
+                      Społecznej w Kłodawie Stowarzyszenie
+                                            Szkolne "Rawita"
+Kraków (Z.I. ds.      Miejski Ośrodek       Stowarzyszenie
+Przemocy Domowej)     Pomocy Społecznej w SIEMACHA
+                      Krakowie
+Kraków (Z.I. ds.      Wydział Polityki      Stowarzyszenie
+Programu Otwarty      Społecznej i Zdrowia INTERKULTURALNI
+Kraków)               UMK                   PL; Fundacja Diversity
+                                            Hub; Fundacja
+                                            Edukacyjna Nausika;
+                                            Fundacja Centrum
+                                            Kultury
+                                            Latynoamerykańskiej;
+                                            Fundacja "U-WORK";
+                                            Stowarzyszenie Willa
+                                            Decjusza; Żydowskie
+                                            Stowarzyszenie
+                                            Czulent; Fundacja One
+                                            World One Heart;
+                                            Fundacja im. M. Reja;
+                                            Fundacja Instytut
+                                            Polska Ukraina;
+                                            FestivALT;
+                                            Stowarzyszenie
+                                            Internationaler Bund
+                                            Polska; Fundacja
+                                            Zustricz;
+                                            Stowarzyszenie
+                                            Centrum Pomocy
+                                            Prawnej im. Haliny Nieć
+Legionowo             Ośrodek Pomocy        Legionowskie
+                      Społecznej w          Stowarzyszenie
+                      Legionowie            "Amicus"
+Lelów                 Gminny Ośrodek        Stowarzyszenie Na
+                      Pomocy Społecznej w Rzecz Rozwoju Wsi
+                      Lelowie               Ślęzany „Bliżej Siebie”;
+                                            Stowarzyszenie Na
+                                            Rzecz Rozwoju Wsi
+                                            Podlesie „Pod
+
+Jednostka Terytorialna / Instytucja        Wykaz Organizacji      Referencje Źródłowe
+Miasto                   Koordynująca System
+                                           Pozarządowych
+                         (MOPS / GOPS /    Zasiadających w
+                         MOPR / CUS / Inne)Zespole
+                                           Interdyscyplinarnym
+                                           Strzechą”
+Łódź                  Miejski Ośrodek      Ogólnopolskie
+                      Pomocy Społecznej w Stowarzyszenie
+                      Łodzi                „ROPSAN”;
+                                           Stowarzyszenie
+                                           Promocji Zdrowia i
+                                           Psychoterapii;
+                                           Stowarzyszenie
+                                           Wspierania Rozwoju
+                                           Dzieci i Młodzieży
+Międzyrzecz           Centrum Usług        Fundacja „Powerfly”
+                      Społecznych w        (wcześniej, przed
+                      Międzyrzeczu         zmianą powołania:
+                                           Stowarzyszenie
+                                           Pomocna Dłoń)
+Nowe Miasto nad       Ośrodek Pomocy       Stowarzyszenie
+Wartą                 Społecznej           Pomocy "Krąg"
+Poznań                Lokalne struktury    Stowarzyszenie
+                      zintegrowane przy    Pogotowie Społeczne
+                      Ośrodku Pomocy
+                      Społecznej
+Przelewice            Ośrodek Pomocy       Udział zarejestrowany
+                      Społecznej w         ogólnikowo (w
+                      Przelewicach         dokumencie figuruje
+                                           wpis: "Przedstawiciel
+                                           organizacji
+                                           pozarządowej")
+Sopot                 Miejski Ośrodek      Stowarzyszenie
+                      Pomocy Społecznej w „Sopocki Dom”;
+                      Sopocie              Stowarzyszenie
+                                           Wsparcia i Interwencji
+                                           „Support”
+Suszec                Gminny Ośrodek       Śląska Fundacja
+                      Pomocy Społecznej w "Błękitny Krzyż"
+                      Suszcu
+Tarnów                Miejski Ośrodek      Zespół dysponuje
+                      Pomocy Społecznej    przedstawicielstwem
+                      (informacja ogólna o NGO (dokumenty
+                      składzie)            miejskie wymieniają
+                                           aktywne fundacje
+                                           kulturalne i
+                                           wspierające, m.in.
+
+Jednostka Terytorialna / Instytucja           Wykaz Organizacji        Referencje Źródłowe
+Miasto                   Koordynująca System  Pozarządowych
+                         (MOPS / GOPS /       Zasiadających w
+                         MOPR / CUS / Inne)   Zespole
+                                              Interdyscyplinarnym
+                                              ArtContest, i.Kropka,
+                                              Pracownia Kreatywna,
+                                              jako przykłady lokalnej
+                                              aktywności społecznej,
+                                              reprezentant NGO w
+                                              Zespole nie został
+                                              bezpośrednio
+                                              sprecyzowany z nazwy
+                                              w udostępnionej
+                                              dokumentacji MOPR)
+Warszawa (Mokotów) Ośrodek Pomocy             Ścisła współpraca
+                       Społecznej Dzielnicy systemowa z Fundacją
+                       Mokotów                Dajemy Dzieciom Siłę
+                                              oraz Fundacją Korale
+Adnotacja metodologiczna: W zestawieniu ujęto wyłącznie te struktury lokalne, dla których
+udostępniony materiał źródłowy w sposób bezpośredni i merytoryczny identyfikuje udział
+czynnika społecznego w pracach ciał kolegialnych administracji.
+
+Rola, Funkcje i Znaczenie Trzeciego Sektora w
+Mechanizmach Pomocy Społecznej
+Włączenie organizacji pozarządowych w sformalizowane struktury Zespołów
+Interdyscyplinarnych jest najbardziej wyrazistym w Polsce przejawem doktryny subsydiarności,
+stanowiącej fundament nowoczesnego państwa prawa. Gminne jednostki pomocy społecznej
+(GOPS, MOPS), pomimo posiadania potężnych prerogatyw administracyjnych, nierzadko
+zmagają się z kryzysami kadrowymi, niedofinansowaniem specjalistycznych komórek
+terapeutycznych oraz obciążeniem natury biurokratycznej. To właśnie przedstawiciele fundacji i
+stowarzyszeń wypełniają strukturalne luki w tym systemie, dostarczając zasoby, którymi
+scentralizowany sektor publiczny z natury rzeczy nie dysponuje w sposób optymalny i
+elastyczny.
+Pierwszym, absolutnie krytycznym wymiarem jest transfer wysoko specjalistycznej wiedzy.
+Typowy pracownik socjalny, obarczony prowadzeniem kilkudziesięciu wywiadów
+środowiskowych miesięcznie, nie posiada kompetencji z zakresu głębokiej interwencji
+kryzysowej, psychotraumatologii czy zaawansowanego poradnictwa prawnego. Organizacje
+zrzeszone wokół przeciwdziałania przemocy koncentrują się na węższym spektrum problemów,
+budując ekspertyzę. Na przykład, Fundacja Centrum Praw Kobiet czy Centrum Pomocy
+Dzieciom (działające m.in. przy strukturach gdańskich) zatrudniają radców prawnych,
+psychologów dziecięcych oraz specjalistów, którzy potrafią zdiagnozować i zabezpieczyć
+interesy pokrzywdzonych w sposób dalece wykraczający poza sztampową procedurę.
+Diagnozują one mechanizmy uwikłania ofiary w cykl przemocy, co często umyka pracownikom
+MOPS-ów. Z kolei specjalizacja we wsparciu prawnym jest fundamentem w doprowadzeniu do
+
+izolacji sprawców domowej opresji.
+Drugim aspektem jest społeczna percepcja aparatu państwowego. W procesach uwikłania w
+przemoc, ofiary często z nieufnością podchodzą do instytucji państwa (Policji, Prokuratury,
+Kuratorów, a nawet pracowników socjalnych MOPS), traktując je jako aparat kontrolny, mogący
+w drastycznych sytuacjach doprowadzić do ingerencji Sądu Rodzinnego i ograniczenia władzy
+rodzicielskiej. Organizacje pozarządowe są w tej architekturze postrzegane jako podmioty
+"miękkie", niezależne, zorientowane wyłącznie na wsparcie, pozbawione atrybutów opresyjnych.
+Ich obecność w Zespole Interdyscyplinarnym buduje pomost zaufania, minimalizując zjawisko
+oporu ze strony środowiska dysfunkcyjnego. Funkcjonują one jako bezpieczny bufor
+komunikacyjny.
+Trzecim czynnikiem, uwarunkowanym specyfiką prawa zamówień publicznych, jest szybkość
+reakcji na sytuację kryzysową. Uruchomienie procedury wsparcia finansowego lub rezerwacja
+miejsca w publicznym ośrodku wsparcia wymaga czasu. Tymczasem organizacje pozarządowe
+są zdolne do natychmiastowej alokacji środków pomocowych. Dysponują one niejednokrotnie
+własnymi zasobami lokalowymi (np. hostele interwencyjne prowadzone przez stowarzyszenia
+czy struktury Caritas, na które wskazuje np. system gdański ), oferują bezpłatne wsparcie w
+punktach informacyjno-konsultacyjnych, a także zapewniają innowacyjne kanały komunikacji,
+takie jak dedykowane aplikacje mobilne i całodobowe telefony zaufania dla dzieci i młodzieży
+(np. Fundacja FOSA w Gdańsku ).
+Ponadto, fundacje stanowią główne zaplecze realizacyjne dla programów
+korekcyjno-edukacyjnych kierowanych wprost do sprawców przemocy, co jest niezwykle
+trudnym i niewdzięcznym obszarem resocjalizacji. Wybitnym tego przykładem jest
+zidentyfikowane działanie Stowarzyszenia Pogotowie Społeczne w Poznaniu. Podmiot ten,
+wspierający lokalne struktury publiczne, przez niemal dekadę realizował dedykowany program
+edukacyjno-terapeutyczny „Stop”. Inicjatywa ta polegała na głębokiej dekonstrukcji
+negatywnych norm kulturowych, które pozwalają sprawcom na legitymizowanie kontroli i władzy
+nad ofiarami. Celem takich programów jest doprowadzenie sprawcy do uświadomienia sobie
+destrukcyjnego charakteru swoich czynów i wzięcie za nie pełnej odpowiedzialności. Tego typu
+praca na świadomości sprawcy wymaga skrajnej biegłości psychoterapeutycznej, która rzadko
+jest dostępna w standardowych procedurach prokuratorskich czy działaniach prewencyjnych
+Policji.
+
+Metropolitalne Ekosystemy Interwencji Społecznej
+Szczegółowa i komparatystyczna analiza struktur Zespołów Interdyscyplinarnych powołanych
+zarządzeniami prezydentów miast dowodzi, że w wielkich aglomeracjach mamy do czynienia z
+najbardziej zdywersyfikowanymi i zaawansowanymi modelami współpracy. Zjawiska
+patologiczne, alienacja, anonimowość środowiska oraz ogromna gęstość populacyjna
+wymuszają tworzenie rozbudowanych do granic możliwości konsorcjów pomocowych, w których
+rola MOPS/MOPR sprowadza się do ramy zarządzającej, podczas gdy ciężar wykonawczy
+ponoszą NGO.
+
+Model Gdański: Holistyczna Tarcza Ochronna
+Struktura wsparcia wypracowana przez Miejski Ośrodek Pomocy Rodzinie w Gdańsku stanowi
+paradygmatyczne wręcz odzwierciedlenie koncepcji deinstytucjonalizacji usług. Zespół
+Interdyscyplinarny w tym mieście to organizm sprzężony z najpotężniejszymi fundacjami
+
+ogólnopolskimi. Aktywność Fundacji Centrum Praw Kobiet to gwarancja natychmiastowego
+wsparcia prawno-wiktymologicznego i psychologicznego dla ofiar. Co istotne, CPK zabezpiecza
+również wsparcie ofiar w kontaktach z bezdusznym często wymiarem sprawiedliwości. Z kolei
+niezwykle skomplikowaną przestrzeń psychotraumatologii nieletnich zagospodarowuje Centrum
+Pomocy Dzieciom koordynowane przez Fundację Dajemy Dzieciom Siłę.
+Działania te są cyfrowo i komunikacyjnie wspomagane przez Fundację Oparcia Społecznego
+Aleksandry FOSA. Podmiot ten nie tylko realizuje stacjonarne formy terapii, ale wdraża
+innowacyjne technologicznie mechanizmy: zarządza telefonicznym Punktem
+Informacyjno-Konsultacyjnym na rzecz zdrowia psychicznego oraz dedykowaną, anonimową
+aplikacją mobilną "Wsparcie w Gdańsku", zapewniającą dostępność pomocy z pominięciem
+fizycznej wizyty w urzędzie, co jest kluczowe dla młodzieży i ofiar izolowanych domowo. Całość
+tego systemu uzupełniają twarde struktury stacjonarne, opierające się o partnerstwo MOPR ze
+Stowarzyszeniem AGAPE (prowadzącym schronienie m.in. w pobliskim Nowym Stawie),
+Stowarzyszeniem Opiekuńczo-Resocjalizacyjnym „Prometeusz” czy Domem Samotnej Matki w
+Gdańsku-Matemblewie, administrowanym przez Caritas Archidiecezji Gdańskiej. Tak
+zróżnicowany ekosystem sprawia, że Gdański MOPR jest w stanie zaadresować każde
+zapotrzebowanie – od terapii lękowej dziecka, po zabezpieczenie lokalu kryzysowego dla ofiary.
+
+Model Łódzki: Analityka Danych i Prewencja
+W aglomeracji łódzkiej, która historycznie zmaga się z wysokim nawarstwieniem problemów
+pauperyzacji, uzależnień i wykluczenia strukturalnego, Zespół Interdyscyplinarny współpracuje
+ze stowarzyszeniami o profilu wysoce analitycznym i socjologicznym. Dokumentacja wskazuje
+na strategiczne zaangażowanie Ogólnopolskiego Stowarzyszenia „ROPSAN” (Rodzice
+Przeciwko Sprzedaży Alkoholu Nieletnim). NGO to nie tylko wspiera interwencje w terenie, ale
+funkcjonuje jako zaplecze badawcze łódzkiego MOPS-u. Badania ankietowe przeprowadzone
+przez to stowarzyszenie ujawniły dramatyczne statystyki: zjawisko przemocy fizycznej dotyczyło
+aż do 8% badanych rodzin (wzrost z niespełna 5% we wcześniejszych latach), zjawisko
+przemocy psychicznej występowało w ponad 15% (wzrost z 7,4%), a poczucie bycia ofiarą
+przemocy deklarowało ponad 26% populacji (wobec wcześniejszych 10%).
+Dostarczanie władzom miasta i członkom Zespołu tak twardych dowodów empirycznych
+pozwala na precyzyjne kształtowanie budżetów zadaniowych. Badania "ROPSAN" wyraźnie
+determinują działania pozostałych aktorów pozarządowych w strukturze Zespołu –
+Stowarzyszenia Promocji Zdrowia i Psychoterapii oraz Stowarzyszenia Wspierania Rozwoju
+Dzieci i Młodzieży , które dzięki zebranym danym mogą trafniej alokować wsparcie w
+dzielnicach o najwyższym odsetku incydentów odnotowywanych w „Niebieskich Kartach”.
+
+Model Białostocki: Symbioza Sekularna i Wyznaniowa
+Struktura MOPR w Białymstoku ujawnia odmienny, fascynujący w swej specyfice kulturowej
+model kooperacji. W mieście stanowiącym kulturowy tygiel regionu Podlasia, organ
+wykonawczy gminy zbudował Zespół Interdyscyplinarny oparty o równowagę między świeckimi
+organizacjami specjalistycznymi a organizacjami o proweniencji religijno-wyznaniowej. Z jednej
+strony, w gremium tym odnajdujemy przedstawicieli Caritas Archidiecezji Białostockiej oraz
+Prawosławnego Ośrodka Miłosierdzia Diecezji Białostocko-Gdańskiej „ELEOS”. Taka podwójna,
+międzywyznaniowa reprezentacja chrześcijańska ma ogromne znaczenie socjologiczne –
+umożliwia dotarcie z interwencją do głęboko wierzących i tradycyjnych środowisk obu wyznań w
+sposób empatyczny, unikając oskarżeń o przymusowy sekularyzm instytucji pomocy społecznej.
+
+Z drugiej strony, w białostockim Zespole Interdyscyplinarnym kluczowe miejsca zajmują
+nowoczesne organizacje laickie, nastawione na profesjonalną pedagogikę społeczną: Polskie
+Stowarzyszenie Pedagogów i Animatorów „KLANZA”, znane z nieszablonowych metod pracy z
+wykluczoną młodzieżą, Stowarzyszenie Pomocy „DROGA”, ratujące rodziny dysfunkcyjne, oraz
+Stowarzyszenie Pomocy Rodzinie i Dzieciom „SZANSA”. Mnogość podmiotów w tym Zespole,
+uzupełniana o obecność Kuratorium Oświaty, Prokuratury (Białystok-Północ i Południe), a nawet
+reprezentacji Żandarmerii Wojskowej , tworzy aparat wsparcia niespotykanie gęsty
+kompetencyjnie. Taka struktura gwarantuje, że diagnoza stawiana przez grupę
+diagnostyczno-pomocową zostanie natychmiast uzupełniona o zindywidualizowany pakiet
+zewnątrzinstytucjonalny. Zapewniana jest pomoc prawna (np. podczas specjalistycznych
+spotkań prowadzonych przy współpracy z fundacjami i biurem Rzecznika Praw Obywatelskich
+dla ofiar przemocy ekonomicznej).
+
+Modele Ośrodków Średniej Wielkości oraz
+Aglomeracji Subregionalnych
+W miastach o statusie powiatu grodzkiego, charakteryzujących się średnią wielkością, Zespoły
+Interdyscyplinarne wykazują wysoki stopień operacyjności. Nie występuje tam aż tak wielkie
+rozproszenie terytorialne, a liczba zaangażowanych NGO może być nieco mniejsza, jednak te,
+które są powoływane, zazwyczaj funkcjonują na zasadzie wyłącznego, wiodącego partnera
+ośrodka pomocy społecznej. Często jedno wybitne stowarzyszenie kumuluje w sobie pełen
+mandat społecznego zaufania w danym mieście.
+
+Częstochowa: Maksymalizacja Polaryzacji Diagnostycznej
+Prezydent Miasta Częstochowy, działający w oparciu o struktury Miejskiego Ośrodka Pomocy
+Społecznej, powołał Zespół Interdyscyplinarny o zdumiewającej szerokości operacyjnej. Analiza
+listy członków ujawnia bezwzględne dążenie miasta do obudowania problemu przemocy z
+każdej możliwej perspektywy instytucjonalnej. Obok standardowych urzędników MOPS,
+policjantów, przedstawicieli szkół podstawowych i poradni psychologiczno-pedagogicznych, w
+składzie znalazło się miejsce dla prokuratorów, a także dla przedstawicieli sądów rejonowych i
+okręgowych.
+Na tym potężnym, administracyjno-sądowym tle, operuje szeroka koalicja podmiotów trzeciego
+sektora. Częstochowa położyła ogromny nacisk na problem uzależnień jako głównego
+stymulatora przemocy (często bagatelizowanego w innych samorządach jako problem
+"odrębny"). Wyrazem tego jest powołanie reprezentantów Stowarzyszenia Abstynenckiego
+„Północ” oraz Częstochowskiego Stowarzyszenia ETOH. Ich rola polega na weryfikacji i
+kierowaniu na leczenie sprawców przemocy będących w ciągach nałogowych. Prawa dzieci
+chroni delegat Terenowego Komitetu Ochrony Praw Dziecka, a kompleksową osłonę rodzin
+dysfunkcyjnych powierzono Częstochowskiemu Towarzystwu Profilaktyki Społecznej oraz
+lokalnemu Stowarzyszeniu na rzecz pomocy dziecku i rodzinie „DLA RODZINY”. Innowacyjnym
+posunięciem częstochowskim jest włączenie do prac Zespołu przedstawicieli Stowarzyszenia
+Polski Instytut Mediacji i Integracji Społecznej , co sugeruje rozwój strategii rozwiązywania
+części konfliktów domowych (szczególnie o podłożu ekonomicznym i opiekuńczym) na drodze
+profesjonalnej mediacji, zanim dojdzie do drastycznej eskalacji.
+
+Integracja Monolityczna: Legionowo i Cieszyn
+Ośrodki takie jak Legionowo czy Cieszyn prezentują model o wysokim stopniu zintegrowania
+jednostkowego stowarzyszenia ze strukturami oświatowymi i prewencyjnymi.
+W Legionowie Zespół Interdyscyplinarny do spraw Przemocy Domowej, działający przy Ośrodku
+Pomocy Społecznej, to gremium niezwykle rozbudowane i sprofilowane silnie na ochronę
+młodzieży. Znajdziemy w nim reprezentantów licznych szkół podstawowych (m.in. nr 1, 3, 8),
+zespołów szkolno-przedszkolnych, liceów ogólnokształcących, Powiatowego Zespołu Szkół
+Specjalnych, przychodni zdrowia, a także organów Prokuratury Rejonowej i Sądu Rejonowego.
+W tym potężnym, wieloosobowym monolicie państwowym i samorządowym, środowisko
+obywatelskie reprezentuje jedna osoba – Pani Ewa Stolc z Legionowskiego Stowarzyszenia
+"Amicus". Tak zarysowana struktura wymusza na NGO niezwykle trudną rolę: stowarzyszenie to
+staje się jednoosobowym łącznikiem pomiędzy zbiurokratyzowanym aparatem oświaty i
+sprawiedliwości a lokalną społecznością, przyjmując na siebie ciężar opiniowania procesów, w
+których urzędnicy mogą charakteryzować się "ślepotą systemową".
+Z analogicznym rozwiązaniem spotykamy się w Cieszynie, gdzie zarządzeniem Burmistrza z
+października 2023 r., powołano zintegrowany zespół skupiający urzędników MOPS, policję,
+straż miejską, pracowników szpitala, szkół, GKRPA i sądu. Głos organizacji obywatelskich jest
+tam delegowany na wyłączność pracownikowi Stowarzyszenia Pomocy Wzajemnej "Być
+Razem". Jest to dowód na gigantyczne zaufanie samorządu do tej konkretnej fundacji, która
+wypracowała status swoistego monopolisty na świadczenie wsparcia w trudnych interwencjach
+społecznych na terenie Cieszyna. Podobnie funkcjonuje struktura w Sopocie, gdzie niewielki
+pod względem ludności, lecz obarczony wielkomiejskimi problemami kurort opiera działalność
+pomocową o partnerstwo ze Stowarzyszeniem „Sopocki Dom” i Stowarzyszeniem „Support”.
+Zespoły te inicjują procesy wglądowe (np. kierując wnioski do sądu rodzinnego), co w Sopocie
+stanowiło stałą praktykę ewaluowaną rokrocznie (m.in. 4 wystąpienia w analizowanym okresie
+raportowym ).
+
+Specyfika Ośrodków Wiejskich i Miejsko-Wiejskich
+Na przeciwległym biegunie w stosunku do metropolii znajdują się gminy wiejskie oraz małe
+gminy miejsko-wiejskie. Charakterystyka funkcjonowania Zespołów Interdyscyplinarnych (ZI)
+ulega tam zasadniczej zmianie. Zjawisko przemocy domowej na wsiach i w małych
+miasteczkach napotyka na o wiele grubszy mur milczenia, stygmatyzacji oraz oporu ze strony
+konserwatywnego otoczenia. Anonimowość, ułatwiająca ucieczkę ofierze w mieście, tutaj nie
+istnieje. Gminne Ośrodki Pomocy Społecznej dysponują nieliczną kadrą, często złożoną z
+pracowników socjalnych, którzy prywatnie są sąsiadami osób objętych procedurą "Niebieskiej
+Karty". Z tego względu włączenie zewnętrznego stowarzyszenia bywa jedynym ratunkiem przed
+uwikłaniem systemu interwencji w lokalne relacje towarzyskie i powiązania rodzinne.
+W Centrum Usług Społecznych w gminie Międzyrzecz obserwujemy swoistą rotację i dynamikę
+współpracy z sektorem pozarządowym. Zgodnie z niedawnym zarządzeniem Burmistrza z
+marca 2025 r., dokonano istotnych roszad w składzie personalnym Zespołu
+Interdyscyplinarnego – w miejsce odwołanego prezesa Stowarzyszenia Pomocna Dłoń, gmina
+powołała członka zarządu Fundacji „Powerfly”. Zmiana ta dowodzi, że mniejsze samorządy nie
+boją się dokonywać korekt, poszukując partnerów dysponujących lepszym kapitałem
+innowacyjności lub po prostu bardziej adekwatnym portfolio usług do bieżących problemów
+demograficznych.
+
+Ogromne znaczenie ma implementacja wysoko wyspecjalizowanych fundacji terapeutycznych
+na grunt wiejski, gdzie dostęp do państwowej opieki psychiatrycznej jest iluzoryczny.
+Modelowym przykładem tego zjawiska jest GOPS w Suszcu. W powołanym tam Zespole
+Interdyscyplinarnym obok policjanta, pedagoga czy pielęgniarki środowiskowej zasiada
+specjalista psychoterapii delegowany przez renomowaną Śląską Fundację "Błękitny Krzyż" –
+potężną instytucję specjalizującą się w głębokim leczeniu zespołu uzależnienia od alkoholu.
+Włączenie fundacji o takim potencjale klinicznym w struktury stosunkowo niewielkiej gminy
+dowodzi niezwykłej roztropności włodarzy, którzy dostrzegli, że interwencje socjalne bez
+jednoczesnej klinicznej terapii alkoholowej sprawcy przemocy są całkowicie bezużyteczne.
+W innych małych jednostkach administracyjnych stawia się na organizacje o profilu
+integrującym małe ojczyzny. W strukturach Gminnego Ośrodka Pomocy Społecznej w Lelowie,
+wójt wprowadził do składu Zespołu przedstawicielki dwóch silnie zakorzenionych stowarzyszeń
+o profilu wiejskim: Stowarzyszenia Na Rzecz Rozwoju Wsi Ślęzany „Bliżej Siebie” oraz
+Stowarzyszenia Na Rzecz Rozwoju Wsi Podlesie „Pod Strzechą”. Tego typu NGO nie
+dysponują być może tabunem radców prawnych, ale posiadają kapitał, którego brakuje
+urzędom: bezwzględne zaufanie i poparcie lokalnej wspólnoty mieszkańców na poziomie
+sołectw. Dzięki nim działania interwencyjne tracą charakter "inwazji władzy państwowej" i
+nabierają cech wsparcia sąsiedzkiego.
+Analiza mniejszych ośrodków pozwala zidentyfikować również Kłodawę, gdzie przy OPS
+funkcjonuje przedstawiciel Kłodawskiego Stowarzyszenia Szkolnego "Rawita" (reprezentujący z
+pewnością profil ochrony małoletnich w systemie powszechnej edukacji). Z kolei OPS w Nowym
+Mieście nad Wartą operuje przy współpracy ze Stowarzyszeniem Pomocy "Krąg", którego
+członek pełni w ZI podwójną, niezwykle cenną funkcję, włączając w to m.in. doświadczenie jako
+kierownik Mieszkań Chronionych, co bez wątpienia ułatwia relokację ofiar przemocy
+potrzebujących nagłego bezpiecznego dachu nad głową z dala od oprawcy. W gminach takich
+jak Czernica (Stowarzyszenie "Rozwiń Skrzydła") , Karnice (Stowarzyszenie "Przyjazne
+Karnice") czy Przelewice obecność organizacji obywatelskich jest formalnie ugruntowana i
+zapewnia realizację szerokiego spektrum działań informacyjnych i profilaktycznych. Widać
+wyraźnie, że te małe, środowiskowe organizacje w dużej mierze prowadzą działania
+uprzedzające interwencję karną – animują społeczność i promują edukacyjne dni "bez
+przemocy".
+
+Zespoły Interdyscyplinarne jako Narzędzie
+Pozaustawowe: Transformacja i Przeobrażenie Modelu
+Fundamentalnie, model Zespołu Interdyscyplinarnego został ustanowiony przez ustawodawcę
+jako rygorystyczny aparat obrony przed przestępczością wewnątrzrodzinną (tzw. ustawa
+"przemocowa"). Jednak analiza empiryczna dostarczona w badanym materiale źródłowym
+udowadnia, że efektywność tej struktury zarządczej doprowadziła do jej nieoficjalnej ewolucji –
+wielkie samorządy dokonały swoistej dyfuzji innowacji, kopiując rozwiązanie „zespołu
+interdyscyplinarnego” w celu rozwiązywania zupełnie innych węzłów problemowych polityki
+publicznej.
+Fascynującym przypadkiem jest tutaj Kraków. Podczas gdy standardowy, wymagany ustawą
+Zespół Interdyscyplinarny ds. Przeciwdziałania Przemocy Domowej, prowadzony przez MOPS
+w Krakowie, opiera wsparcie trzeciego sektora na potężnym Stowarzyszeniu SIEMACHA
+(oferującym systemową ochronę psychologiczną i edukacyjną młodzieży) , prezydent stolicy
+Małopolski powołał zupełnie odrębny i nieustawowy, choć działający na tych samych zasadach
+
+strukturalnych, Zespół Interdyscyplinarny. Jest to zarządzone przez Wydział Polityki Społecznej
+i Zdrowia zintegrowane ciało eksperckie ds. współpracy na rzecz realizacji Programu „Otwarty
+Kraków”.
+Ten specyficzny i wysoce nowatorski Zespół Interdyscyplinarny stawia czoła problemom
+asymilacji, wielokulturowości, gwałtownej migracji oraz konieczności integracji setek tysięcy
+obcokrajowców i uchodźców zamieszkujących krakowską aglomerację. Mechanizm zarządczy
+pozostaje tu identyczny jak w przypadku walki z patologiami: zaprasza się do jednego stołu
+urzędników wysokiego szczebla (Dyrektorzy Wydziału Edukacji, Polityki Społecznej, asystenci
+międzykulturowi) i konfrontuje się ich z siecią wysoce wyspecjalizowanych NGO. W tym
+przypadku do zespołu włączono bezprecedensową w skali kraju liczbę przedstawicieli trzeciego
+sektora. Lista ta dowodzi niezwykłej gęstości społecznej Krakowa – obejmuje reprezentantów
+Stowarzyszenia INTERKULTURALNI PL, Fundacji Diversity Hub, Fundacji Nausika, Fundacji
+Współpracy Polsko-Ukraińskiej "U-WORK", Żydowskiego Stowarzyszenia Czulent, Fundacji
+Instytut Polska Ukraina, a także stowarzyszeń broniących praw człowieka i świadczących
+pomoc prawną imigrantom – np. Stowarzyszenie Centrum Pomocy Prawnej im. Haliny Nieć.
+Przypadek Krakowa ukazuje docelowy punkt ewolucji omawianego zjawiska. Zespół
+Interdyscyplinarny pierwotnie pomyślany był jako represyjno-kontrolne "ciało reagujące",
+zdominowane przez policję, powołane wyłącznie w celu wdrażania procedur "Niebieskich Kart".
+Obecnie, za sprawą masowej partycypacji fundacji i stowarzyszeń, idea tego zespołu
+przekształca się w platformę „public governance” – nowoczesnego współrządzenia miastem, w
+którym organizacje pozarządowe nie są już tylko podwykonawcami zleceń lub rzemieślnikami w
+wywiadach środowiskowych, lecz stają się równorzędnymi twórcami strategii bezpieczeństwa
+socjalnego lokalnej wspólnoty.
+
+Analiza Prawno-Administracyjnych i Operacyjnych
+Wyzwań Kooperacji
+Bezsprzeczne korzyści wynikające z integracji trzeciego sektora z biurokratycznymi formacjami
+podległymi Ministerstwu Rodziny, Pracy i Polityki Społecznej czy Ministerstwu Spraw
+Wewnętrznych nie mogą przesłaniać obiektywnych wyzwań i kolizji, do których dochodzi w
+codziennej pracy środowiskowej. Synergia międzysektorowa jest uwarunkowana zderzeniem
+drastycznie odmiennych kultur organizacyjnych.
+Służby państwowe – policjanci, prokuratorzy, pracownicy sądowi i w dużej mierze pracownicy
+socjalni (jak pokazują przykłady zespołów z Białegostoku, Częstochowy, czy Legionowa ) –
+funkcjonują w kulturze silnie zdominowanej przez kodeksy karne, regulaminy i sztywną
+podległość hierarchiczną. Ich naturalną dążnością jest legalizm i proceduralizm. Przedstawiciele
+organizacji obywatelskich działają natomiast w paradygmacie celowościowym, gdzie głównym
+dążeniem jest naprawa relacji, zatrzymanie zjawiska wiktymizacji (krzywdzenia) i obrona ofiary
+często bez skrupulatnego zważania na poprawność druku formularza. Ta dychotomia bywa
+zarzewiem napięć w trakcie ustaleń w ramach ścisłych posiedzeń grup
+diagnostyczno-pomocowych.
+Poważnym ograniczeniem w rozwoju tych struktur są fundusze. Przynależność przedstawicieli
+NGO do organu powołanego zarządzeniem Prezydenta czy Burmistrza ma charakter
+uczestnictwa w ciele doradczo-inicjującym i bywa pracą pro publico bono. Organizacje
+pozarządowe finansują swoją codzienną egzystencję z grantów celowych, dotacji
+konkursowych, które mają charakter przerywany. Kiedy kończy się projekt dotacyjny dla fundacji
+wspierającej dany Ośrodek Pomocy Społecznej, jej delegowany do Zespołu specjalista
+
+nierzadko traci zatrudnienie i opuszcza gremium. Wymusza to na Burmistrzach (jak
+udowodniono na analizowanym przykładzie z Międzyrzecza ) ciągłe aktualizowanie zarządzeń i
+wymianę podmiotów, co w drastyczny sposób zrywa ciągłość długofalowej terapii, kluczowej w
+pracy z rodziną o wielopokoleniowej tradycji przemocowej. Niestabilność kadrowa w
+organizacjach pozarządowych jest największym zidentyfikowanym zagrożeniem dla płynnego i
+bezpiecznego przebiegu procedur.
+Asymetria informacji wrażliwych jest kolejną kością niezgody. Przekazywanie przedstawicielom
+stowarzyszeń wysoce poufnych danych operacyjnych Policji czy wywiadów Kuratora wymaga
+nie lada ostrożności. Choć znowelizowane prawo w sposób jednoznaczny wymusza pełen
+dostęp do danych wewnątrz członków Zespołu i celowych grup diagnostyczno-pomocowych,
+nieufność organów represyjnych (np. prokuratorów powołanych do ZI) do osób spoza aparatu
+państwowego nadal bywa spotykana w pragmatyce działania na poziomie gminnym.
+Rozwiązaniem na ten dysonans są właśnie precyzyjne porozumienia i szkolenia
+wewnątrzinstytucjonalne.
+
+Refleksja Końcowa i Perspektywy Strategiczne
+W toku krytycznej oceny materiału empirycznego obejmującego struktury Ośrodków Pomocy
+Społecznej w Polsce należy stwierdzić, iż system Zespołów Interdyscyplinarnych przeszedł
+długą, ewolucyjną drogę od koncepcji czysto teoretycznych grup roboczych do
+sprofesjonalizowanych, medyczno-socjalnych grup reagowania kryzysowego. Opublikowane i
+przeanalizowane zarządzenia wójtów, burmistrzów i prezydentów miast dobitnie zaświadczają,
+że włączenie czynnika społecznego w postaci organizacji pozarządowych przestało być
+działaniem o charakterze wizerunkowym (fasadowym), a stało się obiektywną, funkcjonalną
+koniecznością. Państwo, zmagając się z ogromem narastających złożoności społecznych,
+utratą więzi, izolacją pandemiczną i lawinowym wzrostem powiadamiania o incydentach
+psychicznej i fizycznej presji domowej, musi cedować część uprawnień o charakterze
+pomocowym na struktury społeczeństwa obywatelskiego.
+Konsekwentnie zintegrowany model wsparcia rodzin w kryzysie – łączący siłę represyjną
+wymiaru sprawiedliwości i Policji, koordynację organizacyjną MOPS-u, profilaktykę szkół z
+najwyższą wrażliwością terapeutyczną i prawną fundacji (od instytucji wyznaniowych po skrajnie
+wyspecjalizowane centra antyprzemocowe i zwinne think-tanki na rzecz imigrantów) – stanowi
+jedyną skuteczną odpowiedź na marginalizację i wykluczenie w XXI wieku. System wsparcia
+wymaga permanentnego rozwoju, zabezpieczenia finansowego funkcjonowania NGO
+powoływanych do rad doradczych w gminach oraz nieustannego niwelowania przeszkód w
+obiegu informacji. Tylko w takich uwarunkowaniach model wprowadzony jako ustawa obronna
+przeciw patologii przekształci się w trwałą infrastrukturę profilaktycznego bezpieczeństwa każdej
+gminy w Polsce, niezależnie od faktu, czy mówimy o wielomilionowej aglomeracji
+gdańsko-sopockiej, czy kameralnym sołectwie na uboczu szlaków komunikacyjnych.
+Mechanizm zespołów interdyscyplinarnych udowodnił bezspornie swoją użyteczność
+strukturalną, legitymizując wielosektorowość polityki publicznej państwa.

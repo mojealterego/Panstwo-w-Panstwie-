@@ -1,0 +1,129 @@
+# Dokument źródłowy pdf-24f00de3392d9a326970b049
+
+> Transkrypcja automatyczna. Treść źródła nie jest weryfikacją zawartych w nim twierdzeń.
+
+## Strona 1
+
+PODWÓJNA PATOLOGIA POD SZYLDEM
+POMOCY. Adamów: Darmowe skrzynki
+pocztowe, wiejskie układy i urzędnicze
+sądy nad rodziną
+Jako dziennikarz śledczy wielokrotnie udowadniałem, że system przeciwdziałania przemocy
+domowej w wielkich miastach to maszynka do wyprowadzania milionów złotych publicznych
+dotacji. Jednak to, co dzieje się na głębokiej prowincji, budzi jeszcze większe przerażenie. W
+małych społecznościach biurokratyczna procedura „Niebieskiej Karty” nie jest lukratywnym
+biznesem dla gigantycznych fundacji – jest za to brutalnym narzędziem inwigilacji, bezlitosnego
+linczu społecznego i skrajnej urzędniczej amatorszczyzny.
+Zgodnie z naszą alfabetyczną listą bierzemy na celownik Adamów. W toku śledztwa natrafiamy
+na fascynujący zbieg okoliczności: w Polsce mamy dwie gminy o tej nazwie (w powiecie
+łukowskim oraz w powiecie zamojskim). Obie te administracje funkcjonują jako idealne studia
+przypadku pokazujące, jak państwo polskie zdegenerowało politykę społeczną, oddając los
+swoich obywateli w ręce wiejskich, całkowicie pozbawionych niezależności trybunałów. Oto
+bezkompromisowa dekonstrukcja obu tych ośrodków.
+
+1. ADAMÓW (powiat łukowski): Skrajna amatorszczyzna i tajemnice
+obywateli na darmowej poczcie
+Gminny Ośrodek Pomocy Społecznej (GOPS) i działający przy nim lokalny Zespół
+Interdyscyplinarny to miejsca, do których spływają najbardziej drastyczne i wrażliwe informacje
+o mieszkańcach. Znajdują się tam akta brutalnych spraw rozwodowych, notatki z interwencji
+policyjnych, wnikliwa dokumentacja psychiatryczna i intymne zeznania o przemocy. Państwo
+polskie nakłada na instytucje publiczne drakońskie, obwarowane gigantycznymi karami wymogi
+RODO, aby chronić takie dane.
+Jak ochrona tych danych wygląda w Gminnym Ośrodku Pomocy Społecznej w Adamowie przy
+ul. Kleeberga 36 w powiecie łukowskim? Z oficjalnych rządowych baz teleadresowych i
+rejestrów wycieka prawda wprost kompromitująca tamtejszy aparat urzędniczy. Instytucja ta
+posługuje się komercyjną, darmową skrzynką pocztową: gopsadamow@wp.pl.
+To jest absolutny skandal. Zespół Interdyscyplinarny przesyła wysoce poufne dane o rozpadzie
+rodzin mieszkańców gminy przez darmowe serwery pocztowe portalu internetowego, który z
+założenia służy do wyświetlania reklam. To twardy dowód na to, że w tej strukturze ochrona
+prywatności obywatela po prostu nie istnieje, a standardy państwowe zatrzymują się na
+rogatkach miasta.
+Kto ma dostęp do tych danych i kto pociąga za sznurki w tym lokalnym, zamkniętym układzie?
+Na czele GOPS w Adamowie (powiat łukowski) stoi kierownik Aneta Moryń. Trzon operacyjny i
+terenowy stanowią pracownice socjalne: Monika Tymińska, Ewelina Józwik, Justyna Woźniak
+oraz Agnieszka Frydrych.
+To właśnie te osoby, powiązane z wąskim gronem przedstawicieli lokalnych służb, tworzą
+hermetyczny Zespół Interdyscyplinarny. Jak wynika z dokumentacji i zarządzeń wójta, w skład
+
+## Strona 2
+
+gremium orzekającego w Adamowie powołano konkretne nazwiska z najbliższego środowiska:
+pracownika socjalnego Agnieszkę Frydrych, Przewodniczącą Gminnej Komisji Rozwiązywania
+Problemów Alkoholowych Lucynę Saran, lokalnego dzielnicowego Sławomira Kołodzieja oraz
+Rafała Mioduchowskiego.
+W tak małej, hermetycznej społeczności nie ma mowy o obiektywizmie i bezstronności. Ten
+lokalny trybunał to system naczyń połączonych. Dzielnicowy, urzędniczka socjalna i szefowa
+komisji alkoholowej siedzą w jednym pokoju i wspólnie decydują o tym, komu w tej wsi założyć
+„Niebieską Kartę” i kogo napiętnować łatką oprawcy. W realiach, w których każdy każdego zna,
+jedna plotka lub celowy donos rzucony w trakcie batalii rozwodowej o alimenty wystarczą, by ta
+zaprzyjaźniona ze sobą urzędnicza maszyna zniszczyła człowiekowi reputację na oczach
+sąsiadów.
+
+2. ADAMÓW (powiat zamojski): Biurokratyczna fasada i odsyłanie z
+kwitkiem
+Przenieśmy się teraz do drugiej gminy o tej samej nazwie – Adamów w powiecie zamojskim.
+Tutaj Zespół Interdyscyplinarny ds. Przeciwdziałania Przemocy Domowej został sformalizowany
+Zarządzeniem Nr 88/2023 Wójta Gminy Adamów z dnia 18 sierpnia 2023 r.. Siedziba Zespołu i
+samego GOPS-u to dokładnie ten sam budynek co Urząd Gminy – Adamów 11B. Zależność od
+władzy wykonawczej wójta jest więc całkowita i namacalna.
+Ośrodek ten to klasyczny przykład biurokratycznej wydmuszki. Zespół w Adamowie zamojskim
+został skompletowany z przedstawicieli ośrodka pomocy społecznej, oświaty, ochrony zdrowia,
+policji i kuratorów sądowych. W teorii ma on stanowić potężną tarczę i wsparcie dla lokalnych
+ofiar domowych dramatów. W praktyce jest to teatr pozorów. Jeśli obywatel naprawdę
+doświadcza drastycznego kryzysu i potrzebuje natychmiastowego, realnego schronienia lub
+specjalistycznej interwencji psychologicznej, szybko uświadamia sobie, że Zespół
+Interdyscyplinarny w Adamowie to jedynie stół do obrad i wypełniania makulatury. Po
+jakąkolwiek specjalistyczną i profesjonalną pomoc psychologiczną system odsyła go
+kilkadziesiąt kilometrów dalej – do Ośrodka Interwencji Kryzysowej w Szczebrzeszynie przy ul.
+Ogrodowej 14.
+Potwierdzają to twarde statystyki. Z raportów o stanie gminy Adamów (pow. zamojski) wyłania
+się obraz instytucji, która działa wyłącznie dla samej siebie. W całym 2024 roku Zespół
+Interdyscyplinarny w Adamowie zorganizował raptem 7 posiedzeń. W ciągu tych dwunastu
+miesięcy do Przewodniczącej wpłynęło zaledwie 6 formularzy "Niebieska Karta A" (z czego 4
+założył sam GOPS, 1 lokalna Policja i 1 szkoła podstawowa). Utrzymywanie rozbudowanego,
+wieloosobowego aparatu urzędniczego do rozpatrzenia ledwie pół tuzina formularzy w skali
+roku to absurd obnażający niewydolność tego mechanizmu.
+Po co więc w ogóle istnieje Zespół Interdyscyplinarny w Adamowie, skoro zaledwie garstka
+przypadków rocznie jest delegowana, a trudniejsze interwencje i tak wymagają zaangażowania
+ośrodków powiatowych w Szczebrzeszynie?
+
+3. KROPLÓWKA Z BUDŻETU PAŃSTWA, CZYLI DLACZEGO TO SIĘ
+OPŁACA
+Odpowiedź na to pytanie jest prosta i cyniczna: biurokracja w Adamowie musi trwać, ponieważ
+administracja centralna sowicie za nią płaci.
+Wprowadzony Rządowy Program Przeciwdziałania Przemocy Domowej na lata 2024-2030
+
+## Strona 3
+
+gwarantuje bezwzględne, zryczałtowane finansowanie tego zjawiska. Zgodnie z oficjalnymi
+wytycznymi, każda jednostka samorządu terytorialnego – niezależnie od tego, czy jest to wielki
+Gdańsk, czy mały Adamów łukowski bądź zamojski – otrzymuje z budżetu państwa stałą
+dotację celową w wysokości równych 6 000 zł rocznie. Te pieniądze nie idą na bezpośrednią
+pomoc psychologiczną dla maltretowanych dzieci, nie idą na darmowych adwokatów dla
+zrujnowanych ojców, ani na budowę hosteli. Są to środki przeznaczone celowo i wyłącznie na
+"dofinansowanie funkcjonowania zespołów interdyscyplinarnych".
+System wprost zmusza lokalnych urzędników i wójtów do wykazywania jakichkolwiek przejawów
+aktywności, aby nie stracić dofinansowania z Warszawy. Najwyższa Izba Kontroli (NIK) w
+swoich bezlitosnych raportach wielokrotnie alarmowała, że mechanizm ten opiera się na
+patologicznej, nadmiernej biurokratyzacji. Prowadzi to do produkowania kolosalnej liczby
+druków do wypełnienia, co skutecznie uszczupla czas, który pracownik socjalny mógłby
+poświęcić na zwykłą, szczerą rozmowę z klientem w terenie.
+Zespoły w takich gminach jak Adamów zamieniły się w lokalne pralnie papieru. Rutynowe
+generowanie „Niebieskich Kart” (nawet na zapas, w toku sąsiedzkich porachunków),
+planowanie posiedzeń i powielanie niezobowiązujących, urzędniczych wezwań to jedyny
+sposób na to, by Gminny Ośrodek Pomocy Społecznej udowodnił Wojewodzie i Ministerstwu, że
+sumiennie realizuje postanowienia ustawy. Tylko w ten sposób gmina zabezpiecza sobie prawo
+do wchłonięcia kolejnej, rocznej transzy finansowej z budżetu państwa.
+
+KONKLUZJA ŚLEDCZA
+Gminy noszące nazwę Adamów (zarówno ta w powiecie łukowskim, jak i zamojskim) to idealna
+soczewka, w której skupia się cały absurd i krzywda polskiego prawa rodzinnego. Państwo
+polskie stworzyło i zabetonowało procedurę, w której sąsiad będący urzędnikiem, ramię w ramię
+z lokalnym dzielnicowym, może arbitralnie zdecydować o zniszczeniu czyjejś reputacji i
+odebraniu komuś dobrego imienia.
+Robią to, posiłkując się niekompetencją, czego dowodem jest przetwarzanie najbardziej
+wrażliwych danych na komercyjnych, dziurawych skrzynkach pocztowych. Robią to, by tworzyć
+statystyczną fikcję i chronić jedynie własne etaty oraz dotacje celowe narzucane odgórnie przez
+władze centralne. Taki system nie ma nic wspólnego ze szlachetną misją ratowania ludzi w
+kryzysie – jest to wyłącznie zinstytucjonalizowana przemoc biurokratyczna, w której obywatel
+pozostaje całkowicie bezbronny.

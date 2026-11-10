@@ -1,0 +1,449 @@
+Genealogia kapitału, struktura
+finansowa i lobbing legislacyjny
+European AI & Society Fund: dogłębna
+analiza śledcza, audyt transferów do
+polskich NGO oraz rola funduszu w
+kształtowaniu unijnego AI Act
+Wymuszona cyfryzacja usług publicznych oraz integracja systemów opartych na sztucznej
+inteligencji z infrastrukturą społeczną Europy wywołały głębokie reperkusje dla ochrony praw
+podstawowych, mechanizmów rynkowych i suwerenności demokratycznej. W odpowiedzi na
+dominację kapitałową i lobbingową globalnych korporacji technologicznych (Big Tech), wiodące
+fundacje filantropijne skonsolidowały swoje zasoby. Wynikiem tej inicjatywy stał się European AI
+& Society Fund (EAISF) – wyspecjalizowane konsorcjum finansowe, którego celem jest budowa
+przeciwwagi dla wpływów korporacyjnych oraz rzecznictwo na rzecz sprawiedliwego i
+bezpiecznego wdrażania technologii cyfrowych w Europie. Niniejszy raport przedstawia śledczą
+analizę genealogii kapitału EAISF, szczegółowy audyt przepływów finansowych do polskich
+organizacji pozarządowych oraz ewaluację roli funduszu w procesie legislacyjnym i
+implementacyjnym unijnego aktu o sztucznej inteligencji (AI Act).
+
+Geneza i mechanizm dystrybucji kapitału konsorcjum
+Z punktu widzenia prawa i struktury instytucjonalnej, European AI & Society Fund nie posiada
+odrębnej osobowości prawnej. Funkcjonuje jako zinstytucjonalizowany fundusz powierniczy
+typu donor collaborative (konsorcjum darczyńców) goszczony i zarządzany przez Network of
+European Foundations (NEF) z siedzibą w Brukseli. Taki model pozwala zagranicznym
+podmiotom filantropijnym, zwłaszcza z USA, na transferowanie środków i koordynację działań
+rzecznickich w unijnych strukturach regulacyjnych za pośrednictwem stabilnego i lokalnie
+zakorzenionego pośrednika finansowego.
+Zarządzanie strategiczne funduszem leży w gestii Komitetu Sterującego (Steering Committee),
+w którym zasiadają przedstawiciele fundacji partnerskich. W strukturze operacyjnej kluczowe
+role menedżerskie pełnią Catherine Miller oraz Evelyne Paradis jako Współdyrektorki EAISF,
+Peggye Totozafy (Starsza Menedżerka ds. Partnerstw), Alexandra Toth (Menedżerka Funduszu)
+oraz Līva Vikmane (Menedżerka ds. Sieci i Komunikacji). Z kolei w Radzie NEF zasiadają
+menedżerowie wiodących fundacji europejskich, tacy jak Alexandre Giraud (Przewodniczący,
+reprezentujący Fondation de France), Shannon Lawder (Wiceprzewodnicząca, z Charles
+Stewart Mott Foundation), Stefan Schaefers (Skarbnik, z King Baudouin Foundation) oraz
+Rogier van der Weerd (Managing Director w Adessium Foundation).
+Od inauguracji w 2020 roku EAISF nawiązał współpracę z 20 stałymi partnerami finansowymi,
+dystrybuując łącznie kwotę 13,6 miliona euro na rzecz organizacji społeczeństwa
+obywatelskiego w 27 krajach. W samym 2025 roku fundusz zasilił sektor publiczny kwotą 4
+
+milionów euro. W 2026 roku 18 partnerów zadeklarowało kolejne 10 milionów euro na tzw.
+Inicjatywę Przełomową (Breakthrough Initiative), ukierunkowaną na neutralizację zagrożeń
+płynących ze strony generatywnej sztucznej inteligencji. Amerykański fundusz John D. and
+Catherine T. MacArthur Foundation aktywnie wspiera tę strukturę, przekazując m.in. elastyczne
+dotacje rzędu $500 000 w cyklach dwuletnich (lata 2023 i 2025) bezpośrednio na rzecz EAISF,
+obok wspierania innych funduszy NEF, takich jak Civitates.
+Poniższa tabela przedstawia parametry operacyjne, wskaźniki finansowe oraz infrastrukturę
+techniczną i zarządczą konsorcjum.
+Parametr Operacyjny / Strukturalny              Szczegóły i Wartości Analityczne
+Siedziba i host operacyjny                      Bruksela (Belgia), Philanthropy House, Rue
+                                                Royale 94; Network of European Foundations.
+Klasyfikacja branżowa (NAICS)                   8132 (Usługi pozyskiwania funduszy
+                                                filantropijnych).
+Szacowana wycena rynkowa funduszu               Około $3 300 000.
+Roczny przychód operacyjny                      Około $1 026 660 (generujący średnio $86 000
+                                                przychodu na jednego pracownika).
+Zasoby ludzkie (FTE)                            Przedział 11–20 pracowników.
+Struktura domen pocztowych                      Główny format: {first initial}.{last
+                                                name}@europeanaifund.org (85,7% udziału);
+                                                rezerwowy: {first name}.{last
+                                                name}@europeanaifund.org (14,3%).
+Infrastruktura techniczna i CMS                 Serwer Apache na systemie Debian; CMS
+                                                WordPress wspierany wtyczkami Contact Form
+                                                7, Easy Accordion oraz All in One SEO Pack;
+                                                interfejs oparty na frameworku Bootstrap.
+Kluczowi donatorzy i partnerzy                  Adessium Foundation, Robert Bosch Stiftung,
+                                                Charles Stewart Mott Foundation, MacArthur
+                                                Foundation, Ford Foundation, King Baudouin
+                                                Foundation, Limelight Foundation, Luminate,
+                                                Mozilla Foundation, Oak Foundation, Open
+                                                Society Foundations, Porticus, Stiftung
+                                                Mercator, Fondazione Compagnia di San
+                                                Paolo, Omidyar Group (AI Collaborative),
+                                                William & Flora Hewlett Foundation.
+Audyt przepływów kapitałowych i wsparcia dla
+organizacji w Polsce
+Wschodnioeuropejski ekosystem organizacji pozarządowych jest kluczowym obszarem
+zainteresowania EAISF ze względu na obawy przed wykorzystywaniem systemów
+algorytmicznych do inwigilacji obywatelskiej oraz dyskryminacji grup zmarginalizowanych.
+Śledztwo finansowe oparte na sprawozdaniach finansowych wykazuje, że transfery kapitału do
+Polski koncentrują się na dwóch głównych podmiotach: Fundacji Panoptykon oraz
+Stowarzyszeniu Sieć Obywatelska Watchdog Polska.
+
+Struktura finansowania Fundacji Panoptykon
+
+Fundacja Panoptykon, jako jedyny wyspecjalizowany watchdog ds. praw cyfrowych w Polsce,
+zbudowała złożone portfolio finansowe. Audyt sprawozdań wykazuje, że środki z funduszy
+zarządzanych przez Network of European Foundations (zarówno EAISF, jak i Civitates)
+stanowią jeden z fundamentów stabilności finansowej tej organizacji.
+W latach 2022–2025 Panoptykon regularnie pozyskiwał dotacje z EAISF zarówno na projekty
+statutowe, jak i działania wzmacniające potencjał techniczny (capacity building). Kluczową
+inicjatywą zrealizowaną dzięki tym środkom było powołanie w 2022 roku przez Katarzynę
+Szymielewicz nieformalnej grupy roboczej Recommender Systems Task Force. Projekt ten,
+dofinansowany przez fundusz Civitates kwotą ponad 600 tysięcy PLN, pozwolił na
+skoordynowanie działań badawczych i kampanijnych w skali unijnej, skutkując wypracowaniem
+alternatywnych modeli algorytmów rekomendacyjnych, które przedstawiono bezpośrednio
+Komisji Europejskiej.
+Poniższa tabela zawiera szczegółowe zestawienie zaksięgowanych przychodów Fundacji
+Panoptykon z podziałem na źródła pochodzenia kapitału, ze szczególnym uwzględnieniem
+funduszy powierniczych NEF oraz innych darczyńców instytucjonalnych i korporacyjnych.
+Źródło Finansowania i Okres Realizacji          Zakontraktowana         Cel Statutowy i
+ID Grantu                                       Kwota (PLN)             Przeznaczenie
+                                                                        Środków
+NEF – Civitates SF2 Wieloletni                  609 387,67              Koordynacja działań
+                                                                        koalicyjnych w
+                                                                        obszarze platform.
+NEF – Civitates           2024                  515 100,00              Finansowanie
+                                                                        programu obrony
+                                                                        demokracji i
+                                                                        niezależnych mediów.
+Open Society Institute 2021–2024                404 494,76              Instytucjonalne
+Foundations                                                             wsparcie ochrony praw
+(OR2021-81053)                                                          obywatelskich.
+Sigrid Rausing Trust 2024–2027                  329 294,97              Dotacja instytucjonalna
+                                                                        na długofalowe
+                                                                        działania statutowe.
+Open Society Institute Wieloletni               264 908,91              Wsparcie działań
+Foundation                                                              statutowych w
+(OR2019-64863)                                                          obszarze nadzoru nad
+                                                                        technologiami.
+NEF – European AI & 2023–2024                   152 755,18              Dotacja celowa na
+Society Fund                                                            rzecznictwo i analizę
+                                                                        prawną unijnego AI Act.
+NEF – European AI & 2024–2025                   100 343,12              Działania rzecznickie w
+Society Fund                                                            fazie wejścia w życie AI
+                                                                        Act.
+NEF – European AI & 2023–2024                   96 433,87               Monitoring polityk
+Society Fund                                                            krajowych w zakresie
+                                                                        wdrażania technologii
+                                                                        AI.
+Sigrid Rausing Trust 2021–2024                  38 561,19               Dopełniające wsparcie
+                                                                        instytucjonalne.
+
+Źródło Finansowania i Okres Realizacji   Zakontraktowana   Cel Statutowy i
+ID Grantu                                Kwota (PLN)       Przeznaczenie
+                                                           Środków
+EDRi                  Wieloletni         34 468,00         Dedykowane projekty
+                                                           badawcze w obszarze
+                                                           sztucznej inteligencji.
+Norwegian Funds       Wieloletni         32 843,12         Grant instytucjonalny w
+(KI2/0003)                                                 ramach Aktywnych
+                                                           Obywateli.
+Norwegian Funds       Wieloletni         23 768,80         Grant instytucjonalny
+(KI/0116)                                                  wspierający budowę
+                                                           struktur rzecznickich.
+Digital Freedom Fund Wieloletni          21 705,00         Działalność badawcza
+                                                           nad algorytmami
+                                                           rekomendacyjnymi
+                                                           platform.
+NEF – Civitates       Wieloletni         21 535,82         Budowanie odporności
+                                                           organizacyjnej i
+                                                           operacyjnej.
+NEF – European AI & 2022–2023            17 072,05         Przeciwdziałanie
+Society Fund                                               dyskryminacji
+                                                           algorytmicznej.
+NEF – European AI & 2023–2024            12 258,50         Rozwój kompetencji
+Society Fund (Rozwój)                                      technicznych i
+                                                           analitycznych
+                                                           personelu.
+Digital Freedom Fund Wieloletni          12 193,63         Wsparcie litygacji
+                                                           strategicznej w
+                                                           precedensowej sprawie
+                                                           SIN vs Facebook.
+Samsung Poland        Jednorazowy        11 100,79         Finansowanie badań
+                                                           naukowych nad
+                                                           rozwojem systemów
+                                                           sztucznej inteligencji.
+NEF – European AI & 2023–2024            10 000,00         Wzmocnienie
+Society Fund (Rozwój)                                      wewnętrznego
+                                                           potencjału
+                                                           operacyjnego
+                                                           organizacji.
+NEF – European AI & Wieloletni           7 027,93          Bieżąca optymalizacja
+Society Fund (Rozwój)                                      struktur technicznych.
+NEF – Civitates (Task 2022–2023          -5 412,60         Rozliczenia kursowe i
+Force)                                                     korekty księgowe dla
+                                                           koalicji algorytmów
+                                                           rekomendacyjnych.
+NEF – Civitates       2022–2023          -18 196,00        Różnice kursowe przy
+                                                           księgowaniu transz
+
+Źródło Finansowania i Okres Realizacji        Zakontraktowana          Cel Statutowy i
+ID Grantu                                     Kwota (PLN)              Przeznaczenie
+                                                                       Środków
+                                                                       wieloletnich.
+Z punktu widzenia analizy śledczej, kluczowym i nietypowym elementem struktury przychodów
+Fundacji Panoptykon jest ujawniona wpłata od korporacji Samsung Poland w wysokości 11
+100,79 PLN na badania związane z AI. Choć kwota ta jest relatywnie niewielka w porównaniu z
+wielomilionowymi transferami z funduszy NEF czy Open Society Foundations, jej obecność
+dowodzi, że organizacje rzecznickie w Polsce zachowują otwarty, acz limitowany kanał
+współpracy badawczej z komercyjnym sektorem technologicznym, dbając jednocześnie o
+niezależność realizowanej linii programowej.
+
+Aktywność Sieci Obywatelskiej Watchdog Polska
+Drugim polskim beneficjentem środków dystrybuowanych pod auspicjami EAISF jest
+Stowarzyszenie Sieć Obywatelska Watchdog Polska. Organizacja ta została włączona do
+programu przeciwdziałania nadużyciom algorytmicznym w sektorze publicznym. Watchdog
+Polska, współpracując w formule koalicyjnej ze słoweńskim podmiotem Danes Je Nov Dan oraz
+węgierskim K-Monitor, uzyskała środki na audytowanie systemów zautomatyzowanego
+podejmowania decyzji (ADM) wdrażanych przez administrację rządową i samorządową. Cel
+tych działań koncentruje się na dostosowaniu tradycyjnych przepisów o dostępie do informacji
+publicznej (FOI) do realiów cyfrowych, zapobiegając sytuacjom, w których algorytmy decyzyjne
+pozostają poza kontrolą społeczną ze względu na tajemnice handlowe dostawców
+oprogramowania.
+
+Case Study: Przepływy finansowe Open Future jako
+model hybrydowego finansowania
+Wzorzec przepływów kapitałowych fundacji Open Future – holenderskiego podmiotu typu
+Stichting (numer rejestracyjny KVK: 80732453), kierowanego przez Paula Kellera i Alka
+Tarkowskiego – ukazuje, jak EAISF pozycjonuje się w szerszym, transatlantyckim systemie
+finansowania praw cyfrowych. Nadzór nad Open Future sprawuje rada powiernicza pod
+przewodnictwem Martina Senftlebena oraz Renaty Avili. Organizacja ta jest bezpośrednio
+zarejestrowana w unijnym rejestrze służącym przejrzystości pod numerem 936143941653-07.
+Poniższa tabela przedstawia strukturę finansowania Open Future, obrazującą integrację
+kapitału unijnego (programy ramowe UE), funduszy celowych EAISF oraz amerykańskich
+grantów filantropijnych.
+Donator / Program        Okres / Rok           Kwota i Waluta         Zakres i Cel
+Finansujący                                                           Realizacyjny Projektu
+Arcadia Programme 2020–2024                    €1 050 000             Program ochrony
+(Open Access)                                                         dziedzictwa
+                                                                      kulturowego i wolnego
+                                                                      dostępu do wiedzy.
+AI Collaborative         2025                  €480 000               Analiza wpływu decyzji
+(Omidyar Group)                                                       inwestycyjnych na
+                                                                      rozwój systemów
+
+Donator / Program    Okres / Rok   Kwota i Waluta   Zakres i Cel
+Finansujący                                         Realizacyjny Projektu
+                                                    sztucznej inteligencji w
+                                                    UE.
+Unia Europejska      2023          €450 000         Udział w konsorcjum
+(Horizon Europe)                                    badawczym projektu
+                                                    NGI Commons
+                                                    (Umowa nr
+                                                    101135279).
+Open Society          2023         $300 000         Trzyletnie ogólne
+Foundations                                         wsparcie strukturalne
+(Information Program)                               dla działań
+                                                    statutowych.
+Unia Europejska      2024          €228 124         Budowa
+(Horizon Europe)                                    interoperacyjnego
+                                                    rejestru dzieł w
+                                                    domenie publicznej
+                                                    (Umowa nr
+                                                    LC-03511895).
+Open Society         2021–2022     €210 000         Jednoroczny grant
+Foundations                                         operacyjny na rzecz
+                                                    ochrony praw
+                                                    użytkowników sieci.
+Stichting Internet   2025          €95 000          Prace
+Archive                                             analityczno-rzecznicze
+                                                    przed rewizją unijnych
+                                                    ram prawa autorskiego
+                                                    w 2026 roku.
+Wikimedia CH         2025–2026     €91 400          Analiza relacji między
+                                                    modelami AI a wolnymi
+                                                    licencjami i projektami
+                                                    Wikimedia.
+Mozilla Foundation   2024          $50 000          Rzecznictwo na rzecz
+                                                    wdrożenia przepisów o
+                                                    przejrzystości danych
+                                                    treningowych w AI Act.
+European AI &        2025–2026     €41 375          Wsparcie merytoryczne
+Society Fund                                        i lobbystyczne dla
+                                                    skutecznego wdrożenia
+                                                    prawa autorskiego w AI
+                                                    Act.
+Bertelsmann          2024          €35 000          Przygotowanie analizy i
+Foundation                                          białej księgi na temat
+                                                    publicznej infrastruktury
+                                                    AI.
+Omidyar Network      2023          $30 000          Prace nad koncepcją
+                                                    publicznej infrastruktury
+
+Donator / Program      Okres / Rok             Kwota i Waluta         Zakres i Cel
+Finansujący                                                           Realizacyjny Projektu
+                                                                      cyfrowej.
+Open Source Initiative 2024                     $10 000               Przygotowanie białej
+                                                                      księgi dotyczącej ładu
+                                                                      danych w otwartych
+                                                                      modelach AI.
+Analiza finansowa dowodzi, że relatywnie niewielka kwota przekazana przez EAISF (41 375
+euro) została precyzyjnie zaadresowana do podmiotu posiadającego szerokie zaplecze
+eksperckie i inne źródła finansowania. Dzięki temu EAISF uzyskuje wysokie przełożenie
+regulacyjne – środki te sfinansowały interwencje prawne Open Future bezpośrednio w procesie
+kształtowania przepisów wykonawczych dotyczących praw autorskich w modelach sztucznej
+inteligencji ogólnego przeznaczenia (GPAI).
+
+Rola funduszu w lobbingu i kształtowaniu unijnego AI
+Act oraz prawa o usługach cyfrowych
+Podstawowym celem strategicznym przyświecającym powołaniu EAISF było systemowe
+zrównoważenie sił lobbingowych w Brukseli podczas prac nad kluczowymi regulacjami
+cyfrowymi: Aktem o usługach cyfrowych (DSA) oraz Aktem o sztucznej inteligencji (AI Act).
+Dane historyczne wskazują na drastyczną dysproporcję zasobów finansowych: w okresie
+intensywnych prac legislacyjnych korporacje technologiczne przeznaczały rocznie ponad 113
+milionów euro na lobbowanie instytucji europejskich, podczas gdy EAISF dysponował rocznym
+budżetem grantowym rzędu 2 milionów euro na wsparcie działań rzecznickich całego
+europejskiego sektora organizacji obywatelskich.
+Mimo tej asymetrii kapitałowej, EAISF zaimplementował wysoce efektywną strategię dystrybucji
+rzecznictwa poprzez finansowanie wyspecjalizowanych koalicji :
+   ●​ Skoordynowane rzecznictwo praw podstawowych: Środki przekazane organizacji
+      Access Now pozwoliły na zbudowanie szerokiego frontu organizacji obywatelskich, który
+      w listopadzie 2021 roku ogłosił wspólny manifest An EU Artificial Intelligence Act for
+      Fundamental Rights. Koalicja ta skutecznie wprowadziła postulaty ochrony praw
+      człowieka do stanowiska Parlamentu Europejskiego, a następnie zabezpieczyła je w
+      ostatecznym tekście aktu przyjętym w 2024 roku.
+   ●​ Koalicja #ProtectNotSurveil: EAISF sfinansował działania platformy chroniącej
+      migrantów i uchodźców przed inwigilacją biometryczną na granicach zewnętrznych UE.
+      Koalicja ta, sterowana przez Sarę Chander (Equinox Initiative for Racial Justice), Chloé
+      Berthélémy (EDRi), Caterinę Rodelli (Access Now) oraz Alyne Smith (PICUM), powstała
+      jako sformalizowana grupa robocza oparta na badaniach terenowych nad technologiami
+      nadzoru granicznego. Pomimo wywalczenia pewnych bezpieczników, ostateczny tekst
+      aktu wprowadził odrębny reżim prawny dla organów ścigania i kontroli migracji, co
+      koalicja ocenia krytycznie jako ustępstwo na rzecz państw narodowych, zapowiadając
+      jednocześnie walkę na etapie implementacji krajowej.
+   ●​ Wpływ na ramy odpowiedzialności i audytu: Poprzez sfinansowanie projektów
+      realizowanych przez Ada Lovelace Institute (grant w wysokości 88 000 euro w latach
+      2022–2024) oraz Algorithm Audit (grant w wysokości 79 700 euro na lata 2022–2025),
+      fundusz wsparł badania nad rozkładem odpowiedzialności cywilnej w łańcuchach dostaw
+
+oprogramowania oraz metodologią wykrywania błędów i uprzedzeń algorytmicznych
+       (rozwój otwartego oprogramowania unsupervised-bias-detection).
+W kontekście lobbingu instytucjonalnego istotną rolę odgrywa wymóg rejestracji w unijnym
+Rejestrze Służącym Przejrzystości (Transparency Register). Zgodnie z decyzjami Komisji
+Europejskiej, urzędnicy wyższego szczebla oraz komisarze mogą spotykać się wyłącznie z
+podmiotami zarejestrowanymi, co czyni rejestrację warunkiem koniecznym do prowadzenia
+skutecznego rzecznictwa. Analiza śledcza wykazuje jednak zróżnicowane podejście organizacji
+pozarządowych do raportowania kosztów tych działań: przykładowo, zakontraktowany przez
+EAISF podmiot badawczy AI Forensics (numer w rejestrze: 981287253093-21) zadeklarował
+zerowe koszty lobbingu (0 EUR) za rok obrachunkowy marzec 2025 – luty 2026, deklarując
+jednocześnie zaangażowanie personelu na poziomie 1,75 etatu (FTE) oraz udział w trzech
+oficjalnych, wysokoszczeblowych spotkaniach z przedstawicielami Dyrekcji Generalnej ds. Sieci
+Komunikacyjnych, Treści i Technologii (DG Connect) Komisji Europejskiej.
+
+Działania wdrożeniowe i przeciwdziałanie
+korporacyjnemu przechwytywaniu (Corporate
+Capture) w latach 2025–2026
+Po wejściu w życie AI Act w 2024 roku, punkt ciężkości walki o kształt regulacyjny przeniósł się
+z poziomu tworzenia ogólnych ram prawnych na poziom techniczny i wykonawczy. Organizacje
+zaangażowane w rzecznictwo ostrzegają przed zjawiskiem "przechwytywania regulacji"
+(corporate capture), przejawiającym się m.in. w osłabianiu wytycznych dotyczących praw
+podstawowych w kodeksach postępowania sztucznej inteligencji ogólnego przeznaczenia
+(GPAI) oraz dążeniach Komisji Europejskiej – stymulowanych przez przewodniczącą Ursulę von
+der Leyen – do deregulacji i "uproszczenia" przepisów, co może ułatwić masowy trening modeli
+na danych osobowych z obejściem obostrzeń RODO.
+
+Alokacja środków w programie "Making Regulation Work"
+(2025–2026)
+W odpowiedzi na zagrożenia wdrożeniowe, EAISF uruchomił kompleksowy program dotacyjny
+"Making Regulation Work" o budżecie 4 milionów euro. Program ten dzieli się na dwa główne
+strumienie wsparcia:
+   1.​ AI Act Implementation Grants: Pula 400 000 euro przeznaczona na szybkie granty
+       celowe (do kwoty 60 000 euro) wspierające organizacje wpływające na procesy
+       standaryzacji i krajowej implementacji przepisów.
+   2.​ AI Accountability Grants: Pula 2 milionów euro skierowana na realizację odważnych,
+       nierzadko eksperymentalnych projektów rozliczania podmiotów naruszających prawa
+       obywatelskie za pomocą systemów algorytmicznych.
+Dane statystyczne z naboru wniosków na te granty (zamkniętego w styczniu 2025 roku i
+rozstrzygniętego na początku 2026 roku) obrazują gigantyczną asymetrię popytu i podaży na
+rynku finansowania rzecznictwa cyfrowego. Organizacje złożyły łącznie 325 aplikacji
+wnioskując o kwotę 46 milionów euro, podczas gdy budżet programu pozwalał na przyznanie
+jedynie 15 grantów o łącznej wartości 2 milionów euro. Analiza geograficzna wykazuje, że
+najsilniejsze zaplecze rzecznickie koncentruje się w Wielkiej Brytanii, Holandii, Niemczech i
+Belgii, przy jednoczesnym dynamicznym wzroście liczby aplikacji z Francji oraz Europy
+
+Wschodniej i Bałkanów. Znamienne jest również to, że pomimo wejścia w życie nowych
+regulacji antymonopolowych (Digital Markets Act), zaledwie 7% nadesłanych wniosków
+dotyczyło bezpośredniego rzucenia wyzwania dominacji rynkowej i koncentracji kapitałowej
+gigantów technologicznych.
+Poniższa tabela przedstawia kluczowe dotacje celowe przyznane przez EAISF w latach
+2025–2026 w celu zabezpieczenia interesów obywatelskich i konsumenckich w fazie
+wdrożeniowej AI Act.
+Nazwa Organizacji /            Przyznany Budżet               Zasięg i Rola w Procesie
+Grantobiorcy                                                  Implementacji i Audytu
+Artificial Intelligence        €199 978                       Opracowanie zorientowanych
+Accountability Lab (AIAL)                                     na sprawiedliwość społeczną
+                                                              ram audytu algorytmicznego,
+                                                              łączących metody obliczeniowe
+                                                              z teoriami sprawiedliwości
+                                                              społecznej.
+AI Forensics                   €160 000                       Audytowanie wiodących
+                                                              platform technologicznych oraz
+                                                              wykorzystanie zapisów Artykułu
+                                                              40 Aktu o usługach cyfrowych
+                                                              (DSA) do uzyskania dostępu do
+                                                              danych źródłowych.
+Amnesty International          €160 000                       Monitorowanie i badanie
+(Amnesty Tech)                                                wpływu systemów AI
+                                                              wdrażanych w sektorze
+                                                              pomocy społecznej na
+                                                              społeczności zmarginalizowane
+                                                              w Danii, Serbii i Holandii.
+Lighthouse Reports             €160 000                       Dziennikarstwo śledcze oparte
+                                                              na współpracy ze
+                                                              społecznościami dotkniętymi
+                                                              systemami inwigilacji granicznej
+                                                              i policyjnej.
+ANEC (Głos Konsumentów w €47 460                              Utworzenie specjalnego
+Standaryzacji)                                                zespołu roboczego AI
+                                                              Standards Task Force w celu
+                                                              przeciwdziałania dominacji Big
+                                                              Tech w komitetach
+                                                              standaryzacyjnych
+                                                              CEN-CENELEC
+                                                              (CEN-CLC-JTC21)
+                                                              kształtujących zharmonizowane
+                                                              normy techniczne dla
+                                                              systemów AI wysokiego ryzyka.
+BEUC (Europejska Organizacja €45 540                          Zapewnienie ochrony praw
+Konsumentów)                                                  konsumentów przed
+                                                              nieuczciwymi praktykami
+                                                              algorytmicznymi oraz ułatwienie
+
+Nazwa Organizacji /            Przyznany Budżet                Zasięg i Rola w Procesie
+Grantobiorcy                                                   Implementacji i Audytu
+                                                               dochodzenia roszczeń.
+Spór o suwerenność cyfrową i suwerenną infrastrukturę
+W 2026 roku debata nad suwerennością cyfrową Europy stała się kolejną areną starcia
+lobbingowego. Urzędnicy Komisji Europejskiej oraz rządy krajowe coraz mocniej akcentują
+potrzebę budowy europejskich "czempionów technologicznych" w celu uniezależnienia się od
+dostawców chmurowych z USA. Z analiz EAISF wynika jednak ryzyko, że promowanie
+krajowych dostawców bez narzucenia im restrykcyjnych rygorów prawnych doprowadzi jedynie
+do skopiowania amerykańskiego, inwigilacyjnego modelu biznesowego pod szyldem "Made in
+Europe". Z tego powodu, zorganizowany przez Fundację Panoptykon w Polsce okrągły stół ds.
+suwerenności cyfrowej skupił się na sformułowaniu postulatów, by publiczne inwestycje w
+infrastrukturę cyfrową i zamówienia publiczne były bezwzględnie powiązane z poszanowaniem
+praw podstawowych oraz otwartością kodu źródłowego oprogramowania.
+
+Wnioski systemowe
+Działalność European AI & Society Fund dowodzi, że kapitał filantropijny, o ile jest
+dystrybuowany w sposób skoordynowany i strategiczny, może skutecznie niwelować asymetrię
+wpływów w procesach legislacyjnych o globalnym znaczeniu. Kluczowe wyzwania i wnioski z
+dotychczasowej aktywności konsorcjum obejmują:
+  1.​ Przejście z fazy rzecznictwa do fazy egzekwowania prawa: Sukces Aktu o sztucznej
+      inteligencji nie rozstrzygnie się na poziomie tekstu legislacyjnego, lecz na poziomie
+      technicznym i wykonawczym. Walka o kształt zharmonizowanych norm technicznych w
+      komitetach CEN-CENELEC oraz wdrożenie procedur FRIA (ocen wpływu na prawa
+      podstawowe) to kluczowe obszary, w których organizacje obywatelskie muszą posiadać
+      wysokie kompetencje techniczne.
+  2.​ Krytyczna luka finansowa w sektorze watchdogów: Drastyczna dysproporcja między
+      popytem na finansowanie badań i audytów AI (46 milionów euro wnioskowane w naborze
+      z 2025 roku) a faktycznymi możliwościami alokacyjnymi funduszu (2 miliony euro)
+      ukazuje strukturalne niedofinansowanie organizacji kontrolujących rozwój technologii. Bez
+      systemowego wsparcia ze strony unijnych funduszy publicznych (np. w ramach kolejnych
+      wieloletnich ram finansowych MFF), społeczeństwo obywatelskie nie będzie w stanie
+      skutecznie pełnić roli "niezależnego strażnika" wdrożenia nowych regulacji cyfrowych.
+  3.​ Synergia krajowa i unijna: Przykład ścisłej koordynacji finansowej pomiędzy
+      brukselskimi strukturami NEF a polskimi podmiotami takimi jak Fundacja Panoptykon
+      dowodzi, że silny watchdog krajowy jest niezbędny do przełożenia unijnych ram
+      regulacyjnych (DSA, AI Act) na realną ochronę praw obywateli na poziomie lokalnym.

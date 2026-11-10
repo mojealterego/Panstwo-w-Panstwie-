@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "document_id": "pdf-d5c3679c9edde172b32dd104",
+  "source_sha256": "d5c3679c9edde172b32dd104fdfef524d0b2632db3388a26d1b4c4f066543f89",
+  "text_sha256": "b565832f06c34b4d3d4e86c9229f627ec6665ec07875d5e91891f18f5d5f60b3",
+  "original_filenames": [
+    "Badanie Zespołów Interdyscyplinarnych ds. Przemocy(16).PDF"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2600,
+    3392,
+    2050
+  ],
+  "extraction_methods": [
+    "embedded_text",
+    "embedded_text",
+    "embedded_text"
+  ],
+  "page_warnings": [],
+  "quality_status": "extracted",
+  "fact_check_status": "unverified_source_material",
+  "markdown_path": "documents/pdf-d5c3679c9edde172b32dd104/document.md",
+  "text_path": "documents/pdf-d5c3679c9edde172b32dd104/document.txt",
+  "extraction_engine": "PDF parsed text (files.read); source SHA-256 from original PDF bytes"
+}
