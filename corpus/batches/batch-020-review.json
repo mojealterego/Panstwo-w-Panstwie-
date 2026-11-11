@@ -1,0 +1,45 @@
+{
+  "batch_id": "batch-020",
+  "review_tasks": [
+    {
+      "check": "Compare parliamentary bill amendment history (druk 2799), 2023 law and NIK report; separate official findings from attribution of intent.",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "source": "WYLĘGARNIA PROCEDUR I PARLAMENTARNE WRZUTKI__.pdf",
+      "status": "source_claim_requires_primary_documents"
+    },
+    {
+      "check": "Reconcile corporate filing, tax-residency/dividend claims, Chanel Fondation grant disclosure and onward use of FemFund grants; funding alone does not establish improper influence.",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "source": "ZAPACH HIPOKRYZJI I MILIARDY Z KAJMANÓW.pdf",
+      "status": "source_claim_requires_primary_documents"
+    },
+    {
+      "check": "Same foundation as prior batch-018 „PATRIOTYZM JAKO PRZYKRYWKA DLA ZŁODZIEJSTWA”. Prior version mentions audit reference 1201-ICA.520.1.2025.30 and recovery ca. 200000 PLN; new version cites 1201-ICA.520.1.2025.1 and 227000 PLN. Verify originals and distinguish audit authorization reference from case number and claimed amounts before editorial synthesis.",
+      "pages": [
+        2,
+        3
+      ],
+      "source": "ZUCHWAŁY SKOK W BLASKU FLESZY_.pdf",
+      "status": "cross_document_discrepancy_to_resolve"
+    },
+    {
+      "check": "Treat as the likely named boundary of author-declared prior publication. A concrete publishing URL/date remains unprovided. Verify legislative dates and actual legal competences separately.",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "source": "ŻYRANDOL DLA PRZEMYSŁU ROZWODOWEGO.pdf",
+      "status": "author_declares_publication_scope_boundary"
+    }
+  ],
+  "review_type": "editorial_not_fact_check"
+}

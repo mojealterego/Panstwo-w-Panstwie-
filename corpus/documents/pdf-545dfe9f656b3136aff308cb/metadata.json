@@ -1,0 +1,31 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true,
+    "this_is_publication_boundary_title": true
+  },
+  "document_id": "pdf-545dfe9f656b3136aff308cb",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-545dfe9f656b3136aff308cb/document.md",
+  "original_filenames": [
+    "ŻYRANDOL DLA PRZEMYSŁU ROZWODOWEGO.pdf"
+  ],
+  "page_characters": [
+    2703,
+    3392,
+    987
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "60f536b7064f9705868c7d5339fc1128dc3f04ef1b0e6fee9c81d342ea84b03d",
+    "31303cbd19a0680bf18e11e15949858e46578334f768ccc2f27503f6c6e70683",
+    "4b91a5bd4aff61aafd97ca318a4702e5dd5d1f8ebe8a8f0dc86d598d9d99f217"
+  ],
+  "provenance_note": "Original PDF byte-preserved; independent adjudication of claims not performed.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "545dfe9f656b3136aff308cb47b85f5bb3f54f4aa6c23ff8727c8b47a46f6b26",
+  "text_path": "documents/pdf-545dfe9f656b3136aff308cb/document.txt",
+  "text_sha256": "90c2a78074552dcf8963e8333a28edd7cecadfff007d86657612c48fe303dca7",
+  "topic": "Prezydent RP: nowelizacje 2023, petycje i piecza naprzemienna"
+}

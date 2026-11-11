@@ -1,0 +1,31 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true,
+    "this_is_publication_boundary_title": false
+  },
+  "document_id": "pdf-5927077671eedfda281bbb18",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-5927077671eedfda281bbb18/document.md",
+  "original_filenames": [
+    "WYLĘGARNIA PROCEDUR I PARLAMENTARNE WRZUTKI__.pdf"
+  ],
+  "page_characters": [
+    2743,
+    3403,
+    2853
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "520add416ef995bc862025f6d7606c80a4db83d74fc59c3ff7a78ef8f2cb34c7",
+    "2ccb5bf763fa4454f9a60aa1fdf278011ba182b9d7b5859a8c83ebc56c34dc5b",
+    "4259c7cb932a3c7c759b15941e68f5f849a4317978ed04499e5529ca9e796baa"
+  ],
+  "provenance_note": "Original PDF byte-preserved; independent adjudication of claims not performed.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "5927077671eedfda281bbb1866dcdc069a712f4f6a07a80de86a86a52dd7557c",
+  "text_path": "documents/pdf-5927077671eedfda281bbb18/document.txt",
+  "text_sha256": "cd799a9354a5ad147c1b3805e136fb5eb2ac0ae31ad41958682da01ce029c1fe",
+  "topic": "Sejm RP: procedura ustawodawcza, reforma przeciwdziałania przemocy i NIK"
+}

@@ -1,0 +1,31 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true,
+    "this_is_publication_boundary_title": false
+  },
+  "document_id": "pdf-c0b5e126305fc39af68abcc9",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-c0b5e126305fc39af68abcc9/document.md",
+  "original_filenames": [
+    "ZUCHWAŁY SKOK W BLASKU FLESZY_.pdf"
+  ],
+  "page_characters": [
+    2725,
+    3246,
+    2856
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "e2ca502ec147fe858ec4bf0d04787122d1119ee83c071ae1960df2d1b6dd78ae",
+    "8b41c30ded86047e34ebac7cf5cfcef829589fc9afd3108c9915ef474f8fef6f",
+    "e0584d361860e79297f35bb850145293dae446f1e1ff2367124ffceb5a658be0"
+  ],
+  "provenance_note": "Original PDF byte-preserved; independent adjudication of claims not performed.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "c0b5e126305fc39af68abcc9c12445a869241b8005ef599c5a6b06e0c3bd3554",
+  "text_path": "documents/pdf-c0b5e126305fc39af68abcc9/document.txt",
+  "text_sha256": "0e28d6fc7343ee7c4f12d7702706bb8228d35908a04e5ec29bb265f017066c5c",
+  "topic": "Fundacja Rozwoju Centrum Macierz Polonii: dotacje, audyt i rozbieżności dokumentacyjne"
+}

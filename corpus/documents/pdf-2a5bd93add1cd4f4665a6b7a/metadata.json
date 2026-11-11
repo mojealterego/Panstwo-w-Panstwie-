@@ -1,0 +1,31 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true,
+    "this_is_publication_boundary_title": false
+  },
+  "document_id": "pdf-2a5bd93add1cd4f4665a6b7a",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-2a5bd93add1cd4f4665a6b7a/document.md",
+  "original_filenames": [
+    "ZAPACH HIPOKRYZJI I MILIARDY Z KAJMANÓW.pdf"
+  ],
+  "page_characters": [
+    2802,
+    2848,
+    2100
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "6b61f42e6e6b6110837caad6abf83b66156899a745597b71be63ac829712c01c",
+    "c3ff0bfa23933c9a1c3fb2a60f1fe9a872816cdd844d5ddd1a14281dd5bd25eb",
+    "4b4ce5623de0a7840eb76c3e1135a629a8896f7303aafc952058e8b40661b571"
+  ],
+  "provenance_note": "Original PDF byte-preserved; independent adjudication of claims not performed.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "2a5bd93add1cd4f4665a6b7a766c09f48473ff0e57a9e878537cb56063a32f7e",
+  "text_path": "documents/pdf-2a5bd93add1cd4f4665a6b7a/document.txt",
+  "text_sha256": "bc0b48ff6e2d0e7f74795e515b7b28923d0d66edb889b963979880e027767572",
+  "topic": "CHANEL, Fondation Chanel, FemFund: struktura finansowa i granty"
+}

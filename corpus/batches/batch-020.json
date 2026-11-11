@@ -1,0 +1,82 @@
+{
+  "author_review": {
+    "author_note": "Autor wcześniej zadeklarował osobistą weryfikację dokumentów oraz publikację części cyklu do opracowania o tytule „Żyrandol przemysłu rozwodowego”. W tej partii znajduje się plik o zbliżonym tytule. Nie potwierdzono niezależnie URL ani daty publikacji.",
+    "method": "author_declaration_in_prior_turn; not a new independent fact check",
+    "prior_publication": {
+      "current_batch_matching_title": "ŻYRANDOL DLA PRZEMYSŁU ROZWODOWEGO.pdf",
+      "individual_article_mapping": "not_provided",
+      "publication_urls": "not_provided",
+      "scope_ends_at_title": "Żyrandol przemysłu rozwodowego",
+      "status": "author_declares_part_previously_published"
+    },
+    "self_verified": true
+  },
+  "batch_id": "batch-020",
+  "canonical_total_documents": 133,
+  "canonical_total_pages": 630,
+  "exact_page_duplicate_pairs": 0,
+  "extraction_engine": "PyMuPDF 1.26.7 get_text(sort=True)",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "new_document_count": 4,
+  "new_duplicate_pairs": 0,
+  "new_unique_pages": 12,
+  "number_of_extracted_tables": 0,
+  "original_pdf_repo_dir": "corpus/originals/batch-020/",
+  "originals": [
+    {
+      "document_id": "pdf-5927077671eedfda281bbb18",
+      "filename": "WYLĘGARNIA PROCEDUR I PARLAMENTARNE WRZUTKI__.pdf",
+      "git_blob_sha": "fecdf3900b68aea893658fcff3296f879e927e19",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 99476,
+      "source_sha256": "5927077671eedfda281bbb1866dcdc069a712f4f6a07a80de86a86a52dd7557c",
+      "text_sha256": "cd799a9354a5ad147c1b3805e136fb5eb2ac0ae31ad41958682da01ce029c1fe",
+      "topic": "Sejm RP: procedura ustawodawcza, reforma przeciwdziałania przemocy i NIK"
+    },
+    {
+      "document_id": "pdf-2a5bd93add1cd4f4665a6b7a",
+      "filename": "ZAPACH HIPOKRYZJI I MILIARDY Z KAJMANÓW.pdf",
+      "git_blob_sha": "cdfa66a7c82065d89eb1abbdfd812ef604a5b04f",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 104392,
+      "source_sha256": "2a5bd93add1cd4f4665a6b7a766c09f48473ff0e57a9e878537cb56063a32f7e",
+      "text_sha256": "bc0b48ff6e2d0e7f74795e515b7b28923d0d66edb889b963979880e027767572",
+      "topic": "CHANEL, Fondation Chanel, FemFund: struktura finansowa i granty"
+    },
+    {
+      "document_id": "pdf-c0b5e126305fc39af68abcc9",
+      "filename": "ZUCHWAŁY SKOK W BLASKU FLESZY_.pdf",
+      "git_blob_sha": "aa70f7eb6adbc5bf67bcc2892fa5bf401cb5c41f",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 101405,
+      "source_sha256": "c0b5e126305fc39af68abcc9c12445a869241b8005ef599c5a6b06e0c3bd3554",
+      "text_sha256": "0e28d6fc7343ee7c4f12d7702706bb8228d35908a04e5ec29bb265f017066c5c",
+      "topic": "Fundacja Rozwoju Centrum Macierz Polonii: dotacje, audyt i rozbieżności dokumentacyjne"
+    },
+    {
+      "document_id": "pdf-545dfe9f656b3136aff308cb",
+      "filename": "ŻYRANDOL DLA PRZEMYSŁU ROZWODOWEGO.pdf",
+      "git_blob_sha": "a03adeb8e5ccc65ece7603550838aa2ba30f8474",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 90171,
+      "source_sha256": "545dfe9f656b3136aff308cb47b85f5bb3f54f4aa6c23ff8727c8b47a46f6b26",
+      "text_sha256": "90c2a78074552dcf8963e8333a28edd7cecadfff007d86657612c48fe303dca7",
+      "topic": "Prezydent RP: nowelizacje 2023, petycje i piecza naprzemienna"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "raw_pdf_in_repo": true,
+  "source_count": 4,
+  "source_kind": "user_supplied_pdf",
+  "source_page_count": 12,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 139
+}

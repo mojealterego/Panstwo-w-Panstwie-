@@ -1,0 +1,6 @@
+{
+  "batch_id": "batch-020",
+  "exact_page_duplicates": [],
+  "method": "5-token shingles; Jaccard >=0.6 or containment >=0.85; exact page SHA256; non-destructive",
+  "relations": []
+}

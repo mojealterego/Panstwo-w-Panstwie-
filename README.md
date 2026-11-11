@@ -53,7 +53,7 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-11)
 
-**129 unikatowych PDF-ów / 618 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **135 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały PDF partii 015–019 zapisano bajtowo w `corpus/originals/batch-015/`, `corpus/originals/batch-016/` i `corpus/originals/batch-017/` oraz `corpus/originals/batch-018/` i `corpus/originals/batch-019/`; oryginały starszych partii pozostają w odrębnych archiwach Biblioteki.
+**133 unikatowe PDF-y / 630 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **139 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały PDF partii 015–020 zapisano bajtowo w `corpus/originals/batch-015/`, `corpus/originals/batch-016/` i `corpus/originals/batch-017/` oraz `corpus/originals/batch-018/` i `corpus/originals/batch-019/` i `corpus/originals/batch-020/`; oryginały starszych partii pozostają w odrębnych archiwach Biblioteki.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
@@ -74,6 +74,7 @@ AGENTS.md                       # reguły dla agentów AI
 - **batch-017:** 10 oryginałów, 31 stron; 9 nowych dokumentów, 28 stron kanonicznych, 1 dokładny duplikat PDF z dwiema zachowanymi nazwami — [raport](docs/batches/batch-017.md). Weryfikację i wcześniejszą publikację części materiałów zadeklarował autor.
 - **batch-018:** 10 PDF-ów, 32 strony, 10 nowych źródeł; zachowano oryginały binarne, teksty stronicowane i sumy kontrolne — [raport](docs/batches/batch-018.md). Deklaracja osobistej weryfikacji autora oddzielona od niezależnej kontroli źródeł.
 - **batch-019:** 10 oryginalnych PDF-ów, 39 stron; 9 nowych źródeł (36 stron kanonicznych), 1 dokładny duplikat z batch-018. Zapisano binaria, transkrypcje i tabele — [raport](docs/batches/batch-019.md).
+- **batch-020:** 4 oryginalne PDF-y i 12 stron; 4 nowe źródła. Zachowano binaria i transkrypcje; powiązania z wcześniejszymi materiałami i rozbieżności do sprawdzenia — [raport](docs/batches/batch-020.md). Tytuł „Żyrandol dla przemysłu rozwodowego” stanowi punkt odniesienia do deklaracji autora o wcześniejszej publikacji części cyklu.
 - **Niedostarczone:** PDF 53 oraz sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.
