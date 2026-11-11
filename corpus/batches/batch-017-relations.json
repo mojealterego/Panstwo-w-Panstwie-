@@ -1,0 +1,16 @@
+{
+  "batch_id": "batch-017",
+  "relations": [],
+  "exact_byte_duplicate_groups": [
+    {
+      "source_sha256": "7ce627db0f3bbcec6d28e0a3dd151dbedeee5bf51c616b4aff448d64e6cde29c",
+      "filenames": [
+        "IMPERIUM HIPOKRYZJI__ (1).pdf",
+        "IMPERIUM HIPOKRYZJI__.pdf"
+      ],
+      "document_id": "pdf-7ce627db0f3bbcec6d28e0a3"
+    }
+  ],
+  "exact_page_duplicates_among_distinct_documents": [],
+  "method": "5-token shingles; Jaccard or containment at least 0.9; 20-shingle minimum; no automatic deletion"
+}

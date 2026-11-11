@@ -1,0 +1,26 @@
+{
+  "document_id": "pdf-d97d6b47ab0c2b1a4efd65fd",
+  "source_sha256": "d97d6b47ab0c2b1a4efd65fd8dd1bdca16378f7d993826cc825134777b4f14d0",
+  "text_sha256": "6fb88f067d407ba0d6cbee23551c26c9b05b88192a5325b3e0ca4389f4ee4ba7",
+  "original_filenames": [
+    "IMPERIUM KRWAWEGO KARTONU.pdf"
+  ],
+  "page_count": 4,
+  "page_characters": [
+    2861,
+    3451,
+    3256,
+    445
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "Tetra Pak i rodzina Rausingów — spory gospodarcze i historia",
+  "markdown_path": "documents/pdf-d97d6b47ab0c2b1a4efd65fd/document.md",
+  "text_path": "documents/pdf-d97d6b47ab0c2b1a4efd65fd/document.txt"
+}

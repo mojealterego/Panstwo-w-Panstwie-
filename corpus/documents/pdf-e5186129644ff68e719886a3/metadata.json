@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-e5186129644ff68e719886a3",
+  "source_sha256": "e5186129644ff68e719886a37eb1a475619ba34f63f5b54b9403beef8ebcd711",
+  "text_sha256": "d28ea5d6b81a8658e84096eeb9dd0f67e3d2085c161302747927650136c3b2f6",
+  "original_filenames": [
+    "GIGANTYCZNA PRALNIA PAPIERU I PIENIĘDZY__.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2712,
+    3217,
+    870
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "Zespoły interdyscyplinarne — finansowanie i procedura Niebieskie Karty",
+  "markdown_path": "documents/pdf-e5186129644ff68e719886a3/document.md",
+  "text_path": "documents/pdf-e5186129644ff68e719886a3/document.txt"
+}

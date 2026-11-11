@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-a9a02102a6b5a2dae6d08d7a",
+  "source_sha256": "a9a02102a6b5a2dae6d08d7ad9a470bc4bcb7c1af8bbcab9838f49ad3dea9be7",
+  "text_sha256": "1860497a1c242856aaa4db881c7d5d1ea8fd1a2e754e98ed78052b43a8aa054e",
+  "original_filenames": [
+    "IDEOLOGICZNY BAT NA SUWERENNOŚĆ__.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2811,
+    3250,
+    2145
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "GREVIO — monitoring konwencji i rekomendacje",
+  "markdown_path": "documents/pdf-a9a02102a6b5a2dae6d08d7a/document.md",
+  "text_path": "documents/pdf-a9a02102a6b5a2dae6d08d7a/document.txt"
+}

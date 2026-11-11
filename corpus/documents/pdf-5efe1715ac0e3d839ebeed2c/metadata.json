@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-5efe1715ac0e3d839ebeed2c",
+  "source_sha256": "5efe1715ac0e3d839ebeed2cf3e520faef9c3705d1119f82246ccf3ad60b8069",
+  "text_sha256": "1d34e1aaadea4ca81402927e2ed900d88654dfe707f8b6ce2f979aaa81ebd872",
+  "original_filenames": [
+    "HIPOKRYZJA PODSZYTA DOTACJĄ._.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2712,
+    3047,
+    3047
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "OKO.press — finansowanie i decyzje redakcyjne",
+  "markdown_path": "documents/pdf-5efe1715ac0e3d839ebeed2c/document.md",
+  "text_path": "documents/pdf-5efe1715ac0e3d839ebeed2c/document.txt"
+}

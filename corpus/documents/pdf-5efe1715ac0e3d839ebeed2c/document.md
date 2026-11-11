@@ -1,0 +1,143 @@
+# pdf-5efe1715ac0e3d839ebeed2c
+
+## Strona 1
+
+HIPOKRYZJA PODSZYTA DOTACJĄ.
+OKO.press bez maski: Milionowe straty,
+spekulacje walutowe i manipulacje
+„śledztwami” na zlecenie zagranicznych
+mocodawców
+
+W dobie głębokiej polaryzacji mediów najłatwiej buduje się pozycję moralnego arbitra, mieniąc
+się jedynym sprawiedliwym obrońcą prawdy, demokracji i praworządności. W polskim
+krajobrazie medialnym taką rolę próbuje odgrywać portal OKO.press, wydawany przez
+Fundację Ośrodek Kontroli Obywatelskiej „OKO” z siedzibą w Warszawie przy ul. Madalińskiego
+67B/38. Oficjalnie to niezależny, obywatelski serwis śledczy, który utrzymuje się z "drobnych
+wpłat czytelników" i walczy z systemowymi patologiami.
+Jednak gdy przeanalizuje się oficjalne sprawozdania finansowe złożone w Krajowym Rejestrze
+Sądowym (KRS), zderzy ich głośne publikacje z twardymi sprostowaniami i obnaży wybiórcze
+traktowanie ofiar przemocy, wyłania się obraz skrajnie cyniczny. OKO.press to w rzeczywistości
+sprawnie prosperujący biznes grantowy. To platforma, która za miliony złotych z zagranicznych
+fundacji i unijnych programów realizuje cele swoich mocodawców, wybiórczo traktuje standardy
+etyczne, a w obliczu kryzysu finansowego bez wahania wyrzuca własnych dziennikarzy na bruk.
+Oto bezkompromisowa dekonstrukcja imperium Piotra Pacewicza.
+
+ZAGRANICZNY KUREK Z GOTÓWKĄ. Jak brytyjskie i unijne miliony
+kupiły niezależność OKO.press
+
+Podstawowym kłamstwem, na którym ufundowano mit założycielski OKO.press, jest rzekome
+utrzymywanie się wyłącznie z wpłat od „zwykłych obywateli”. Choć fundacja posiada status
+Organizacji Pożytku Publicznego (OPP) i co roku apeluje do Polaków o odpisy podatkowe,
+wpływy te są jedynie wygodną przykrywką.
+Sprawozdania finansowe fundacji za rok 2024 obnażają całkowite, finansowe uzależnienie od
+zagranicznych funduszy politycznych:
+  ●​ Przychody fundacji z działalności statutowej w 2024 roku wyniosły 10,89 miliona złotych.
+    Z darowizn pochodziło 8,55 mln zł, z czego 2,36 mln zł stanowił odpis 1,5% podatku
+     dochodowego.
+  ●​ Prawdziwą anomalią w ich księgach jest jednak pozycja dotycząca Archiwum
+      Osiatyńskiego. Darowizny na ten cel w ciągu zaledwie jednego roku poszybowały z
+     nędznych 300 złotych w 2023 r. do astronomicznych 829,3 tysiąca złotych w 2024 r.. Kto
+            i w jakim celu celowo przetransferował tak potężną kwotę na jedno, konkretne zadanie?
+  ●​  Dotacje krajowe i zagraniczne wyniosły łącznie 2,31 miliona złotych. Najwyższa
+     pojedyncza dotacja – aż 476 tysięcy złotych – pochodziła z funduszu Civitates
+      Journalism 2024.
+  ●​  Najważniejszym, stałym sponsorem OKO.press pozostaje brytyjski Sigrid Rausing Trust
+     (SRT) z siedzibą w Londynie. SRT finansuje portal nieprzerwanie od 2017 roku. Łączna
+
+## Strona 2
+
+wartość wcześniejszych grantów z tego źródła osiągnęła £295 000, a w lipcu 2024 roku
+     fundusz ten przyznał OKO.press kolejny, gigantyczny grant w wysokości £180 000.
+To są setki tysięcy funtów szterlingów płynące od spadkobierców globalnego monopolu
+opakowaniowego Tetra Pak, omijające budżet państwa i trafiające wprost do kieszeni
+warszawskich publicystów. To nie jest niezależne dziennikarstwo. To zagraniczny mecenat
+ideologiczny.
+
+DECYZJE O CZYSTKACH KADROWYCH. Milionowe straty i
+wyrzucanie ludzi na bruk
+
+OKO.press chętnie poucza polskich przedsiębiorców o prawach pracowniczych i piętnuje
+wyzysk. Zobaczmy jednak, jak fundacja radzi sobie z zarządzaniem własnym budżetem, gdy
+zagraniczne granty nie wystarczają na pokrycie kosztów.
+KRS obnaża finansową zapaść wydawcy:
+  ●​ W 2022 roku fundacja odnotowała gigantyczną stratę netto na poziomie -1 083 242,01
+     PLN.
+  ●​ W 2023 roku strata netto wyniosła -364 354,00 PLN, przy stracie z działalności
+      operacyjnej na poziomie -560 085,96 PLN.
+  ●​ Aby ratować tonący okręt, w 2024 roku fundacja musiała drastycznie ciąć koszty i ratować
+      się środkami z 1,5% podatku. Stratę netto udało się zbić do 89 tysięcy złotych, ale stało
+      się to kosztem najsłabszych – pracowników.
+  ●​ Na koniec 2024 roku fundacja zatrudniała 33 pracowników na umowę o pracę – czyli o
+     siedmiu mniej niż rok wcześniej. Wyrzucanie dziennikarzy na bruk stało się dla zarządu
+      jedyną metodą na zbilansowanie budżetu.
+  ●​ W wyniku konfliktów i fatalnej atmosfery z redakcją pożegnali się kluczowi ludzie: w
+      połowie 2025 roku odszedł współnaczelny Michał Danielewski, a z serwisem rozstała się
+      także czołowa dziennikarka śledcza Maria Pankowska.
+
+FABRYKA MANIPULACJI. Jak „śledztwo” w sprawie RMF FM i Orlenu
+okazało się kłamstwem
+
+Głównym orężem OKO.press są tak zwane "dziennikarskie śledztwa", za pomocą których portal
+uderza w niewygodne dla swojego obozu politycznego i komercyjnego podmioty. Wybitnym
+dowodem na brak rzetelności i celowe fałszowanie rzeczywistości była publikacja autorstwa
+"redaktora Boczka" pt. „Radio Muzyka Orlen...” z października 2023 roku.
+OKO.press oskarżyło największe polskie radio RMF FM o to, że Orlen rzekomo kupił sobie
+przychylność stacji, pompując w nią gigantyczne miliony. W tekście twierdzono, że Orlen
+zostawił w RMF FM 23 mln zł w 2021 r. oraz 21,5 mln zł w 2022 r., co miało stanowić "znaczącą
+część przychodów radia, które po raz pierwszy przekroczyły 100 mln zł".
+Sprostowanie wystosowane przez Prezesa Zarządu Grupy RMF, Kazimierza Gródka, całkowicie
+zmasakrowało to "śledztwo". Gródek udowodnił, że OKO.press dopuściło się ordynarnej
+manipulacji:
+  ●​  Dziennikarze OKO.press celowo posłużyli się tzw. danymi cennikowymi (które w branży
+     reklamowej są wyłącznie fikcją, przed nałożeniem gigantycznych,
+      kilkudziesięcioprocentowych rabatów).
+  ●​ W rzeczywistości, wydatki wszystkich spółek Orlenu we wszystkich stacjach Grupy RMF
+    (RMF FM, RMF Maxx, RMF Classic i portalach) wyniosły w 2021 r. 3,8 mln zł, a w 2022 r.
+
+## Strona 3
+
+3,9 mln zł.
+  ●​  Stanowiło to zaledwie 1,1% przychodów reklamowych Grupy RMF. Dla porównania, za
+     czasów rządów koalicji PO-PSL (rok 2014) wydatki Orlenu w Grupie RMF stanowiły
+     równe 1%.
+OKO.press z premedytacją zawyżyło dane o kilkaset procent, by stworzyć kłamliwy, polityczny
+konstrukt o "radiu kupionym przez Daniela Obajtka". To dowód na to, że portal ten nie szuka
+prawdy – tworzy zmanipulowane narracje na zamówienie.
+
+PODWÓJNE STANDARDY ETYCZNE. Jak system sprawiedliwości i
+media kryły Tomasza Lisa
+
+Najbardziej obrzydliwą stroną działalności OKO.press jest jednak ich wybiórcze podejście do
+walki z mobbingiem i molestowaniem seksualnym w pracy. Portal ten potrafi bezlitośnie
+niszczyć drobnych urzędników MOPS, ale gdy sprawa dotyczy gigantów z ich własnego,
+liberalno-lewicowego salonu medialnego, ich wrażliwość nagle wygasa.
+Najlepszym tego przykładem jest sprawa Tomasza Lisa, byłego redaktora naczelnego
+"Newsweeka". Choć prokuratura badała liczne, wstrząsające doniesienia o molestowaniu i
+mobbingu (naruszanie nietykalności, wulgarne komentarze pod adresem kobiet), ostatecznie
+sprawę umorzono. Prokuratura zastosowała prawny uniki, kwalifikując zachowania Lisa
+wyłącznie jako naruszenie nietykalności cielesnej z art. 217 kk, co pozwoliło na umorzenie
+sprawy ze względu na upływ rocznego terminu przedawnienia.
+Prawniczka Karolina Kędziora (Polskie Towarzystwo Prawa Antydyskryminacyjnego) wprost
+oceniła na łamach mediów, że te powody umorzenia są skrajnie kontrowersyjne, a Tomasz Lis
+ewidentnie nadużywał władzy w sposób wyczerpujący znamiona "innych czynności
+seksualnych" z art. 197 kk.
+Gdzie była rewolucyjna gorliwość śledcza OKO.press? Gdy sprawa dotyczyła ich
+bezpośredniego sojusznika politycznego, portal ograniczył się do wyważonych, letnich
+komentarzy. Chroniono człowieka, który przez lata pisał felietony i był twarzą obozu, który
+funduje OKO.press miliony. To samo dotyczy milczenia wokół patologii systemu „Niebieskich
+Kart”. Choć procedury te drastycznie naruszają prywatność i są masowo wykorzystywane w
+sprawach rozwodowych, OKO.press milczy. Nie dotyka tego tematu, ponieważ rozbicie tego
+biznesu uderzyłoby w finanse ich partnerek ze stowarzyszeń feministycznych (jak FemFund czy
+CPK), z którymi dzielą tych samych darczyńców w Londynie.
+
+KONKLUZJA
+
+Portal OKO.press to nie jest niezależne medium obywatelskie – to wysoce wyspecjalizowany,
+sprywatyzowany wehikuł propagandowy. Za miliony złotych płynące od George'a Sorosa i
+szwedzkiej dynastii Rausingów, organizacja ta zmonopolizowała prawo do decydowania o tym,
+co w Polsce jest moralne, a co zasługuje na potępienie.
+Stosując bezczelne manipulacje statystykami (jak w przypadku RMF FM), chroniąc własnych,
+oskarżanych o molestowanie sojuszników oraz bez wahania zwalniając własnych pracowników
+w obliczu milionowych strat w KRS, OKO.press udowodniło, że jest integralną częścią systemu
+wyzysku. To korporacja, która handluje emocjami i ludzkim nieszczęściem, byle tylko
+zabezpieczyć stały dopływ brytyjskich funtów na swoje warszawskie etaty.

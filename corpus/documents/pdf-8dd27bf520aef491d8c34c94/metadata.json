@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-8dd27bf520aef491d8c34c94",
+  "source_sha256": "8dd27bf520aef491d8c34c94a68557d9c3184cab6cc8532bb1d499b7c63ee2fe",
+  "text_sha256": "fe8033f25b13dea883b183d34964a6bd75bb5f5cf3f60ac191e5c414aba7f519",
+  "original_filenames": [
+    "HOLENDERSKI INKUBATOR REWOLUCJI_.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2729,
+    3212,
+    1713
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "Mama Cash — finansowanie, granty i partnerstwa",
+  "markdown_path": "documents/pdf-8dd27bf520aef491d8c34c94/document.md",
+  "text_path": "documents/pdf-8dd27bf520aef491d8c34c94/document.txt"
+}

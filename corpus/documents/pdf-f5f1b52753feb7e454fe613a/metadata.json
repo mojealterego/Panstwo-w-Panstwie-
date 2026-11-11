@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-f5f1b52753feb7e454fe613a",
+  "source_sha256": "f5f1b52753feb7e454fe613a1c921061f153f06b03432907af4235cc78f7efb3",
+  "text_sha256": "ef1de013d330315a364a4177348e4006bbd396f2649aa4694b3530e53165ff8a",
+  "original_filenames": [
+    "DŻINSY USZYTE Z HIPOKRYZJI_.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2689,
+    3074,
+    1562
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "Levi Strauss & Co. — zakład Płock, pracownicy, filantropia",
+  "markdown_path": "documents/pdf-f5f1b52753feb7e454fe613a/document.md",
+  "text_path": "documents/pdf-f5f1b52753feb7e454fe613a/document.txt"
+}

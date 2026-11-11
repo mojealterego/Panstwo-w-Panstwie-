@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-a7e7eee1183675131261b712",
+  "source_sha256": "a7e7eee1183675131261b7123ca95d852ba1e3f6790b4b7da15088462238b5cf",
+  "text_sha256": "e50cac6e69e4eb91cbb8dbc5c9f276cf95c544fc4038749020975a66f29c25fe",
+  "original_filenames": [
+    "EUROPEJSKI KOMPLEKS PROPAGANDOWY_.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2588,
+    3313,
+    2376
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "DG JUST i program CERV — finansowanie i transparentność",
+  "markdown_path": "documents/pdf-a7e7eee1183675131261b712/document.md",
+  "text_path": "documents/pdf-a7e7eee1183675131261b712/document.txt"
+}

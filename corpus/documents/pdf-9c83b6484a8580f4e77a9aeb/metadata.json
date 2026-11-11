@@ -1,0 +1,25 @@
+{
+  "document_id": "pdf-9c83b6484a8580f4e77a9aeb",
+  "source_sha256": "9c83b6484a8580f4e77a9aebf01cb63aa76446c11b92a3a0afe6950720999b4a",
+  "text_sha256": "937af757d480e19a42222995686ceee285b91bad2a8960c831cab85c7d7a93f6",
+  "original_filenames": [
+    "GLOBALNY ARCHITEKT ZNISZCZENIA.pdf"
+  ],
+  "page_count": 3,
+  "page_characters": [
+    2778,
+    3402,
+    2577
+  ],
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "author_review": {
+    "self_verified": true,
+    "publication_scope": "partial_declared_not_individually_mapped"
+  },
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "topic": "Konwencja Stambulska, CERV, wpływ międzynarodowy — analiza autora",
+  "markdown_path": "documents/pdf-9c83b6484a8580f4e77a9aeb/document.md",
+  "text_path": "documents/pdf-9c83b6484a8580f4e77a9aeb/document.txt"
+}
