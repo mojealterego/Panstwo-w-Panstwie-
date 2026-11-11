@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-516e0ae9c96da6816ed4d89d",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-516e0ae9c96da6816ed4d89d/document.md",
+  "original_filenames": [
+    "LONDYŃSKI KARTEL FILANTROPIJNY__.pdf"
+  ],
+  "page_characters": [
+    2723,
+    3528,
+    2297
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "516e0ae9c96da6816ed4d89deb37f569031d32d2af682f4dbf15236813504ff2",
+  "text_path": "documents/pdf-516e0ae9c96da6816ed4d89d/document.txt",
+  "text_sha256": "52f4dd975ff457fd7d81ed77b2bf9b2c512a8c0b01b79ccd901afb4edd0dbb2f",
+  "topic": "Sigrid Rausing Trust: finansowanie i bezpieczeństwo cyfrowe"
+}

@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-85d8cdb26dd75f6892bdde74",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-85d8cdb26dd75f6892bdde74/document.md",
+  "original_filenames": [
+    "INKUBATOR KORUPCJI I PRYWATNE FOLWARKI_.pdf"
+  ],
+  "page_characters": [
+    2789,
+    3346,
+    2269
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "85d8cdb26dd75f6892bdde747328dcaa0263f91821d28d818dc03e70a374a64c",
+  "text_path": "documents/pdf-85d8cdb26dd75f6892bdde74/document.txt",
+  "text_sha256": "8f0cf0305f6a8c408f9cb2af048789816fd4609bae0daf4c555a958a171ada6b",
+  "topic": "Narodowy Instytut Wolności i granty NIW-CRSO"
+}

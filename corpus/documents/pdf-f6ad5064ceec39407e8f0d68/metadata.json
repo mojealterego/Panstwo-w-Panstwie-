@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-f6ad5064ceec39407e8f0d68",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-f6ad5064ceec39407e8f0d68/document.md",
+  "original_filenames": [
+    "KORYTO ZAMIAST POLITYKI SPOŁECZNEJ_.pdf"
+  ],
+  "page_characters": [
+    2617,
+    3156,
+    685
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "f6ad5064ceec39407e8f0d68a40897fd0cfc825998f07fd1555de2b30620aa87",
+  "text_path": "documents/pdf-f6ad5064ceec39407e8f0d68/document.txt",
+  "text_sha256": "5bf509d2bc677e1d820d5f633497222072fee1086845b8975cafd384131270e7",
+  "topic": "Ministerstwo Rodziny i programy publiczne"
+}

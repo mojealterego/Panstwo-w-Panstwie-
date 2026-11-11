@@ -1,0 +1,26 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-d85203d7ca4e40f5029da244",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-d85203d7ca4e40f5029da244/document.md",
+  "original_filenames": [
+    "KATEDRA HIPOKRYZJI I WYKAZU STATYSTYK__.pdf"
+  ],
+  "page_characters": [
+    2757,
+    3339,
+    3334,
+    823
+  ],
+  "page_count": 4,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "d85203d7ca4e40f5029da244b6aca47c55b802f7f0fe15d1db7cf5681143ec23",
+  "text_path": "documents/pdf-d85203d7ca4e40f5029da244/document.txt",
+  "text_sha256": "6a2705bccdb5aaa15937a91a12e0a25c715f9c408ec7babf032eb9843f1e1185",
+  "topic": "Centrum Praw Kobiet: sprawy pracownicze i sprawozdania finansowe"
+}

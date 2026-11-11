@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-ab5218ab042a48599af55f1e",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-ab5218ab042a48599af55f1e/document.md",
+  "original_filenames": [
+    "KORPORACJA DOBROCZYNNOŚCI.pdf"
+  ],
+  "page_characters": [
+    2699,
+    3165,
+    2140
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "ab5218ab042a48599af55f1e369fe57312d7d7129c1576f7bc6d2bcb474784e7",
+  "text_path": "documents/pdf-ab5218ab042a48599af55f1e/document.txt",
+  "text_sha256": "1a1ebb88f94791a7dc1a541bcb3a58516bcb1f0e4139118be224fc35561436b6",
+  "topic": "Rzecznik Praw Dziecka i współpraca z organizacjami pozarządowymi"
+}

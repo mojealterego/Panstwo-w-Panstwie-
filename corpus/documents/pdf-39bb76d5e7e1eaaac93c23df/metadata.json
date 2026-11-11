@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-39bb76d5e7e1eaaac93c23df",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-39bb76d5e7e1eaaac93c23df/document.md",
+  "original_filenames": [
+    "PRALNIA DZIENNIKARSKICH SUMIEŃ.pdf"
+  ],
+  "page_characters": [
+    2799,
+    2978,
+    2348
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "39bb76d5e7e1eaaac93c23df445a886f427b589a3166cd2e9ea085dfb0fbad6e",
+  "text_path": "documents/pdf-39bb76d5e7e1eaaac93c23df/document.txt",
+  "text_sha256": "cd5f5356b4947d6ac3d3de5c3977ab226372c938c8b16cdad788026b5d1ce8ae",
+  "topic": "Program Civitates i finansowanie mediów"
+}

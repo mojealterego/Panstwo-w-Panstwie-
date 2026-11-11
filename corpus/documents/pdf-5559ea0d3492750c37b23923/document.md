@@ -1,0 +1,121 @@
+# pdf-5559ea0d3492750c37b23923
+
+## Strona 1
+
+POLITYCZNE PASOŻYTY. Partie
+polityczne: Jak za pieniądze dla ofiar
+przemocy finansowano kampanie,
+portale i partyjne imperia
+
+Przez lata pracy widziałem, jak systemy państwowe degenerują się na poziomie lokalnym – jak
+urzędnicy w małych gminach niszczą rodziny, a lokalne fundacje przejmują skromne,
+samorządowe dotacje. Jednak gdy spojrzymy na architekturę tego procederu z samej góry,
+uświadomimy sobie przerażającą prawdę: cały przemysł „Niebieskich Kart” i rzekomego
+przeciwdziałania przemocy to w rzeczywistości gigantyczny wehikuł finansowy stworzony,
+nadzorowany i eksploatowany przez partie polityczne.
+Dla centrali partyjnych w Warszawie ofiara przemocy domowej, rozwodzący się ojciec czy
+katowane dziecko nie są obywatelami wymagającymi ochrony. Są oni wyłącznie bezcennym
+alibi, które pozwala na legalne transferowanie setek milionów złotych z budżetu państwa wprost
+do kieszeni lojalnych działaczy, na kampanie wyborcze i tuby propagandowe.
+Oto bezkompromisowa dekonstrukcja tego, jak partie polityczne w Polsce sprywatyzowały
+system sprawiedliwości społecznej.
+
+FUNDUSZ WYBORCZY ZAMIAST SPRAWIEDLIWOŚCI. 270 milionów
+na promocję własnego środowiska
+
+Aby zrozumieć bezczelność politycznych decydentów, musimy spojrzeć na ustalenia Najwyższej
+Izby Kontroli (NIK), która prześwietliła dysponowanie środkami publicznymi w latach 2021-2025.
+Głównym narzędziem do redystrybucji pieniędzy dla „ofiar” jest Fundusz Sprawiedliwości
+(Fundusz Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej). Dysponentem tego
+potężnego narzędzia był Minister Sprawiedliwości, działający w ścisłym interesie swojej formacji
+politycznej.
+Jak wykazał NIK w swoich raportach z maja 2025 r. i marca 2026 r., na tym funduszu doszło do
+rażących nieprawidłowości opiewających na gigantyczną kwotę blisko 270 milionów złotych.
+Zamiast tworzyć realne i bezpieczne ośrodki dla bitych kobiet i dzieci, miliony te zostały
+wyprowadzone w celu "promowania osoby i środowiska ówczesnego Dysponenta Funduszu".
+Inspektorzy NIK zdiagnozowali to z mrożącą krew w żyłach precyzją: publiczne środki, które
+miały służyć interwencjom kryzysowym, zostały wykorzystane na "wytworzenie materiałów
+promujących konkretne partie polityczne i polityków". Mechanizm był prosty – partia
+organizowała fasadowe konkursy, a urzędnicy ministerialni celowo wywierali naciski na komisje
+konkursowe, zmuszając je do zawyżania punktacji dla lojalnych ideologicznie fundacji, takich jak
+Fundacja Mocni w Duchu, Stowarzyszenie Fidei Defensor czy Instytut Prawa Ustrojowego.
+
+PRZEPŁACONE PORTALE I MOWA NIENAWIŚCI. Gdzie trafiały miliony
+z kieszeni podatnika?
+
+Na co dokładnie partie polityczne wydawały pieniądze rzekomo przeznaczone na zwalczanie
+
+## Strona 2
+
+przestępczości i przemocy? NIK ujawnia skalę tego złodziejstwa. Podmioty polityczne tworzyły
+portale internetowe, które miały rzekomo służyć ofiarom, a w rzeczywistości były tubami
+propagandowymi wspierającymi konkretne partie polityczne.
+Twarde liczby obnażają ten proceder:
+  ●​ Na koncepcyjne i informatyczne opracowanie portalu Horyzonty.info wydatkowano z
+     Funduszu zawrotną kwotę 300 000 złotych. Niezależny biegły powołany przez NIK ocenił
+     rynkową wartość tej usługi na maksymalnie... 13,5 tys. zł.
+  ●​  Inna organizacja, Fundacja Centrum Pomocy Pokrzywdzonym i Prewencji
+      Przestępczości, zainkasowała z państwowej kasy 590 000 złotych na budowę i promocję
+      strony poznajfakty.pl. NIK wyliczył, że przepłacono w tym wypadku niemal 431 tysięcy
+      złotych.
+Co publikowano za te pieniądze? Zamiast infolinii ratunkowych dla ofiar czy porad prawnych dla
+niszczonych w rozwodach ojców, w szeregu artykułów finansowanych z tego źródła "ujawniono
+stwierdzenia, które mogą zostać zakwalifikowane jako tzw. mowa nienawiści". Partie polityczne,
+korzystając ze środków dla ofiar, opłacały swoich hejterów. Do tego doliczyć trzeba zakup
+luksusowego kampera (nieudokumentowanego co do faktycznego użycia na rzecz ofiar) czy
+organizację biegów i festiwali, które służyły wyłącznie jako tło do lansowania się lokalnych
+baronów partyjnych.
+
+FASADOWY LOBBING I KORUMPOWANIE TRZECIEGO SEKTORA
+
+Aby ten system mógł trwać legalnie, partie polityczne potrzebowały odpowiedniego prawa i
+milczącej zgody sektora obywatelskiego. Zbudowano więc ułudę transparentności.
+Jak udowadnia raport Fundacji im. Stefana Batorego, polska "Ustawa o działalności lobbingowej
+w procesie stanowienia prawa" z 2005 roku to kompletna fikcja i bubel prawny. Została
+napisana przez polityków celowo tak, by uniemożliwić realną kontrolę. Organizacje
+pozarządowe (NGO), kancelarie prawne i agencje doradcze w ogóle nie są traktowane jak
+lobbyści i nie ponoszą żadnych konsekwencji.
+Dzięki temu partie polityczne z obozu władzy (jakiejkolwiek by ona nie była) mogą wchodzić w
+zakulisowe, kuluarowe sojusze z wpływowymi organizacjami. NGO podsuwają politykom
+gotowe, restrykcyjne ustawy antyprzemocowe i poszerzone definicje "przemocy ekonomicznej",
+z których później same czerpią zyski poprzez wielomilionowe przetargi na obowiązkowe
+szkolenia, asysty i punkty konsultacyjne. W zamian organizacje te nigdy nie atakują realnych
+fundamentów władzy. To idealna symbioza – politycy zyskują wizerunek „twardych obrońców
+moralności”, a powiązane fundacje otrzymują państwowe przelewy i monopol na rynku.
+
+SAMORZĄDOWE KSIĘSTWA. System korupcji na dole drabiny
+
+Partie polityczne nie operują tylko w Warszawie. Ich struktury oplatają każdy samorząd. Władza
+centralna tworzy specjalne "programy osłonowe", za pomocą których miliony złotych (np. kwoty
+rzędu 3 milionów złotych na dofinansowanie projektów od 20 do 200 tys. zł dla jednego
+samorządu) są transferowane w dół drabiny.
+Gdzie trafiają te pieniądze? Do gmin i powiatów, na których czele stoją wójtowie, burmistrzowie i
+prezydenci namaszczeni przez partie polityczne. To oni na dole decydują o powoływaniu
+wieloosobowych, posłusznych Zespołów Interdyscyplinarnych. To oni rozdają posady dla
+zaprzyjaźnionych urzędników, kuratorów i członków Gminnych Komisji Rozwiązywania
+Problemów Alkoholowych. W lokalnych ośrodkach (takich jak prześwietlane wcześniej w
+śledztwie Łęczna, Cieszyn czy Białystok) aparat ten zatrudnia setki ludzi, budując lojalny
+
+## Strona 3
+
+elektorat partyjny.
+Władza centralna zabezpieczyła ten system na lata. W Rządowym Programie Przeciwdziałania
+Przemocy Domowej zagwarantowano, że każda, nawet najmniejsza i kompletnie nieefektywna
+gmina, dostanie ryczałtem 6 000 zł z budżetu państwa wyłącznie na „dofinansowanie
+funkcjonowania” papierowych zespołów interdyscyplinarnych. Partia opłaca lokalną biurokrację
+z naszych podatków, aby w roku wyborczym móc liczyć na wdzięczność swoich terenowych
+aparatczyków.
+
+KONKLUZJA
+
+Kiedy obywatel zderza się z niesprawiedliwą maszyną państwa – kiedy żona zakłada mężowi w
+procesie rozwodowym fałszywą „Niebieską Kartę”, a urzędnicy bez wahania stają po stronie
+oskarżyciela – wydaje mu się, że to wynik błędu, nadgorliwości lub głupoty jednego pracownika
+socjalnego.
+To tragiczna pomyłka. Polski system nie jest zepsuty. On działa dokładnie tak, jak zaplanowały
+to partie polityczne. „Niebieska Karta” i system przeciwdziałania przemocy to sprywatyzowane
+złote koryto. Dopóki system ten produkuje setki tysięcy diagnoz i wezwań, politycy mogą
+wyprowadzać z budżetu miliony złotych pod pretekstem niesienia pomocy, zasilając nimi
+zaprzyjaźnione spółdzielnie, opłacając kampanie partyjne i budując propagandowe portale.
+Partie nigdy nie naprawią tego prawa, ponieważ musieliby odciąć się od gigantycznego,
+politycznego bankomatu zbudowanego na zgliszczach polskich rodzin.

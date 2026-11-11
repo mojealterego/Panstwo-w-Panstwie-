@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-392b4e3feaf2115bce55020a",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-392b4e3feaf2115bce55020a/document.md",
+  "original_filenames": [
+    "LONDYŃSKA KROPLÓWKA I KOLONIZACJA PRAWA. Sigrid Ra... (1).pdf"
+  ],
+  "page_characters": [
+    2701,
+    3335,
+    1701
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "392b4e3feaf2115bce55020a2f48308fd5eefced06f55caa24eb23098ce5d67d",
+  "text_path": "documents/pdf-392b4e3feaf2115bce55020a/document.txt",
+  "text_sha256": "1e1bcc4cb539ce418b0ae29cb865590354fa06df07717a5551b493e3341ea136",
+  "topic": "Sigrid Rausing Trust: granty dla organizacji w Polsce"
+}

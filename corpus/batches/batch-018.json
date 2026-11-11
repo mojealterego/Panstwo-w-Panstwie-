@@ -1,0 +1,148 @@
+{
+  "author_review": {
+    "author_note": "User previously declared personal verification and prior publication of a portion of the series. Not automatically assigned to every file.",
+    "method": "author_declaration_in_prior_turn; not a new independent fact check",
+    "prior_publication": {
+      "individual_article_mapping": "not_provided",
+      "publication_urls": "not_provided",
+      "scope_ends_at_title": "Żyrandol przemysłu rozwodowego",
+      "status": "author_declares_part_previously_published"
+    },
+    "self_verified": true
+  },
+  "batch_id": "batch-018",
+  "canonical_total_documents": 120,
+  "canonical_total_pages": 582,
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "new_document_count": 10,
+  "new_unique_pages": 32,
+  "original_pdf_repo_dir": "corpus/originals/batch-018/",
+  "originals": [
+    {
+      "document_id": "pdf-85d8cdb26dd75f6892bdde74",
+      "filename": "INKUBATOR KORUPCJI I PRYWATNE FOLWARKI_.pdf",
+      "git_blob_sha": "a713bdb49ddcc8b1b6bfabcfa9827eda743478f6",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 98038,
+      "source_sha256": "85d8cdb26dd75f6892bdde747328dcaa0263f91821d28d818dc03e70a374a64c",
+      "text_sha256": "8f0cf0305f6a8c408f9cb2af048789816fd4609bae0daf4c555a958a171ada6b",
+      "topic": "Narodowy Instytut Wolności i granty NIW-CRSO"
+    },
+    {
+      "document_id": "pdf-d85203d7ca4e40f5029da244",
+      "filename": "KATEDRA HIPOKRYZJI I WYKAZU STATYSTYK__.pdf",
+      "git_blob_sha": "3a6d8a63a3bfd482cfdb5988cc45b1ef92f92116",
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 111127,
+      "source_sha256": "d85203d7ca4e40f5029da244b6aca47c55b802f7f0fe15d1db7cf5681143ec23",
+      "text_sha256": "6a2705bccdb5aaa15937a91a12e0a25c715f9c408ec7babf032eb9843f1e1185",
+      "topic": "Centrum Praw Kobiet: sprawy pracownicze i sprawozdania finansowe"
+    },
+    {
+      "document_id": "pdf-ab5218ab042a48599af55f1e",
+      "filename": "KORPORACJA DOBROCZYNNOŚCI.pdf",
+      "git_blob_sha": "3d2fe8a500ac34734882ec0c8823982f20d1fbd1",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 96065,
+      "source_sha256": "ab5218ab042a48599af55f1e369fe57312d7d7129c1576f7bc6d2bcb474784e7",
+      "text_sha256": "1a1ebb88f94791a7dc1a541bcb3a58516bcb1f0e4139118be224fc35561436b6",
+      "topic": "Rzecznik Praw Dziecka i współpraca z organizacjami pozarządowymi"
+    },
+    {
+      "document_id": "pdf-f6ad5064ceec39407e8f0d68",
+      "filename": "KORYTO ZAMIAST POLITYKI SPOŁECZNEJ_.pdf",
+      "git_blob_sha": "32cecfe82a7902f7d57928de0a53193d21a04811",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 87874,
+      "source_sha256": "f6ad5064ceec39407e8f0d68a40897fd0cfc825998f07fd1555de2b30620aa87",
+      "text_sha256": "5bf509d2bc677e1d820d5f633497222072fee1086845b8975cafd384131270e7",
+      "topic": "Ministerstwo Rodziny i programy publiczne"
+    },
+    {
+      "document_id": "pdf-392b4e3feaf2115bce55020a",
+      "filename": "LONDYŃSKA KROPLÓWKA I KOLONIZACJA PRAWA. Sigrid Ra... (1).pdf",
+      "git_blob_sha": "ba2c6251ec1c68bba38f2d56dd78eabb3deafe56",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 97365,
+      "source_sha256": "392b4e3feaf2115bce55020a2f48308fd5eefced06f55caa24eb23098ce5d67d",
+      "text_sha256": "1e1bcc4cb539ce418b0ae29cb865590354fa06df07717a5551b493e3341ea136",
+      "topic": "Sigrid Rausing Trust: granty dla organizacji w Polsce"
+    },
+    {
+      "document_id": "pdf-516e0ae9c96da6816ed4d89d",
+      "filename": "LONDYŃSKI KARTEL FILANTROPIJNY__.pdf",
+      "git_blob_sha": "0a6d6c57aacf470ac2dcc85a621bf77b8f34b4dc",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 100152,
+      "source_sha256": "516e0ae9c96da6816ed4d89deb37f569031d32d2af682f4dbf15236813504ff2",
+      "text_sha256": "52f4dd975ff457fd7d81ed77b2bf9b2c512a8c0b01b79ccd901afb4edd0dbb2f",
+      "topic": "Sigrid Rausing Trust: finansowanie i bezpieczeństwo cyfrowe"
+    },
+    {
+      "document_id": "pdf-47f43b7ea0b3e95287a3c59e",
+      "filename": "PATRIOTYZM JAKO PRZYKRYWKA DLA ZŁODZIEJSTWA_.pdf",
+      "git_blob_sha": "1c87ce4be7d597d61e0bc295e17c464cf6044227",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 98532,
+      "source_sha256": "47f43b7ea0b3e95287a3c59e2506f7038bea21e545820a9b746ae2a8ea129830",
+      "text_sha256": "6e2577ce8f9e529530acf600044df78ad0ed7dd28254228a5a786e4d4fe2ed21",
+      "topic": "Fundacja Rozwoju Centrum Macierz Polonii: rozliczenia dotacji"
+    },
+    {
+      "document_id": "pdf-32116acfe411918a71189fd9",
+      "filename": "POKĄTNA ARCHITEKTURA DESTRUKCJI.__.pdf",
+      "git_blob_sha": "b9ada143110d43d3ab819cefebd4b8db7401de0a",
+      "pages": 4,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 111370,
+      "source_sha256": "32116acfe411918a71189fd989592e62f0f0646b10f78f4bdc142d08ef8c7010",
+      "text_sha256": "0e9ebdec9292f57fc781c2759b3d2fb8f2e99ae92deddcedc3fa156feb667a69",
+      "topic": "Fundusz Feministyczny: model grantowy i finanse"
+    },
+    {
+      "document_id": "pdf-5559ea0d3492750c37b23923",
+      "filename": "POLITYCZNE PASOŻYTY.__.pdf",
+      "git_blob_sha": "19b1e49fad853b630520d949a8d89c513e51a864",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 93796,
+      "source_sha256": "5559ea0d3492750c37b239237c20af6793a588a71e6dab210ea0626993254551",
+      "text_sha256": "a757bc57ac615457c1ec68d9d14d7123504a5921e91dd2250e474d4230a6ef32",
+      "topic": "Fundusz Sprawiedliwości i polityka partyjna"
+    },
+    {
+      "document_id": "pdf-39bb76d5e7e1eaaac93c23df",
+      "filename": "PRALNIA DZIENNIKARSKICH SUMIEŃ.pdf",
+      "git_blob_sha": "c569c588e650754c0f7d22491b8368a8c02e2d65",
+      "pages": 3,
+      "previously_indexed": false,
+      "quality_status": "extracted",
+      "size_bytes": 111907,
+      "source_sha256": "39bb76d5e7e1eaaac93c23df445a886f427b589a3166cd2e9ea085dfb0fbad6e",
+      "text_sha256": "cd5f5356b4947d6ac3d3de5c3977ab226372c938c8b16cdad788026b5d1ce8ae",
+      "topic": "Program Civitates i finansowanie mediów"
+    }
+  ],
+  "previously_indexed_count": 0,
+  "raw_pdf_in_repo": true,
+  "source_count": 10,
+  "source_page_count": 32,
+  "source_pdf_sha256_verified": true,
+  "total_receipts": 125
+}

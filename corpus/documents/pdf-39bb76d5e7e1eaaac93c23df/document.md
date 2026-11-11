@@ -1,0 +1,129 @@
+# pdf-39bb76d5e7e1eaaac93c23df
+
+## Strona 1
+
+PRALNIA DZIENNIKARSKICH SUMIEŃ.
+Civitates: Jak europejski syndykat
+anonimowych miliarderów kupuje
+polskie media i cenzuruje debaty
+
+Złota zasada prawdziwego dziennikarstwa śledczego brzmi: jeśli jakaś redakcja lub fundacja
+najgłośniej krzyczy o swojej niezależności, natychmiast sprawdź, przez jakie zagraniczne konta
+przepuszczane są jej pensje. Polski rynek organizacji strażniczych i mediów „obywatelskich”
+uwielbia kreować się na oblężoną twierdzę, która rzekomo utrzymuje się wyłącznie z
+dobrowolnych datków od czytelników. To kłamstwo o gigantycznych proporcjach.
+Dokopaliśmy się do samego serca finansowej pajęczyny. Prawdziwym operatorem, który z
+tylnego siedzenia finansuje polskie media i organizacje walczące m.in. o ugruntowanie
+opresyjnego systemu polityki społecznej, jest mechanizm o nazwie Civitates. To inicjatywa
+ukryta pod płaszczykiem Sieci Europejskich Fundacji (Network of European Foundations –
+NEF).
+Ten gigantyczny, zrzeszający zachodni kapitał fundusz został stworzony w jednym, skrajnie
+cynicznym celu: aby prać intencje polityczne i kupować całe redakcje w Europie
+Środkowo-Wschodniej bez ujawniania tożsamości głównych mocodawców. Oto bezlitosne
+śledztwo obnażające, jak zagraniczna arystokracja finansowa wykupiła polski obieg
+informacyjny.
+
+MECHANIZM „DE-RISKINGU”. Oficjalne przyznanie się do prania
+wpływów
+
+Żeby zrozumieć, czym jest Civitates, nie musimy snuć teorii spiskowych. Wystarczy wczytać się
+w ich własne, wewnętrzne dokumenty raportujące strategię. Inicjatywa Civitates, hostowana w
+Brukseli przez NEF, została zbudowana jako tzw. fundusz połączony (pooled fund). Organizacja
+ta wprost przyznaje, dlaczego zachodni miliarderzy zrzucają się do wspólnego worka, zamiast
+bezpośrednio przelewać pieniądze dziennikarzom na Wschodzie.
+W raporcie rocznym czytamy czarno na białym wstrząsające wyznanie: wspieranie niezależnych
+mediów bywa politycznie drażliwe i wywołuje awersję do ryzyka u darczyńców. Dlatego Civitates
+stosuje wspólne działanie, które ma zminimalizować to ryzyko. Jak argumentują sami twórcy,
+otrzymanie dotacji z połączonego funduszu „zapobiega postrzeganiu dziennikarzy jako
+narzędzia w rękach konkretnego darczyńcy i jego agendy”.
+To absolutny dowód na zjawisko wyrafinowanego prania reputacji (reputation laundering).
+Zagraniczne trusty doskonale wiedzą, że gdyby bezpośrednio przelały miliony euro
+konkretnemu polskiemu portalowi na atakowanie rządu czy wspieranie określonych ustaw
+ideologicznych, portal ten zostałby natychmiast zdemaskowany jako zagraniczna agentura
+wpływu. Wpłacają więc pieniądze do „bezstronnej” brukselskiej pralki o nazwie Civitates, a ta z
+kolei przelewa „czyste” euro na konta polskich aktywistów. Mechanizm ten pozwala obcym
+mocarstwom kapitałowym kupować w Polsce wpływy zachowując pełne plausible deniability
+
+## Strona 2
+
+(wiarygodne zaprzeczenie).
+
+KUPOWANIE REDAKCJI NA WŁASNOŚĆ. Złota kroplówka dla
+OKO.press
+
+Jak ten mechanizm sprawdza się w polskiej praktyce? Głównym beneficjentem i tubą
+informacyjną, która korzysta z hojności Civitates, jest portal OKO.press (Fundacja Ośrodek
+Kontroli Obywatelskiej „OKO”). Portal ten, wmawiający swoim czytelnikom, że utrzymuje się z
+uciułanych zbiórek publicznych, w rzeczywistości jest potężnie uwarunkowany zagranicznymi
+zastrzykami gotówki z programu Civitates.
+Wczytajmy się w twarde księgi rachunkowe portalu:
+  ●​ W 2020 r. w bilansie fundacji widnieje kwota aż 457 349,97 PLN pochodząca z grantu
+      Civitates Journalism.
+  ●​ W kolejnych sprawozdaniach dotacje te urosły do kwoty 542 400 PLN.
+  ●​ W 2024 roku, gdy fundacja wydająca OKO.press odnotowała drastyczny wzrost
+     przychodów, ponownie zasilono ją z Brukseli. Najwyższa pojedyncza dotacja, ratująca
+     budżet redakcji, wyniosła 476 000 PLN i pochodziła wprost z programu Civitates
+      Journalism 2024.
+Co Civitates kupuje za te pieniądze? Loalność. Dokumenty strategiczne wskazują, że program
+oferuje tzw. core funding (finansowanie działalności rdzennej, operacyjnej), rozłożone na wiele
+lat. Oznacza to, że zagraniczny syndykat nie płaci za jeden konkretny artykuł. On bierze
+redakcję na stały, systemowy żołd, opłacając jej serwery, pensje i rozwój. W ten sposób buduje
+się media, które w sprawach kluczowych dla ich mocodawców (takich jak obrona opresyjnych
+ustaw antyprzemocowych powiązanych z NGO, uciszanie krytyków ideologii gender czy
+atakowanie suwerenności prawnej państwa) zawsze zajmą odpowiednie stanowisko.
+
+CYFROWY PARALIŻ WYBORCZY. Panoptykon na usługach
+brukselskiego funduszu
+
+Civitates nie poprzestaje na mediach. Drugim, potężnym ramieniem ich ingerencji w polski
+system jest Fundacja Panoptykon, mieniąca się niezależnym obrońcą prywatności w sieci.
+Sprawozdania finansowe Panoptykonu demaskują skalę uzależnienia od Network of European
+Foundations (NEF) i programu Civitates. Zapisy w księgach powalają:
+  ●​  Dotacja z funduszu Civitates SF2: 609 387,67 PLN.
+  ●​  Dotacja z Civitates na rok 2024: 515 100,00 PLN.
+W jakim celu zagraniczny kapitał pompuje w Panoptykon ponad pół miliona złotych rocznie?
+Odpowiedzi dostarczają same raporty fundacji. Panoptykon oficjalnie przyznaje, że projekt
+uruchomiony wiosną 2019 roku, finansowany przez Network of European Foundations w
+ramach programu Civitates, miał "idealny timing", ponieważ zbiegł się z polskim "triatlonem
+wyborczym": wyborami samorządowymi (2018), parlamentarnymi i europejskimi (2019) oraz
+prezydenckimi (2020).
+Zagraniczna organizacja sfinansowała projekt uderzający w mikrotargetowanie polityczne i
+reklamy internetowe dokładnie w momencie, w którym Polacy szli do urn. To bezpośrednia,
+finansowana z zewnątrz operacja wywierania wpływu na mechanizmy wyborcze w suwerennym
+państwie. Aktywiści opłacani z Brukseli roszczą sobie prawo do kontrolowania algorytmów i
+przebiegu polskich kampanii.
+
+## Strona 3
+
+GEOPOLITYCZNE TARGETOWANIE. Kogo uderza Civitates?
+
+Jeśli ktoś ma jeszcze wątpliwości co do politycznego, wyrachowanego charakteru tego
+funduszu, wystarczy spojrzeć na mapę naborów. Programy Civitates nie są otwarte dla
+każdego. W najnowszym, ogłoszonym otwartym naborze „Civitates Media Open Call”,
+organizacja zaprasza do ubiegania się o granty (do 160 000 euro na organizację) wyłącznie
+media zarejestrowane w ściśle wyselekcjonowanej grupie państw: na Węgrzech, w Polsce, we
+Włoszech, w Hiszpanii, w Bułgarii, na Słowacji i w Chorwacji.
+Co łączy te państwa? To kraje Europy Środkowej i Południowej, w których u władzy pozostawały
+(lub pozostają) rządy o profilu konserwatywnym, broniące tradycyjnego modelu rodziny i
+opierające się unijnemu dyktatowi, z którymi unijne elity toczą permanentne spory o
+„praworządność”.
+Civitates to zbrojne, finansowe ramię Brukseli do walki politycznej. Poprzez celowe pompowanie
+milionów euro (np. 160 tys. euro na redakcję) w lokalne media i środowiska antywłączające,
+tworzy się tam sztuczną opozycję medialną. Te same fundowane organizacje z kolei zaciekle
+wspierają opresyjne przepisy (takie jak fałszywe używanie "Niebieskiej Karty" w sprawach o
+dzieci), blokując wszelką oddolną dyskusję, która nie pasuje do europejskiej, progresywnej linii.
+
+KONKLUZJA: Wschodnioeuropejskie kondominium
+
+Analiza programu Civitates i Network of European Foundations obala fundamentalny mit o
+„niezależnym dziennikarstwie” i „strażnikach cyfrowych” w Polsce. OKO.press oraz Panoptykon
+nie są żadnymi niezależnymi bytami utrzymującymi się z groszowych zrzutek obywateli. Są to
+precyzyjnie zadaniowane filie brukselskiej i londyńskiej arystokracji kapitałowej.
+Zastosowany przez Civitates model finansowania udowadnia, że korupcja ideologiczna
+ewoluowała. Dziś nikt nie kupuje dziennikarza walizką pieniędzy – dzisiaj tworzy się zrzeszenie
+fundacji, zrzuca się majątki z rajów podatkowych do wspólnego koszyka, a następnie oficjalnie
+przyznaje się „granty instytucjonalne” idące w setki tysięcy złotych (476 tys. dla OKO.press, 515
+tys. dla Panoptykonu). Mechanizm ten pozwala ukryć prawdziwych mocodawców i stworzyć
+pozory społecznego mandatu. W rzeczywistości jest to brutalne przejmowanie suwerennej
+debaty publicznej przez obcy kapitał, dla którego Polska jest jedynie podrzędnym rynkiem zbytu
+dla globalnej propagandy.

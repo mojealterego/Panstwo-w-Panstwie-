@@ -1,0 +1,158 @@
+# pdf-32116acfe411918a71189fd9
+
+## Strona 1
+
+POKĄTNA ARCHITEKTURA
+DESTRUKCJI. Jak Fundusz
+Feministyczny (FemFund) za
+zagraniczne miliony kupuje polskie
+sumienia i monopolizuje walkę o rodzinę
+
+Współczesne rewolucje obyczajowe i głębokie zmiany w strukturach społecznych państw
+narodowych nie rodzą się na ulicach w wyniku spontanicznych protestów. Są one precyzyjnie
+projektowane i finansowane z przeszklonych wieżowców w Londynie i Brukseli. Kiedy polski
+sędzia, urzędnik Ośrodka Pomocy Społecznej czy członek Zespołu Interdyscyplinarnego
+podejmuje decyzję o wejściu z butami w życie prywatne rodziny, najczęściej realizuje wytyczne
+opracowane przez wyspecjalizowany trzeci sektor.
+Jednym z najważniejszych, a zarazem najbardziej zamaskowanych pasów transmisyjnych dla
+tego procederu w Polsce jest Fundusz Feministyczny (FemFund). Ta zlokalizowana w
+Warszawie fundacja (zarejestrowana pod numerem KRS: 0000714824) funkcjonuje pod maską
+wspierania oddolnych ruchów kobiecych. W rzeczywistości jednak, co bezlitośnie obnaża
+analiza sprawozdań finansowych, statutów oraz mechanizmów grantowych, FemFund to
+bezwzględny monopolista. Korzystając z milionowych, nieopodatkowanych dotacji od
+zagranicznych korporacji i politycznych trustów, fundacja ta stworzyła sieć uzależnionych od
+siebie lokalnych aktywistów, którzy bezpośrednio napędzają przemysł „Niebieskich Kart” i
+blokują jakiekolwiek reformy chroniące prawa ojców w sądach rodzinnych.
+Oto bezkompromisowe śledztwo obnażające finanse, mechanizmy i zakulisowe wpływy
+FemFundu.
+
+STRUMIENIE Z RAJÓW PODATKOWYCH. Kto naprawdę płaci za
+polski aktywizm?
+
+Aby organizacje pozarządowe mogły skutecznie paraliżować polski wymiar sprawiedliwości
+swoimi teoriami, potrzebują gigantycznego, stabilnego zaplecza finansowego. FemFund nie
+utrzymuje się z datków polskich obywateli. Analiza źródeł przychodów tej fundacji ujawnia, że
+jest ona niemal całkowicie zasilana przez potężny, zagraniczny kapitał polityczny.
+Głównym płatnikiem tego procederu jest brytyjski Sigrid Rausing Trust (SRT), prowadzony przez
+spadkobierców globalnego monopolu opakowaniowego Tetra Pak. Z oficjalnych rejestrów SRT
+wynika, że tylko w latach 2017–2024 FemFund otrzymał od nich zawrotną kwotę aż 570 000
+funtów (około 2,8 miliona złotych). Te pieniądze płyną do Warszawy jako tzw. "dotacje
+instytucjonalne".
+Na tym jednak nie koniec. Do kasy FemFundu miliony euro i dolarów pompują inne potężne,
+globalne podmioty:
+  ●​ Open Society Foundations (OSF) – imperium finansowe George'a Sorosa,
+     ukierunkowane na głęboką inżynierię społeczną w Europie Środkowo-Wschodniej.
+  ●​ Oak Foundation oraz Mama Cash – zagraniczne trusty wspierające skrajnie lewicowe i
+
+## Strona 2
+
+feministyczne agendy.
+  ●​ Fundacja im. Stefana Batorego – krajowy operator, który zasilił FemFund kwotą 150
+     000 złotych na "wzmocnienie ruchu".
+  ●​  Korporacje odzieżowe i kosmetyczne: CHANEL oraz Levi Strauss.
+Mamy do czynienia z rażącą asymetrią. Podczas gdy polskie państwo boryka się z kryzysami
+budżetowymi w sferze pomocy społecznej, prywatna fundacja dysponuje milionami z
+zagranicznych rajów podatkowych, co pozwala jej na bezkarne i masowe kupowanie wpływów
+w terenie.
+
+ILUZJA UCZESTNICTWA I PUSTKA W PORTFELU. Jak FemFund
+kontroluje i dzieli pieniądze
+
+FemFund chwali się w swoich materiałach unikalnym, „partycypacyjnym modelem przyznawania
+grantów”. Wmawia się opinii publicznej, że to same wnioskodawczynie w drodze
+demokratycznego głosowania decydują, kto otrzyma wsparcie.
+To ordynarna, wizerunkowa manipulacja. Prawda o naborze wniosków (m.in. w ramach
+programów "MiniGranty" do 5700 zł, "Pogotowie Feministyczne" do 3000 zł czy "Granty Mocy"
+do 80 000 zł) jest skrajnie inna. Zgodnie z oficjalnym regulaminem, pierwszy i kluczowy etap
+selekcji wniosków jest w 100% kontrolowany i realizowany przez mały, hermetyczny zespół
+FemFundu. To urzędniczki fundacji decydują, które wnioski przejdą dalej, a kryteria wyboru
+oparte są na twardej, ideologicznej selekcji. Do drugiego etapu dopuszczane są wyłącznie te
+grupy, które bezkrytycznie realizują radykalną agendę fundacji (promującą queer, niebinarność,
+transseksualizm czy walkę z tradycyjnym modelem rodziny). Środki płyną m.in. do
+stowarzyszeń takich jak "Dziewuchy Dziewuchom" (wsławionych awanturami o znieważenie
+uczuć religijnych i rejestracją znaku handlowego).
+Jednak ten finansowany z zagranicy kolos stoi na glinianych nogach. FemFund od lat marzy o
+"pełnej autonomii" i utrzymywaniu się ze zbiórek społecznych (deklarując, że potrzebuje 7
+tysięcy osób płacących po 40 zł miesięcznie). Ten plan poniósł sromotną klęskę. Polacy nie
+chcą płacić na radykalne bojówki – z odpisu 1,5% podatku w jednym z ostatnich okresów
+fundacji udało się zebrać marne 57 tysięcy złotych!
+Efekt? Finansowa panika. FemFund podjął oficjalną decyzję, że w 2026 roku całkowicie
+likwiduje swój flagowy program "MiniGranty". Powód? Brak stabilności finansowej i
+całkowite, niewolnicze uzależnienie od humoru i przelewów od zagranicznych korporacji
+(Chanel) i trustów (Sigrid Rausing). Bez zagranicznej kroplówki ta rewolucja natychmiast
+bankrutuje.
+
+FINANSOWA ANOMALIA. Prawie 180 tysięcy "kosztów finansowych"
+w KRS
+
+Najciekawsze brudy i machlojki kryją się jednak zawsze w dokumentach księgowych, które
+fundacje zmuszone są składać do Krajowego Rejestru Sądowego. Porównanie sprawozdań
+finansowych FemFundu za lata 2021–2023 obnaża gigantyczną anomalię, która powinna
+natychmiast stać się przedmiotem kontroli skarbowej.
+Rok obrachunkowy     Zysk/Strata netto (PLN) Koszty finansowe     Główny zagraniczny
+                                         (PLN)                   płatnik
+2021               403 001,17            0,00                    Sigrid Rausing Trust
+2022               150 826,35            0,00                    Sigrid Rausing Trust
+
+## Strona 3
+
+Rok obrachunkowy     Zysk/Strata netto (PLN) Koszty finansowe     Główny zagraniczny
+                                         (PLN)                   płatnik
+2023               21 690,25           177 049,74             Sigrid Rausing Trust
+Spójrzmy na te twarde dane z bilansów. W 2021 i 2022 roku koszty finansowe fundacji wynosiły
+równe 0,00 PLN. Jednak w roku 2023 zysk netto fundacji drastycznie tąpnął z ponad 150
+tysięcy do zaledwie 21 tysięcy złotych. Dlaczego? Ponieważ w pozycji "Koszty finansowe" nagle
+pojawiła się astronomiczna kwota 177 049,74 PLN!
+Jak to możliwe, że organizacja pozarządowa, która nie prowadzi fabryk, nie zaciąga kredytów
+hipotecznych, a jedynie dystrybuuje gotowe, bezwrotne granty, generuje w ciągu roku blisko 180
+tysięcy złotych czystych kosztów finansowych? To rażąca anomalia księgowa. Może to
+świadczyć o agresywnej optymalizacji podatkowej, ukrywaniu zysków, spekulacjach walutowych
+na zagranicznych przelewach w funtach i dolarach, bądź o cichym transferowaniu pieniędzy na
+konta powiązanych podmiotów. Statut fundacji (§ 8) wprost pozwala im na tworzenie "funduszy
+rezerwowych z wygospodarowanej nadwyżki przychodów nad kosztami". Jest to idealne
+narzędzie do ukrywania rzeczywistego majątku przed oczami opinii publicznej i organów
+kontrolnych Skarbu Państwa.
+
+MONOPOL ROZWODOWY I WOJNA Z OJCAMI. Jak FemFund wspiera
+niszczenie rodzin
+
+FemFund nie działa w próżni. Wykorzystując swoje potężne unijne i brytyjskie dotacje, fundacja
+ta aktywnie finansuje i wspiera organizacje bezpośrednio uwikłane w polski system "Niebieskich
+Kart" i spraw rozwodowych.
+Pieniądze z FemFundu płyną m.in. do lokalnych oddziałów Fundacji Centrum Praw Kobiet
+oraz Fundacji Feminoteka. Te organizacje to twardzi gracze na rynku rozwodowym. To one,
+wchodząc w skład Zespołów Interdyscyplinarnych (np. przy MOPS w Warszawie-Mokotów),
+mają bezpośredni wpływ na kształtowanie procedur.
+Feminoteka wydaje publikacje takie jak "Genderowe podstawy przemocy wobec dziewcząt", w
+których wprost forsuje ideologiczny dogmat, że przemoc ma płeć (sprawcą jest zawsze
+mężczyzna, ofiarą kobieta). Aby ten dogmat utrzymać i wygenerować odpowiednie statystyki dla
+zagranicznych sponsorów, organizacje te aktywnie lobbowały w parlamencie za
+wprowadzeniem do ustawy o przeciwdziałaniu przemocy domowej w 2023 roku nieostrych
+pojęć "przemocy ekonomicznej" i "cyberprzemocy".
+Dzięki temu adwokaci rozwodowi zyskali bezkarną broń. Wystarczy, że w toku sprawy o podział
+majątku kobieta oskarży męża o "wydzielanie pieniędzy" (czyli przemoc ekonomiczną), a
+urzędnicy z grupy diagnostyczno-pomocowej z automatu zakładają "Niebieską Kartę". Sąd
+rodzinny, widząc taką kartę, oraz posiłkując się uwikłanymi w układy opiniami Opiniodawczych
+Zespołów Sądowych Specjalistów (OZSS), natychmiast odsuwa ojca od opieki nad dziećmi.
+W tym samym czasie, te same feministyczne organizacje zrzeszone wokół FemFundu i
+Fundacji Batorego aktywnie blokują w Sejmie i Senacie jakiekolwiek obywatelskie projekty
+ustaw (np. druk senacki 63) dążące do wprowadzenia pieczy naprzemiennej i penalizacji
+alienacji rodzicielskiej. Dlaczego? Ponieważ bezkonfliktowy rozwód i równe prawa obojga
+rodziców oznaczałyby natychmiastowy krach tego całego biznesu rozwodowo-terapeutycznego,
+z którego te organizacje żyją.
+
+KONKLUZJA
+
+## Strona 4
+
+Fundusz Feministyczny (FemFund) to nie jest niewinna organizacja charytatywna. To wysoce
+wyspecjalizowany, supranarodowy holding grantowy, który za miliony funtów od zagranicznych
+miliarderów i unijnych komisarzy kolonizuje polski system pomocy społecznej.
+Zabezpieczając interesy radykalnych grup i monopolistów rozwodowych pokroju CPK czy
+Feminoteki, FemFund bezpośrednio współtworzy opresyjną machinę „Niebieskich Kart”.
+Dodatkowo, niewyjaśniona eksplozja kosztów finansowych w ich bilansach na kwotę blisko 180
+tysięcy złotych oraz nagłe zlikwidowanie flagowego programu MiniGrantów na rok 2026
+dowodzą, że pod płaszczykiem transparentności kryje się strefa finansowego mroku i całkowitej
+zależności od zagranicznych mocodawców. W tym biznesie polskie rodziny i ich dramaty są
+wyłącznie paliwem do generowania statystyk, niezbędnych do utrzymania tego lukratywnego,
+rewolucyjnego eldorado.

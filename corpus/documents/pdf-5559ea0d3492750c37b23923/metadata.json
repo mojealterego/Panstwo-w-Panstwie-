@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-5559ea0d3492750c37b23923",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-5559ea0d3492750c37b23923/document.md",
+  "original_filenames": [
+    "POLITYCZNE PASOŻYTY.__.pdf"
+  ],
+  "page_characters": [
+    2694,
+    3479,
+    1370
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "5559ea0d3492750c37b239237c20af6793a588a71e6dab210ea0626993254551",
+  "text_path": "documents/pdf-5559ea0d3492750c37b23923/document.txt",
+  "text_sha256": "a757bc57ac615457c1ec68d9d14d7123504a5921e91dd2250e474d4230a6ef32",
+  "topic": "Fundusz Sprawiedliwości i polityka partyjna"
+}

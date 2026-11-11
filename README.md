@@ -53,7 +53,7 @@ AGENTS.md                       # reguły dla agentów AI
 
 ## Stan przyjęcia źródeł (2026-11-11)
 
-**110 unikatowych PDF-ów / 550 stron** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **115 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały PDF partii 015–017 zapisano bajtowo w `corpus/originals/batch-015/`, `corpus/originals/batch-016/` i `corpus/originals/batch-017/`; oryginały starszych partii pozostają w odrębnych archiwach Biblioteki.
+**120 unikatowych PDF-ów / 582 strony** w kanonicznym `corpus/` (wg SHA-256 bajtów źródłowych). Łącznie **125 rekordów przyjęcia** w `corpus/receipts.jsonl`. Oryginały PDF partii 015–018 zapisano bajtowo w `corpus/originals/batch-015/`, `corpus/originals/batch-016/` i `corpus/originals/batch-017/` oraz `corpus/originals/batch-018/`; oryginały starszych partii pozostają w odrębnych archiwach Biblioteki.
 
 - **batch-001:** 10 oryginałów, 72 strony — [raport](docs/batches/batch-001.md).
 - **batch-002:** 5 dostępnych oryginałów, 15 stron (3 nowe dokumenty, 9 nowych unikatowych stron) — [raport](docs/batches/batch-002.md).
@@ -72,6 +72,7 @@ AGENTS.md                       # reguły dla agentów AI
 - **batch-015:** 5 PDF-ów, 18 stron; oryginały i pełne teksty dodane do repozytorium; archiwum ZIP w Bibliotece — [raport](docs/batches/batch-015.md).
 - **batch-016:** 10 PDF-ów, 46 stron; oryginały i pełne teksty dodane do repozytorium; archiwum ZIP w Bibliotece — [raport](docs/batches/batch-016.md).
 - **batch-017:** 10 oryginałów, 31 stron; 9 nowych dokumentów, 28 stron kanonicznych, 1 dokładny duplikat PDF z dwiema zachowanymi nazwami — [raport](docs/batches/batch-017.md). Weryfikację i wcześniejszą publikację części materiałów zadeklarował autor.
+- **batch-018:** 10 PDF-ów, 32 strony, 10 nowych źródeł; zachowano oryginały binarne, teksty stronicowane i sumy kontrolne — [raport](docs/batches/batch-018.md). Deklaracja osobistej weryfikacji autora oddzielona od niezależnej kontroli źródeł.
 - **Niedostarczone:** PDF 53 oraz sloty 01–05 partii 002; nie są uwzględnione w indeksie.
 
 Wszystkie twierdzenia źródłowe mają status `unverified_source_material`. Publiczne repozytorium nie jest potwierdzeniem zarzutów.

@@ -1,0 +1,26 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-32116acfe411918a71189fd9",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-32116acfe411918a71189fd9/document.md",
+  "original_filenames": [
+    "POKĄTNA ARCHITEKTURA DESTRUKCJI.__.pdf"
+  ],
+  "page_characters": [
+    2632,
+    3108,
+    3294,
+    893
+  ],
+  "page_count": 4,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "32116acfe411918a71189fd989592e62f0f0646b10f78f4bdc142d08ef8c7010",
+  "text_path": "documents/pdf-32116acfe411918a71189fd9/document.txt",
+  "text_sha256": "0e9ebdec9292f57fc781c2759b3d2fb8f2e99ae92deddcedc3fa156feb667a69",
+  "topic": "Fundusz Feministyczny: model grantowy i finanse"
+}

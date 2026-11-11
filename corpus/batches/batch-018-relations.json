@@ -1,0 +1,6 @@
+{
+  "batch_id": "batch-018",
+  "exact_page_duplicates": [],
+  "method": "5-token shingles; overlap Jaccard >=0.60 or containment >=0.85; no discard",
+  "relations": []
+}

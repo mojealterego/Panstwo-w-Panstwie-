@@ -1,0 +1,25 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-47f43b7ea0b3e95287a3c59e",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-47f43b7ea0b3e95287a3c59e/document.md",
+  "original_filenames": [
+    "PATRIOTYZM JAKO PRZYKRYWKA DLA ZŁODZIEJSTWA_.pdf"
+  ],
+  "page_characters": [
+    2594,
+    3257,
+    2152
+  ],
+  "page_count": 3,
+  "provenance_note": "Original PDF preserved unchanged; author declaration is not an independent adjudication of claims.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "47f43b7ea0b3e95287a3c59e2506f7038bea21e545820a9b746ae2a8ea129830",
+  "text_path": "documents/pdf-47f43b7ea0b3e95287a3c59e/document.txt",
+  "text_sha256": "6e2577ce8f9e529530acf600044df78ad0ed7dd28254228a5a786e4d4fe2ed21",
+  "topic": "Fundacja Rozwoju Centrum Macierz Polonii: rozliczenia dotacji"
+}
