@@ -1,0 +1,44 @@
+[
+  {
+    "page": 3,
+    "rows": [
+      [
+        "Rodzaj wydatku",
+        "Wydatek z Fundacji",
+        "Rzeczywista wartość\nrobót",
+        "Przepłacono"
+      ],
+      [
+        "Tymczasowe baraki",
+        "591,6 tys. zł",
+        "60 tys. zł",
+        "530,6 tys. zł"
+      ],
+      [
+        "Ogrodzenie placu",
+        "305 tys. zł",
+        "75 tys. zł",
+        "230 tys. zł"
+      ],
+      [
+        "Wyposażenie sali\nwidowiskowej",
+        "4 770 tys. zł",
+        "3 847,4 tys. zł",
+        "922,6 tys. zł"
+      ],
+      [
+        "Platformy garażowe",
+        "984 tys. zł",
+        "554,7 tys. zł",
+        "429,3 tys. zł"
+      ],
+      [
+        "RAZEM",
+        "",
+        "",
+        "2 112,5 tys. zł"
+      ]
+    ],
+    "table_number": 1
+  }
+]

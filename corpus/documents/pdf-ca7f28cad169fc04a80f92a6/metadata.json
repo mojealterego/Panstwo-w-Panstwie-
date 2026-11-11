@@ -1,0 +1,34 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-ca7f28cad169fc04a80f92a6",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-ca7f28cad169fc04a80f92a6/document.md",
+  "original_filenames": [
+    "Twierdza Cieszyn_ Urzędnicza Hipokryzja i Propagan...PDF"
+  ],
+  "page_characters": [
+    3765,
+    3567,
+    3533,
+    3623,
+    107
+  ],
+  "page_count": 5,
+  "page_sha256": [
+    "95c76802524ca806643c51204462cd512d01f8707368cf94eb4af7ac6cc039f4",
+    "b9bc3b0c05c159f614cb4c8090d6216d2492a82e64fd2fb79cdc59bd30a993b4",
+    "c536fdeb449dd30c5bb61e6d61f4b3cf4bd60e51d66ba269f396ed3c40e343f0",
+    "38432a914208bf787b05c562b33123b5027024eb7bf64fd538d59b8f88fece33",
+    "d68c9d9aa5f1faef171c7685eb5d4e09c28cbea6179b79f4c95d9f888554f4c3"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "ca7f28cad169fc04a80f92a675710c860209d2244aae11da132f8fba7a6aa6db",
+  "text_path": "documents/pdf-ca7f28cad169fc04a80f92a6/document.txt",
+  "text_sha256": "06dfbf21da0ac95186ac377f6dd49a4c99008ab31b204eb08010328497feb3fd",
+  "topic": "Cieszyn: RIO, NIK, referendum i działania administracji samorządowej"
+}

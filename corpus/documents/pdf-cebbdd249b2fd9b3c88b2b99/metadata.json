@@ -1,0 +1,30 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-cebbdd249b2fd9b3c88b2b99",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-cebbdd249b2fd9b3c88b2b99/document.md",
+  "original_filenames": [
+    "PSY STRÓŻUJĄCE NA SMYCZY OLIGARCHÓW__.pdf"
+  ],
+  "page_characters": [
+    2701,
+    3250,
+    3045
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "d60e83bc9389ab1bfd2d01bdaabe3de113c3e6f65abd320db30c0bd7e67a976f",
+    "75146c64f671a25a9afc2247a3037b7066681b1a02b989111aca54952bbdc5a0",
+    "2681ff7b985d642a0ba9cef2083e96ea2b7d0751756b14cde8fc361f132ec161"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "cebbdd249b2fd9b3c88b2b99fe5d590956e1f33d8f78e92aa00bdc5cba439f0c",
+  "text_path": "documents/pdf-cebbdd249b2fd9b3c88b2b99/document.txt",
+  "text_sha256": "34d116dd91a689ca749ac80b5d040f31221ea5b3032242430ff645323c9a47c0",
+  "topic": "Watchdog Polska: granty i postępowania o dostęp do informacji"
+}

@@ -1,0 +1,30 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-3f611d0553bb811f691f6c19",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-3f611d0553bb811f691f6c19/document.md",
+  "original_filenames": [
+    "SĄDOWE WYROCZNIE POZA KONTROLĄ_.pdf"
+  ],
+  "page_characters": [
+    2596,
+    3293,
+    2393
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "153cb329111daa39f3a78e7889ddabd3963beb0f749fffc6d13753f879b63060",
+    "5e4fd76a2eb841e9bfd3eae124c08504364066525cb5da63bdb4690a8a94c1ad",
+    "f445b268a4ed18fa0379862101f97f6c6e5d12b95541995fd6365ec395cbb150"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "3f611d0553bb811f691f6c198c27943b9ddf47d4230ddea0ba4c680d98e0dece",
+  "text_path": "documents/pdf-3f611d0553bb811f691f6c19/document.txt",
+  "text_sha256": "32ba9ad1ad03b631c5c03e804b087b7bae80b00a38ca1f895dfaf13559a736d6",
+  "topic": "OZSS: opinie, standardy badań i prawa procesowe rodziców"
+}

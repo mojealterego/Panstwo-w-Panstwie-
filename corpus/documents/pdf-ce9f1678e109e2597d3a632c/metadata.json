@@ -1,0 +1,42 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-ce9f1678e109e2597d3a632c",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-ce9f1678e109e2597d3a632c/document.md",
+  "original_filenames": [
+    "Stiftung Mercator_ Śledztwo Finansowe i Wpływy.pdf"
+  ],
+  "page_characters": [
+    2707,
+    3615,
+    3480,
+    3372,
+    3344,
+    3348,
+    3462,
+    3440,
+    1179
+  ],
+  "page_count": 9,
+  "page_sha256": [
+    "7f291d542a10429c9db8b95f57a9ad40e886482e838eb5348b6cc033d35aa4d8",
+    "cf5cf4df63e3c36bceb7c6b100c02be0a2d0c918310676559276eb7e08b3fc89",
+    "1ff1b066bd000c4a761e17d1907ec5849a8441ef6a65f1fb95008455fbeedd3a",
+    "995ad74675f1ba5afcf6428f48e0eb17ab2eacb264c1511f56ee31348a0e1a29",
+    "fc4c05b767dd0f7ad2cf0baee96e7354c07529b659ad5cba95708f2c538d6829",
+    "088df7474556c9655daeba954755174d17678d0bebc85bd37b50e1f326a5cd5b",
+    "26ed44ab938a164aa5f298b1e366243b554ac774a3a89229d3fdbecbb0f8d4e6",
+    "41713124c07388c0e3d1b966b4a24a5e6641d83b26fecd6abef6f302fea64c24",
+    "0a5ea9e2dd74ddf6eb23603039f8207a789326303be397c2abaab80b3c719759"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "ce9f1678e109e2597d3a632cf661e0eae75dd791ea9c710b25140f62d36260c9",
+  "text_path": "documents/pdf-ce9f1678e109e2597d3a632c/document.txt",
+  "text_sha256": "6487637c3ca80d8542a11a0bb2143d36309a858b6c570b3c340bf45f23f863a1",
+  "topic": "Stiftung Mercator: zarządzanie, finansowanie i lobbing"
+}

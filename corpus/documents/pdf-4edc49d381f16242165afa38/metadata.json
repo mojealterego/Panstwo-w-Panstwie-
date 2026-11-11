@@ -1,0 +1,32 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-4edc49d381f16242165afa38",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-4edc49d381f16242165afa38/document.md",
+  "original_filenames": [
+    "SKOK STULECIA NA FUNDUSZ OFIAR  .PDF"
+  ],
+  "page_characters": [
+    2795,
+    3320,
+    3157,
+    77
+  ],
+  "page_count": 4,
+  "page_sha256": [
+    "9c87a47c7e2ea46107433a5eeb47fc2b4ca7df0d0671177f32ff11fac069b60d",
+    "1c5616e19a163c98ca098320d43714c95ba600e42704b4f5726e5f2638327eea",
+    "4b271f785eddc159c96c9576a5b40c4cc0312746e4a102ae268e656fe95571a2",
+    "3afbe7d6d896602cf6c9040c7fd428f221fe32ab952eb39acfb92cdad181dccd"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "check_sparse_pages",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "4edc49d381f16242165afa3836bba32764ee4396299a0a43fa5532e00140814c",
+  "text_path": "documents/pdf-4edc49d381f16242165afa38/document.txt",
+  "text_sha256": "ea62d999e752e75c7da563fda88eb7622a04fd455c5c6bd9eebbab643d3dd0a4",
+  "topic": "Fundusz Sprawiedliwości: NIK, konkursy i Profeto"
+}

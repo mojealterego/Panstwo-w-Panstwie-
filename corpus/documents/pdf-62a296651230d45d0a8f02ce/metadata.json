@@ -1,0 +1,30 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-62a296651230d45d0a8f02ce",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-62a296651230d45d0a8f02ce/document.md",
+  "original_filenames": [
+    "WIRUS W SKÓRZE ANTYWIRUSA__.pdf"
+  ],
+  "page_characters": [
+    2613,
+    3465,
+    2209
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "8af9e6e913e586518a9f99087a4ed744c9e58229cf6c5bb3dc5ffbf746758451",
+    "cc6cb3df0dc83a83f80f825170f3a8a2ccce8c37a48520ec03c02781b3f6bf6c",
+    "af2fd86bad5c59504e3273b085741cba0936ba61156b7c249c32d70b1764e4a8"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "62a296651230d45d0a8f02cec9ff8dfa3b020fde52e9355d9399771c3e316408",
+  "text_path": "documents/pdf-62a296651230d45d0a8f02ce/document.txt",
+  "text_sha256": "cfe49871626d896ef0532817acde613b6debb9d317bc00325de4ed74a522b67f",
+  "topic": "Avast, Jumpshot, FTC i granty dla NGO"
+}

@@ -1,0 +1,30 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-7eabd1647723d2ab929268b4",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-7eabd1647723d2ab929268b4/document.md",
+  "original_filenames": [
+    "SYNDYKAT BEZKARNOŚCI NA WIEJSKIEJ.pdf"
+  ],
+  "page_characters": [
+    2819,
+    3028,
+    2474
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "2293fd9564978fa57297bb498e052f8c8766375dc658c1d57ec0fcbb8f22f527",
+    "03240902f223ce97aabbe772e166ce0a43fdec7476c00625a1f587384851506d",
+    "79b86e5bc0d3086a7d2b7c66e35df97724e75aedd7c01bbb992d1caf494e16cd"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "7eabd1647723d2ab929268b46bc477800727bd02a031c6c84d8ce0d227b43211",
+  "text_path": "documents/pdf-7eabd1647723d2ab929268b4/document.txt",
+  "text_sha256": "85358a3258b9e4901a82c7e6b46d3ea098f663b73f6749efb3b6be6e722c085d",
+  "topic": "Senat RP: prawo rodzinne i procedury przeciwdziałania przemocy"
+}

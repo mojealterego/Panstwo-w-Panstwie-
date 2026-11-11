@@ -1,0 +1,30 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-e05a43a8624c13df5767a173",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-e05a43a8624c13df5767a173/document.md",
+  "original_filenames": [
+    "SZWAJCARSKI SEJF I KONTROLA UMYSŁÓW.pdf"
+  ],
+  "page_characters": [
+    2754,
+    3175,
+    1994
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "8aab3961be7190cf384953c031cf6115ee05fe48cfca5c8b6b577340a5c93dda",
+    "7f31f97a0f0a8e509208709309eaebd8fcdad6508774816ed266f547d500f571",
+    "2369ca1e0d7e83bf826f423bebcff747917823337a980b20037d21fee2592fa2"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "e05a43a8624c13df5767a1734e2ce51ec9eeb8d45effe9c167166dd9a8b2c0f9",
+  "text_path": "documents/pdf-e05a43a8624c13df5767a173/document.txt",
+  "text_sha256": "88daed5fb866946ee09b1ead2908990d578a78f5f393f1d4301de9ae9dc9d3f1",
+  "topic": "Oak Foundation: granty, Chat Control i lobbing"
+}

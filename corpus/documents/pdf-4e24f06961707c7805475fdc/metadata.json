@@ -1,0 +1,30 @@
+{
+  "author_review": {
+    "publication_scope": "partial_declared_not_individually_mapped",
+    "self_verified": true
+  },
+  "document_id": "pdf-4e24f06961707c7805475fdc",
+  "fact_check_status": "author_declares_verified_not_independently_audited",
+  "markdown_path": "documents/pdf-4e24f06961707c7805475fdc/document.md",
+  "original_filenames": [
+    "TRYBUNAŁY ZA KAWIOR I ZŁOTO__.pdf"
+  ],
+  "page_characters": [
+    2875,
+    3359,
+    2155
+  ],
+  "page_count": 3,
+  "page_sha256": [
+    "f64005c58c5904794d445826b117396b07024a51852287cf428c47e70d1eaaa0",
+    "79605da27838323082da91518688e097e26ed6fb54605f0d931d66b97b997fc5",
+    "49866e6eb538aedfcbdefbeff386af35db54a384f6a91d8bce51a686c63bef53"
+  ],
+  "provenance_note": "Original PDF byte-preserved. Author statement is not an independently adjudicated fact claim.",
+  "quality_status": "extracted",
+  "source_kind": "user_supplied_pdf",
+  "source_sha256": "4e24f06961707c7805475fdc66536f9040b35eacff519563bd52a498654c6845",
+  "text_path": "documents/pdf-4e24f06961707c7805475fdc/document.txt",
+  "text_sha256": "21067d2c276d797d3b1d811d1b88b86c599807c8eb8262a1f9f4ac7ac694c09e",
+  "topic": "Rada Europy, PACE, GREVIO i Konwencja stambulska"
+}
